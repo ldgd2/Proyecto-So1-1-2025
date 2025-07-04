@@ -1,0 +1,1638 @@
+fileFormatVersion: 2
+guid: f144b55418c909a4f9ccddf50c01f924
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2424703701226443138
+    second: sansFight_tex_0
+  - first:
+      213: -8620231569279526852
+    second: sansFight_tex_1
+  - first:
+      213: 1984844812784102797
+    second: sansFight_tex_2
+  - first:
+      213: 6712720867477726476
+    second: sansFight_tex_3
+  - first:
+      213: 3759995836039996831
+    second: sansFight_tex_4
+  - first:
+      213: 5126571524131901172
+    second: sansFight_tex_5
+  - first:
+      213: 2744597352820073219
+    second: sansFight_tex_6
+  - first:
+      213: 6107367566919784817
+    second: sansFight_tex_7
+  - first:
+      213: -1929986889439147721
+    second: sansFight_tex_8
+  - first:
+      213: 8641151003346053361
+    second: sansFight_tex_9
+  - first:
+      213: 451207630077120179
+    second: sansFight_tex_10
+  - first:
+      213: 1221137162933678169
+    second: sansFight_tex_11
+  - first:
+      213: 2763010957541297872
+    second: sansFight_tex_12
+  - first:
+      213: -4972670196790975081
+    second: sansFight_tex_13
+  - first:
+      213: 7116957942811062584
+    second: sansFight_tex_14
+  - first:
+      213: 3258416481431890427
+    second: sansFight_tex_15
+  - first:
+      213: -3317398027986000274
+    second: sansFight_tex_16
+  - first:
+      213: -2962473298877779298
+    second: sansFight_tex_17
+  - first:
+      213: -5856312015636961337
+    second: sansFight_tex_18
+  - first:
+      213: -953315992219882908
+    second: sansFight_tex_19
+  - first:
+      213: 9012445434304409016
+    second: sansFight_tex_20
+  - first:
+      213: -8352685056919391334
+    second: sansFight_tex_21
+  - first:
+      213: 5712262889659884540
+    second: sansFight_tex_22
+  - first:
+      213: 4893020584815839534
+    second: sansFight_tex_23
+  - first:
+      213: -2032315822471977847
+    second: sansFight_tex_24
+  - first:
+      213: 8123848350536087727
+    second: sansFight_tex_25
+  - first:
+      213: -6489574482338574397
+    second: sansFight_tex_26
+  - first:
+      213: -8837167555730229370
+    second: sansFight_tex_27
+  - first:
+      213: 5097398945281752877
+    second: sansFight_tex_28
+  - first:
+      213: 2306719371393053430
+    second: sansFight_tex_29
+  - first:
+      213: 7168066144249195954
+    second: sansFight_tex_30
+  - first:
+      213: 8029885128310828185
+    second: sansFight_tex_31
+  - first:
+      213: -6185080447465008872
+    second: sansFight_tex_32
+  - first:
+      213: 6571604176193754518
+    second: sansFight_tex_33
+  - first:
+      213: 7487207465160543316
+    second: sansFight_tex_34
+  - first:
+      213: 8125985234844898602
+    second: sansFight_tex_35
+  - first:
+      213: -8075006892573511804
+    second: sansFight_tex_36
+  - first:
+      213: -4055844609193337542
+    second: sansFight_tex_37
+  - first:
+      213: 3267218085976459608
+    second: sansFight_tex_38
+  - first:
+      213: 9181098815238165596
+    second: sansFight_tex_39
+  - first:
+      213: -5966432195152577982
+    second: sansFight_tex_40
+  - first:
+      213: 2093459945771498865
+    second: sansFight_tex_41
+  - first:
+      213: -7036380221848282207
+    second: sansFight_tex_42
+  - first:
+      213: 819548469556140071
+    second: sansFight_tex_43
+  - first:
+      213: 6884901059093827729
+    second: sansFight_tex_44
+  - first:
+      213: -3746069361012284343
+    second: sansFight_tex_45
+  - first:
+      213: 3768726395135669684
+    second: sansFight_tex_46
+  - first:
+      213: -2017004924268504096
+    second: sansFight_tex_47
+  - first:
+      213: 7788978947803412514
+    second: sansFight_tex_48
+  - first:
+      213: -5322139834073634889
+    second: sansFight_tex_49
+  - first:
+      213: 3212751580347001423
+    second: sansFight_tex_50
+  - first:
+      213: -4034023309590454227
+    second: sansFight_tex_51
+  - first:
+      213: 1761047244951561666
+    second: sansFight_tex_52
+  - first:
+      213: -5365152142322260665
+    second: sansFight_tex_53
+  - first:
+      213: 3646186393192245027
+    second: sansFight_tex_54
+  - first:
+      213: 928244006440623807
+    second: sansFight_tex_55
+  - first:
+      213: -5947270495000735866
+    second: sansFight_tex_56
+  - first:
+      213: -3400080902656208882
+    second: sansFight_tex_57
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sansFight_tex_0
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 944
+        width: 56
+        height: 70
+      alignment: 9
+      pivot: {x: 0.43699917, y: 0.27867606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ea2d294d8b95ed0800000000000000
+      internalID: -2424703701226443138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_1
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 934
+        width: 100
+        height: 81
+      alignment: 9
+      pivot: {x: 0.34507293, y: 0.32577628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c385c774f09ce5880800000000000000
+      internalID: -8620231569279526852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 845
+        width: 100
+        height: 81
+      alignment: 9
+      pivot: {x: 0.3450729, y: 0.3276691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8de54057d59b8b10800000000000000
+      internalID: 1984844812784102797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 845
+        width: 100
+        height: 81
+      alignment: 9
+      pivot: {x: 0.34471023, y: 0.32784244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05ac5e3010682d50800000000000000
+      internalID: 6712720867477726476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 852
+        width: 56
+        height: 73
+      alignment: 9
+      pivot: {x: 0.49308315, y: 0.26831305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95ac14aa403e2430800000000000000
+      internalID: 3759995836039996831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 852
+        width: 56
+        height: 73
+      alignment: 9
+      pivot: {x: 0.49077716, y: 0.27184975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fec383b3ad352740800000000000000
+      internalID: 5126571524131901172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_6
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 843
+        width: 56
+        height: 72
+      alignment: 9
+      pivot: {x: 0.52535903, y: 0.27047306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303615a30c4c61620800000000000000
+      internalID: 2744597352820073219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 753
+        width: 56
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5276659, y: 0.26654387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179def2a17ab1c450800000000000000
+      internalID: 6107367566919784817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 754
+        width: 56
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5253602, y: 0.2700814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73981d9462f4735e0800000000000000
+      internalID: -1929986889439147721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_9
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 760
+        width: 56
+        height: 72
+      alignment: 9
+      pivot: {x: 0.45619556, y: 0.27226767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8a3f40e098be770800000000000000
+      internalID: 8641151003346053361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 760
+        width: 56
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5253601, y: 0.27047476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be41bee2f2034600800000000000000
+      internalID: 451207630077120179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_11
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 751
+        width: 56
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5253596, y: 0.27226767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950b0b2a7c952f010800000000000000
+      internalID: 1221137162933678169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 662
+        width: 56
+        height: 73
+      alignment: 9
+      pivot: {x: 0.49077776, y: 0.26831222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dec2caa3df285620800000000000000
+      internalID: 2763010957541297872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 663
+        width: 56
+        height: 72
+      alignment: 9
+      pivot: {x: 0.49077782, y: 0.27047476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7952a176dc68dfab0800000000000000
+      internalID: -4972670196790975081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_14
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 668
+        width: 56
+        height: 72
+      alignment: 9
+      pivot: {x: 0.45388985, y: 0.27406058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831f5aeaa8384c260800000000000000
+      internalID: 7116957942811062584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_15
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 669
+        width: 56
+        height: 72
+      alignment: 9
+      pivot: {x: 0.4907777, y: 0.2704739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9a60aa688383d20800000000000000
+      internalID: 3258416481431890427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_16
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 659
+        width: 56
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5414985, y: 0.27226767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e662053e11c36f1d0800000000000000
+      internalID: -3317398027986000274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 659
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e927fc30b3e23e6d0800000000000000
+      internalID: -2962473298877779298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 571
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c76b16ff333abea0800000000000000
+      internalID: -5856312015636961337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 572
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ae80de72425c2f0800000000000000
+      internalID: -953315992219882908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_20
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 577
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd2e4d5f53a21d70800000000000000
+      internalID: 9012445434304409016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_21
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 577
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a933b95f13d451c80800000000000000
+      internalID: -8352685056919391334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_22
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 569
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3e2d155d8064f40800000000000000
+      internalID: 5712262889659884540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_23
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 569
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e294f9c2c4087e340800000000000000
+      internalID: 4893020584815839534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 481
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984e622f683cbc3e0800000000000000
+      internalID: -2032315822471977847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_25
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 482
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8b8d66805bdb070800000000000000
+      internalID: 8123848350536087727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_26
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 487
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf05cc346660f5a0800000000000000
+      internalID: -6489574482338574397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_27
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 486
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687b71cede21c5580800000000000000
+      internalID: -8837167555730229370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_28
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 478
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f38f365599db640800000000000000
+      internalID: 5097398945281752877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 479
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f23568fb0d130020800000000000000
+      internalID: 2306719371393053430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 391
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd2a7e1e261a7360800000000000000
+      internalID: 7168066144249195954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_31
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 391
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ca824eaf1ef6f60800000000000000
+      internalID: 8029885128310828185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_32
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 396
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81152ad5a1e2a2aa0800000000000000
+      internalID: -6185080447465008872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_33
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 396
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695908e2e27033b50800000000000000
+      internalID: 6571604176193754518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_34
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 388
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c0c884587e7e760800000000000000
+      internalID: 7487207465160543316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 389
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25dffc848c45c070800000000000000
+      internalID: 8125985234844898602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 302
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f2351b300dfef80800000000000000
+      internalID: -8075006892573511804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 302
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d19d411deb6b7c0800000000000000
+      internalID: -4055844609193337542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_38
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 306
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859cb5ae98d775d20800000000000000
+      internalID: 3267218085976459608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_39
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 307
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54d70a9ab0d96f70800000000000000
+      internalID: 9181098815238165596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_40
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 299
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24af97fa789f23da0800000000000000
+      internalID: -5966432195152577982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_41
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17df733aab67d0d10800000000000000
+      internalID: 2093459945771498865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 214
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab1624f771c95e90800000000000000
+      internalID: -7036380221848282207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_43
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 214
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728db1cadfe9f5b00800000000000000
+      internalID: 819548469556140071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_44
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 217
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1909ff419051c8f50800000000000000
+      internalID: 6884901059093827729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_45
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 219
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94463e083c9430cc0800000000000000
+      internalID: -3746069361012284343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_46
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 211
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b533b550b43d4430800000000000000
+      internalID: 3768726395135669684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_47
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 209
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb13ca35b82204e0800000000000000
+      internalID: -2017004924268504096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_48
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 127
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22871d2d513081c60800000000000000
+      internalID: 7788978947803412514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_49
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 128
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7a511d406f326b0800000000000000
+      internalID: -5322139834073634889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_50
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 129
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a682a5a8cf59c20800000000000000
+      internalID: 3212751580347001423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_51
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 122
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2027305c254408c0800000000000000
+      internalID: -4034023309590454227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 121
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5a40c832f707810800000000000000
+      internalID: 1761047244951561666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_53
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 41
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745a4f66d862b85b0800000000000000
+      internalID: -5365152142322260665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_54
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 43
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327261fc43bd99230800000000000000
+      internalID: 3646186393192245027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_55
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 41
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe57cc7109c1ec00800000000000000
+      internalID: 928244006440623807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_56
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 33
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fc15aaefc077da0800000000000000
+      internalID: -5947270495000735866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sansFight_tex_57
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 34
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e005695fe6c70d0d0800000000000000
+      internalID: -3400080902656208882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: da47ea34209373441a12ea3c6804fb88
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sansFight_tex_0: -2424703701226443138
+      sansFight_tex_1: -8620231569279526852
+      sansFight_tex_10: 451207630077120179
+      sansFight_tex_11: 1221137162933678169
+      sansFight_tex_12: 2763010957541297872
+      sansFight_tex_13: -4972670196790975081
+      sansFight_tex_14: 7116957942811062584
+      sansFight_tex_15: 3258416481431890427
+      sansFight_tex_16: -3317398027986000274
+      sansFight_tex_17: -2962473298877779298
+      sansFight_tex_18: -5856312015636961337
+      sansFight_tex_19: -953315992219882908
+      sansFight_tex_2: 1984844812784102797
+      sansFight_tex_20: 9012445434304409016
+      sansFight_tex_21: -8352685056919391334
+      sansFight_tex_22: 5712262889659884540
+      sansFight_tex_23: 4893020584815839534
+      sansFight_tex_24: -2032315822471977847
+      sansFight_tex_25: 8123848350536087727
+      sansFight_tex_26: -6489574482338574397
+      sansFight_tex_27: -8837167555730229370
+      sansFight_tex_28: 5097398945281752877
+      sansFight_tex_29: 2306719371393053430
+      sansFight_tex_3: 6712720867477726476
+      sansFight_tex_30: 7168066144249195954
+      sansFight_tex_31: 8029885128310828185
+      sansFight_tex_32: -6185080447465008872
+      sansFight_tex_33: 6571604176193754518
+      sansFight_tex_34: 7487207465160543316
+      sansFight_tex_35: 8125985234844898602
+      sansFight_tex_36: -8075006892573511804
+      sansFight_tex_37: -4055844609193337542
+      sansFight_tex_38: 3267218085976459608
+      sansFight_tex_39: 9181098815238165596
+      sansFight_tex_4: 3759995836039996831
+      sansFight_tex_40: -5966432195152577982
+      sansFight_tex_41: 2093459945771498865
+      sansFight_tex_42: -7036380221848282207
+      sansFight_tex_43: 819548469556140071
+      sansFight_tex_44: 6884901059093827729
+      sansFight_tex_45: -3746069361012284343
+      sansFight_tex_46: 3768726395135669684
+      sansFight_tex_47: -2017004924268504096
+      sansFight_tex_48: 7788978947803412514
+      sansFight_tex_49: -5322139834073634889
+      sansFight_tex_5: 5126571524131901172
+      sansFight_tex_50: 3212751580347001423
+      sansFight_tex_51: -4034023309590454227
+      sansFight_tex_52: 1761047244951561666
+      sansFight_tex_53: -5365152142322260665
+      sansFight_tex_54: 3646186393192245027
+      sansFight_tex_55: 928244006440623807
+      sansFight_tex_56: -5947270495000735866
+      sansFight_tex_57: -3400080902656208882
+      sansFight_tex_6: 2744597352820073219
+      sansFight_tex_7: 6107367566919784817
+      sansFight_tex_8: -1929986889439147721
+      sansFight_tex_9: 8641151003346053361
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

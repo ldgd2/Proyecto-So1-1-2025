@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: c657e9046959c534aa8c219dd4d11eeb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3076187954304902266
+    second: sprCitylineUnlock_0
+  - first:
+      213: -6458469984750113850
+    second: sprCitylineUnlock_1
+  - first:
+      213: -2149515809921249794
+    second: sprCitylineUnlock_2
+  - first:
+      213: -1212855078877839254
+    second: sprCitylineUnlock_3
+  - first:
+      213: -2442073558171634321
+    second: sprCitylineUnlock_4
+  - first:
+      213: -3151215205426800213
+    second: sprCitylineUnlock_5
+  - first:
+      213: -8366968876660049095
+    second: sprCitylineUnlock_6
+  - first:
+      213: -2894011191074309758
+    second: sprCitylineUnlock_7
+  - first:
+      213: 7759957138560239786
+    second: sprCitylineUnlock_8
+  - first:
+      213: -7008188793218337683
+    second: sprCitylineUnlock_9
+  - first:
+      213: -6546627245976356161
+    second: sprCitylineUnlock_10
+  - first:
+      213: 66519168578892617
+    second: sprCitylineUnlock_11
+  - first:
+      213: 6570891225663628031
+    second: sprCitylineUnlock_12
+  - first:
+      213: 2883063666708410015
+    second: sprCitylineUnlock_13
+  - first:
+      213: 551964870025697801
+    second: sprCitylineUnlock_14
+  - first:
+      213: 4790886433377269763
+    second: sprCitylineUnlock_15
+  - first:
+      213: -8135760901894608675
+    second: sprCitylineUnlock_16
+  - first:
+      213: 952164175242516369
+    second: sprCitylineUnlock_17
+  - first:
+      213: -6398247378718347649
+    second: sprCitylineUnlock_18
+  - first:
+      213: 5538769332777285058
+    second: sprCitylineUnlock_19
+  - first:
+      213: -2416526159310243844
+    second: sprCitylineUnlock_20
+  - first:
+      213: 8272791584104397516
+    second: sprCitylineUnlock_21
+  - first:
+      213: -5944379524066545480
+    second: sprCitylineUnlock_22
+  - first:
+      213: 4067534967139038301
+    second: sprCitylineUnlock_23
+  - first:
+      213: 754923115464797698
+    second: sprCitylineUnlock_24
+  - first:
+      213: 5660321876451064730
+    second: sprCitylineUnlock_25
+  - first:
+      213: -8433856655483985995
+    second: sprCitylineUnlock_26
+  - first:
+      213: 4858494065891095809
+    second: sprCitylineUnlock_27
+  - first:
+      213: -6502088520061085563
+    second: sprCitylineUnlock_28
+  - first:
+      213: -4331890632676665782
+    second: sprCitylineUnlock_29
+  - first:
+      213: 7006588761404290808
+    second: sprCitylineUnlock_30
+  - first:
+      213: -7088880047388334167
+    second: sprCitylineUnlock_31
+  - first:
+      213: -3252070728556918830
+    second: sprCitylineUnlock_32
+  - first:
+      213: 9096950111611958654
+    second: sprCitylineUnlock_33
+  - first:
+      213: -2579128093148001095
+    second: sprCitylineUnlock_34
+  - first:
+      213: -6682095873436349609
+    second: sprCitylineUnlock_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprCitylineUnlock_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74eda665a0d0ba20800000000000000
+      internalID: 3076187954304902266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 18
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb627e64c7ee56a0800000000000000
+      internalID: -6458469984750113850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 62
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdce8e62c26b22e0800000000000000
+      internalID: -2149515809921249794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 63
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6045735bb21b2fe0800000000000000
+      internalID: -1212855078877839254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 33
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f653ec999030c1ed0800000000000000
+      internalID: -2442073558171634321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 63
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9d9bd6772a444d0800000000000000
+      internalID: -3151215205426800213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 33
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bbde3032e82eb80800000000000000
+      internalID: -8366968876660049095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_7
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 18
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289b204a72866d7d0800000000000000
+      internalID: -2894011191074309758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 62
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8c32c47e7e0bb60800000000000000
+      internalID: 7759957138560239786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64f85d6c69edbe90800000000000000
+      internalID: -7008188793218337683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_10
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba7fae8435b525a0800000000000000
+      internalID: -6546627245976356161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_11
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 0
+        width: 18
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94336e5d4d25ce000800000000000000
+      internalID: 66519168578892617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_12
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 0
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2696371ce703b50800000000000000
+      internalID: 6570891225663628031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_13
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 0
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e6df63123b20820800000000000000
+      internalID: 2883063666708410015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_14
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 18
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a5066ff19f8a700800000000000000
+      internalID: 551964870025697801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_15
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 0
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308b0b4f3d5ac7240800000000000000
+      internalID: 4790886433377269763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd86f099098f71f80800000000000000
+      internalID: -8135760901894608675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197de29c544c63d00800000000000000
+      internalID: 952164175242516369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_18
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 39
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e2b6e88ebd437a0800000000000000
+      internalID: -6398247378718347649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5740dcc59addc40800000000000000
+      internalID: 5538769332777285058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_20
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7bfdbe246c67ed0800000000000000
+      internalID: -2416526159310243844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_21
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca32675d1cdec270800000000000000
+      internalID: 8272791584104397516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_22
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b078e94152518da0800000000000000
+      internalID: -5944379524066545480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_23
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 0
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d547dcb7089c27830800000000000000
+      internalID: 4067534967139038301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_24
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 39
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ea202e2960a7a00800000000000000
+      internalID: 754923115464797698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_25
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 0
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bfc38c1c08d8e40800000000000000
+      internalID: 5660321876451064730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_26
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf105b6e0ce4fa80800000000000000
+      internalID: -8433856655483985995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_27
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10538cc8c96dc6340800000000000000
+      internalID: 4858494065891095809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_28
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 0
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5881d97c0f0f3c5a0800000000000000
+      internalID: -6502088520061085563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_29
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a461771cb6802e3c0800000000000000
+      internalID: -4331890632676665782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_30
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f63fb22b576c3160800000000000000
+      internalID: 7006588761404290808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_31
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 0
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a76018c72d3f9d90800000000000000
+      internalID: -7088880047388334167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_32
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 0
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d74bef07e25ed2d0800000000000000
+      internalID: -3252070728556918830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_33
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 0
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75b416cdebde3e70800000000000000
+      internalID: 9096950111611958654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_34
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bccea10aa8153cd0800000000000000
+      internalID: -2579128093148001095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprCitylineUnlock_35
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b09b4d43d6443a0800000000000000
+      internalID: -6682095873436349609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprCitylineUnlock_0: 3076187954304902266
+      sprCitylineUnlock_1: -6458469984750113850
+      sprCitylineUnlock_10: -6546627245976356161
+      sprCitylineUnlock_11: 66519168578892617
+      sprCitylineUnlock_12: 6570891225663628031
+      sprCitylineUnlock_13: 2883063666708410015
+      sprCitylineUnlock_14: 551964870025697801
+      sprCitylineUnlock_15: 4790886433377269763
+      sprCitylineUnlock_16: -8135760901894608675
+      sprCitylineUnlock_17: 952164175242516369
+      sprCitylineUnlock_18: -6398247378718347649
+      sprCitylineUnlock_19: 5538769332777285058
+      sprCitylineUnlock_2: -2149515809921249794
+      sprCitylineUnlock_20: -2416526159310243844
+      sprCitylineUnlock_21: 8272791584104397516
+      sprCitylineUnlock_22: -5944379524066545480
+      sprCitylineUnlock_23: 4067534967139038301
+      sprCitylineUnlock_24: 754923115464797698
+      sprCitylineUnlock_25: 5660321876451064730
+      sprCitylineUnlock_26: -8433856655483985995
+      sprCitylineUnlock_27: 4858494065891095809
+      sprCitylineUnlock_28: -6502088520061085563
+      sprCitylineUnlock_29: -4331890632676665782
+      sprCitylineUnlock_3: -1212855078877839254
+      sprCitylineUnlock_30: 7006588761404290808
+      sprCitylineUnlock_31: -7088880047388334167
+      sprCitylineUnlock_32: -3252070728556918830
+      sprCitylineUnlock_33: 9096950111611958654
+      sprCitylineUnlock_34: -2579128093148001095
+      sprCitylineUnlock_35: -6682095873436349609
+      sprCitylineUnlock_4: -2442073558171634321
+      sprCitylineUnlock_5: -3151215205426800213
+      sprCitylineUnlock_6: -8366968876660049095
+      sprCitylineUnlock_7: -2894011191074309758
+      sprCitylineUnlock_8: 7759957138560239786
+      sprCitylineUnlock_9: -7008188793218337683
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

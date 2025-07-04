@@ -1,0 +1,5616 @@
+fileFormatVersion: 2
+guid: 769a147e0af1577458d9827e7c0103d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1674127423144629982
+    second: rmJungleReturn_0
+  - first:
+      213: 1815722170733581332
+    second: rmJungleReturn_1
+  - first:
+      213: -3669320869728371498
+    second: rmJungleReturn_2
+  - first:
+      213: 4613354298431294113
+    second: rmJungleReturn_3
+  - first:
+      213: -4990045313799578498
+    second: rmJungleReturn_4
+  - first:
+      213: -3300809416529020078
+    second: rmJungleReturn_5
+  - first:
+      213: -7551751181958087453
+    second: rmJungleReturn_6
+  - first:
+      213: -6963269268396331148
+    second: rmJungleReturn_7
+  - first:
+      213: -2030818891397592184
+    second: rmJungleReturn_8
+  - first:
+      213: -5767047151273284482
+    second: rmJungleReturn_9
+  - first:
+      213: 8265288369150041083
+    second: rmJungleReturn_10
+  - first:
+      213: -1443652055133904721
+    second: rmJungleReturn_11
+  - first:
+      213: 1094522934767227042
+    second: rmJungleReturn_12
+  - first:
+      213: -1331756889081075942
+    second: rmJungleReturn_13
+  - first:
+      213: -9208890753001494740
+    second: rmJungleReturn_14
+  - first:
+      213: 7287290030214116691
+    second: rmJungleReturn_15
+  - first:
+      213: -6988036980312145775
+    second: rmJungleReturn_16
+  - first:
+      213: -8995525123790454208
+    second: rmJungleReturn_17
+  - first:
+      213: 8544461030227474196
+    second: rmJungleReturn_18
+  - first:
+      213: 249901667005461984
+    second: rmJungleReturn_19
+  - first:
+      213: 5876316911467845729
+    second: rmJungleReturn_20
+  - first:
+      213: 231574040056636286
+    second: rmJungleReturn_21
+  - first:
+      213: 2690676419872124941
+    second: rmJungleReturn_22
+  - first:
+      213: 6519379174508299807
+    second: rmJungleReturn_23
+  - first:
+      213: 2965375746536122225
+    second: rmJungleReturn_24
+  - first:
+      213: -1673161034402250872
+    second: rmJungleReturn_25
+  - first:
+      213: -381943869527298019
+    second: rmJungleReturn_26
+  - first:
+      213: -5240151264969620740
+    second: rmJungleReturn_27
+  - first:
+      213: 4406670272538670417
+    second: rmJungleReturn_28
+  - first:
+      213: -6806850091590404142
+    second: rmJungleReturn_29
+  - first:
+      213: -5285394097335717416
+    second: rmJungleReturn_30
+  - first:
+      213: 1697473705916365809
+    second: rmJungleReturn_31
+  - first:
+      213: -8023692344971354174
+    second: rmJungleReturn_32
+  - first:
+      213: 4974348605325721867
+    second: rmJungleReturn_33
+  - first:
+      213: -2190887716288619962
+    second: rmJungleReturn_34
+  - first:
+      213: -3716315411279085694
+    second: rmJungleReturn_35
+  - first:
+      213: -4058907732085795687
+    second: rmJungleReturn_36
+  - first:
+      213: 8700831104372827456
+    second: rmJungleReturn_37
+  - first:
+      213: -5358475954989681764
+    second: rmJungleReturn_38
+  - first:
+      213: 4133770222207687867
+    second: rmJungleReturn_39
+  - first:
+      213: -4916680301393247425
+    second: rmJungleReturn_40
+  - first:
+      213: 21268220742225455
+    second: rmJungleReturn_41
+  - first:
+      213: 8784157781198246443
+    second: rmJungleReturn_42
+  - first:
+      213: 2204530821471455273
+    second: rmJungleReturn_43
+  - first:
+      213: -5186042139856478596
+    second: rmJungleReturn_44
+  - first:
+      213: 7250067122811763129
+    second: rmJungleReturn_45
+  - first:
+      213: -5851336467139544638
+    second: rmJungleReturn_46
+  - first:
+      213: 6661016828958227535
+    second: rmJungleReturn_47
+  - first:
+      213: -5282281366041211906
+    second: rmJungleReturn_48
+  - first:
+      213: -6396269909973317044
+    second: rmJungleReturn_49
+  - first:
+      213: 5002758276811915204
+    second: rmJungleReturn_50
+  - first:
+      213: 7493265572925068134
+    second: rmJungleReturn_51
+  - first:
+      213: -2589339507412087046
+    second: rmJungleReturn_52
+  - first:
+      213: 7544308642863366818
+    second: rmJungleReturn_53
+  - first:
+      213: -4738930324739457910
+    second: rmJungleReturn_54
+  - first:
+      213: -6113911051311862496
+    second: rmJungleReturn_55
+  - first:
+      213: -6342152350680484404
+    second: rmJungleReturn_56
+  - first:
+      213: -3284030174981846911
+    second: rmJungleReturn_57
+  - first:
+      213: -8287392603753445057
+    second: rmJungleReturn_58
+  - first:
+      213: -1366581938385272715
+    second: rmJungleReturn_59
+  - first:
+      213: -18966734733049584
+    second: rmJungleReturn_60
+  - first:
+      213: -3519643548766567332
+    second: rmJungleReturn_61
+  - first:
+      213: 8425069575467664929
+    second: rmJungleReturn_62
+  - first:
+      213: 6545899830907294579
+    second: rmJungleReturn_63
+  - first:
+      213: -2810029940690453127
+    second: rmJungleReturn_64
+  - first:
+      213: -8912043860224583906
+    second: rmJungleReturn_65
+  - first:
+      213: -6979142607752671643
+    second: rmJungleReturn_66
+  - first:
+      213: -4435543266899999976
+    second: rmJungleReturn_67
+  - first:
+      213: -5155811126566059890
+    second: rmJungleReturn_68
+  - first:
+      213: 3986562264961928411
+    second: rmJungleReturn_69
+  - first:
+      213: -4467740490065493066
+    second: rmJungleReturn_70
+  - first:
+      213: -6481592569047750652
+    second: rmJungleReturn_71
+  - first:
+      213: -1216512421689578551
+    second: rmJungleReturn_72
+  - first:
+      213: -7990060394101453851
+    second: rmJungleReturn_73
+  - first:
+      213: 7687297864162559994
+    second: rmJungleReturn_74
+  - first:
+      213: 6387456750523214561
+    second: rmJungleReturn_75
+  - first:
+      213: -1915865375942074360
+    second: rmJungleReturn_76
+  - first:
+      213: 1967568029264508084
+    second: rmJungleReturn_77
+  - first:
+      213: 38041381232354619
+    second: rmJungleReturn_78
+  - first:
+      213: -8450165866601686993
+    second: rmJungleReturn_79
+  - first:
+      213: 5482396364454802911
+    second: rmJungleReturn_80
+  - first:
+      213: -5538115482770964406
+    second: rmJungleReturn_81
+  - first:
+      213: -6695449595573868980
+    second: rmJungleReturn_82
+  - first:
+      213: 6808689210541151138
+    second: rmJungleReturn_83
+  - first:
+      213: -3297356337104634673
+    second: rmJungleReturn_84
+  - first:
+      213: 1606568165881170470
+    second: rmJungleReturn_85
+  - first:
+      213: 7269138234612037528
+    second: rmJungleReturn_86
+  - first:
+      213: 3823766554565473921
+    second: rmJungleReturn_87
+  - first:
+      213: -2415627749660619737
+    second: rmJungleReturn_88
+  - first:
+      213: -6589421994098023509
+    second: rmJungleReturn_89
+  - first:
+      213: 1642914086702620530
+    second: rmJungleReturn_90
+  - first:
+      213: 3689088012066675541
+    second: rmJungleReturn_91
+  - first:
+      213: 4505702035225078182
+    second: rmJungleReturn_92
+  - first:
+      213: 2538625348791560728
+    second: rmJungleReturn_93
+  - first:
+      213: 2232488803634326761
+    second: rmJungleReturn_94
+  - first:
+      213: 1390499698160573714
+    second: rmJungleReturn_95
+  - first:
+      213: 3689236155550450262
+    second: rmJungleReturn_96
+  - first:
+      213: 1193184254313648615
+    second: rmJungleReturn_97
+  - first:
+      213: 1526821627975300074
+    second: rmJungleReturn_98
+  - first:
+      213: -1380806398741384956
+    second: rmJungleReturn_99
+  - first:
+      213: 6463129270482391463
+    second: rmJungleReturn_100
+  - first:
+      213: -978299268254177991
+    second: rmJungleReturn_101
+  - first:
+      213: 336814303040016613
+    second: rmJungleReturn_102
+  - first:
+      213: -8363545760630559886
+    second: rmJungleReturn_103
+  - first:
+      213: -7925168490374042654
+    second: rmJungleReturn_104
+  - first:
+      213: -371090091640743767
+    second: rmJungleReturn_105
+  - first:
+      213: 4848979484740427970
+    second: rmJungleReturn_106
+  - first:
+      213: 3804543735435398055
+    second: rmJungleReturn_107
+  - first:
+      213: -5047246585128441900
+    second: rmJungleReturn_108
+  - first:
+      213: 1392553467263330887
+    second: rmJungleReturn_109
+  - first:
+      213: 2512372864714186402
+    second: rmJungleReturn_110
+  - first:
+      213: 965065118788545861
+    second: rmJungleReturn_111
+  - first:
+      213: 6220217238345134987
+    second: rmJungleReturn_112
+  - first:
+      213: 5553488727271989316
+    second: rmJungleReturn_113
+  - first:
+      213: -7907690781974524112
+    second: rmJungleReturn_114
+  - first:
+      213: 4035878820767122438
+    second: rmJungleReturn_115
+  - first:
+      213: 8230328185106723080
+    second: rmJungleReturn_116
+  - first:
+      213: 5752042173548326101
+    second: rmJungleReturn_117
+  - first:
+      213: -8761783824037074647
+    second: rmJungleReturn_118
+  - first:
+      213: -7926376844746428903
+    second: rmJungleReturn_119
+  - first:
+      213: -5980118066410256170
+    second: rmJungleReturn_120
+  - first:
+      213: -2745460809866289326
+    second: rmJungleReturn_121
+  - first:
+      213: 538570349229969420
+    second: rmJungleReturn_122
+  - first:
+      213: -1324929699707733975
+    second: rmJungleReturn_123
+  - first:
+      213: 374097880020983961
+    second: rmJungleReturn_124
+  - first:
+      213: -1232552953511368065
+    second: rmJungleReturn_125
+  - first:
+      213: 5936267568263741960
+    second: rmJungleReturn_126
+  - first:
+      213: 619922932164933117
+    second: rmJungleReturn_127
+  - first:
+      213: 8587274988556223323
+    second: rmJungleReturn_128
+  - first:
+      213: 3586532612003493034
+    second: rmJungleReturn_129
+  - first:
+      213: 1941713295078298427
+    second: rmJungleReturn_130
+  - first:
+      213: -1450111761641023469
+    second: rmJungleReturn_131
+  - first:
+      213: -9134855799391028459
+    second: rmJungleReturn_132
+  - first:
+      213: 7613587788209244081
+    second: rmJungleReturn_133
+  - first:
+      213: -4286030287285626608
+    second: rmJungleReturn_134
+  - first:
+      213: -1511935992603480365
+    second: rmJungleReturn_135
+  - first:
+      213: 2334663072761347405
+    second: rmJungleReturn_136
+  - first:
+      213: 2785550660559469285
+    second: rmJungleReturn_137
+  - first:
+      213: 2398030581513396843
+    second: rmJungleReturn_138
+  - first:
+      213: 2196359800900456441
+    second: rmJungleReturn_139
+  - first:
+      213: 1527653083467812786
+    second: rmJungleReturn_140
+  - first:
+      213: 7833654311051350605
+    second: rmJungleReturn_141
+  - first:
+      213: -6907829687474184066
+    second: rmJungleReturn_142
+  - first:
+      213: 1308095801068922156
+    second: rmJungleReturn_143
+  - first:
+      213: -6574145199625838246
+    second: rmJungleReturn_144
+  - first:
+      213: -4139751554403407540
+    second: rmJungleReturn_145
+  - first:
+      213: -3526513570611094668
+    second: rmJungleReturn_146
+  - first:
+      213: 5997281082233897030
+    second: rmJungleReturn_147
+  - first:
+      213: 7907025773224829028
+    second: rmJungleReturn_148
+  - first:
+      213: -5326939809868795310
+    second: rmJungleReturn_149
+  - first:
+      213: 800161002680080536
+    second: rmJungleReturn_150
+  - first:
+      213: 8566298501163528887
+    second: rmJungleReturn_151
+  - first:
+      213: -8610727259868291445
+    second: rmJungleReturn_152
+  - first:
+      213: -6009275297109488331
+    second: rmJungleReturn_153
+  - first:
+      213: -1255761774725786543
+    second: rmJungleReturn_154
+  - first:
+      213: -5658644016684545792
+    second: rmJungleReturn_155
+  - first:
+      213: 5147083575821599440
+    second: rmJungleReturn_156
+  - first:
+      213: 4565877795840773117
+    second: rmJungleReturn_157
+  - first:
+      213: 874621419686260456
+    second: rmJungleReturn_158
+  - first:
+      213: -3668919411998099858
+    second: rmJungleReturn_159
+  - first:
+      213: 5446389886311926029
+    second: rmJungleReturn_160
+  - first:
+      213: -866348609861561691
+    second: rmJungleReturn_161
+  - first:
+      213: 5075224501073158684
+    second: rmJungleReturn_162
+  - first:
+      213: -8776677386616396509
+    second: rmJungleReturn_163
+  - first:
+      213: 3645417050356120822
+    second: rmJungleReturn_164
+  - first:
+      213: -2586336735896805232
+    second: rmJungleReturn_165
+  - first:
+      213: 825635441861262570
+    second: rmJungleReturn_166
+  - first:
+      213: 152163778881345391
+    second: rmJungleReturn_167
+  - first:
+      213: -6989077060188324480
+    second: rmJungleReturn_168
+  - first:
+      213: 6199732950843352787
+    second: rmJungleReturn_169
+  - first:
+      213: 7607883835135879996
+    second: rmJungleReturn_170
+  - first:
+      213: 3485513737168729533
+    second: rmJungleReturn_171
+  - first:
+      213: -2387699995617497148
+    second: rmJungleReturn_172
+  - first:
+      213: -3630004226611306779
+    second: rmJungleReturn_173
+  - first:
+      213: -3689327407880280268
+    second: rmJungleReturn_174
+  - first:
+      213: 3218900592779959905
+    second: rmJungleReturn_175
+  - first:
+      213: -8596834976518561200
+    second: rmJungleReturn_176
+  - first:
+      213: -5027712069710880234
+    second: rmJungleReturn_177
+  - first:
+      213: -1984213426257416593
+    second: rmJungleReturn_178
+  - first:
+      213: -6277254673564121020
+    second: rmJungleReturn_179
+  - first:
+      213: -1998931989430205895
+    second: rmJungleReturn_180
+  - first:
+      213: 1920252311566919062
+    second: rmJungleReturn_181
+  - first:
+      213: 7783009555913510173
+    second: rmJungleReturn_182
+  - first:
+      213: 1372612358957024208
+    second: rmJungleReturn_183
+  - first:
+      213: -4111038216847115916
+    second: rmJungleReturn_184
+  - first:
+      213: 8055977235124712921
+    second: rmJungleReturn_185
+  - first:
+      213: 1976108999121585018
+    second: rmJungleReturn_186
+  - first:
+      213: -3810562870114903236
+    second: rmJungleReturn_187
+  - first:
+      213: 3301174833985838565
+    second: rmJungleReturn_188
+  - first:
+      213: 4182913676819096425
+    second: rmJungleReturn_189
+  - first:
+      213: 2423323367551705334
+    second: rmJungleReturn_190
+  - first:
+      213: -4116274475877788353
+    second: rmJungleReturn_191
+  - first:
+      213: 209811682008225582
+    second: rmJungleReturn_192
+  - first:
+      213: -2259592647195482456
+    second: rmJungleReturn_193
+  - first:
+      213: 6986171070653294183
+    second: rmJungleReturn_194
+  - first:
+      213: 6010738343037815351
+    second: rmJungleReturn_195
+  - first:
+      213: -6918528265429006476
+    second: rmJungleReturn_196
+  - first:
+      213: -6822184908654491855
+    second: rmJungleReturn_197
+  - first:
+      213: -2243745058074277911
+    second: rmJungleReturn_198
+  - first:
+      213: -4351366315147713949
+    second: rmJungleReturn_199
+  - first:
+      213: 7081620735092876290
+    second: rmJungleReturn_200
+  - first:
+      213: 8589334833346285827
+    second: rmJungleReturn_201
+  - first:
+      213: 828259285789910510
+    second: rmJungleReturn_202
+  - first:
+      213: 2414234982464560229
+    second: rmJungleReturn_203
+  - first:
+      213: -315013351897033968
+    second: rmJungleReturn_204
+  - first:
+      213: -2464546668141206190
+    second: rmJungleReturn_205
+  - first:
+      213: -3742071845838536541
+    second: rmJungleReturn_206
+  - first:
+      213: -7945917947274006497
+    second: rmJungleReturn_207
+  - first:
+      213: 4869474446504884270
+    second: rmJungleReturn_208
+  - first:
+      213: -2567639136106152241
+    second: rmJungleReturn_209
+  - first:
+      213: -4381036086146041802
+    second: rmJungleReturn_210
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rmJungleReturn_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 467
+        width: 475
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6964d7502bb3710800000000000000
+      internalID: 1674127423144629982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 467
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4145065b1bdb23910800000000000000
+      internalID: 1815722170733581332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_2
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 547
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcb9e02c14f31dc0800000000000000
+      internalID: -3669320869728371498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_3
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 548
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aac405ba4de50040800000000000000
+      internalID: 4613354298431294113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_4
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 550
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c9fd9b93ccfbab0800000000000000
+      internalID: -4990045313799578498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_5
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 551
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bf588f25b2132d0800000000000000
+      internalID: -3300809416529020078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_6
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 552
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec70479f4ac23790800000000000000
+      internalID: -7551751181958087453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_7
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 553
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fa7dd4e7f7d5f90800000000000000
+      internalID: -6963269268396331148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_8
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 553
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b081f5af411d3e0800000000000000
+      internalID: -2030818891397592184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_9
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 553
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c6d69cb2557ffa0800000000000000
+      internalID: -5767047151273284482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_10
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 553
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb1b59faf334b270800000000000000
+      internalID: 8265288369150041083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_11
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 530
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa02b7aca1e17fbe0800000000000000
+      internalID: -1443652055133904721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_12
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 532
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a091556fc6803f00800000000000000
+      internalID: 1094522934767227042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_13
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 533
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17a4235a26a48de0800000000000000
+      internalID: -1331756889081075942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_14
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 534
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2767f3a6a2733080800000000000000
+      internalID: -9208890753001494740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_15
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 535
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355782a3ca7a12560800000000000000
+      internalID: 7287290030214116691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_16
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 536
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190833ff361850f90800000000000000
+      internalID: -6988036980312145775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_17
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 530
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0424e5c6f89792380800000000000000
+      internalID: -8995525123790454208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_18
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 530
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41770e75906049670800000000000000
+      internalID: 8544461030227474196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_19
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 531
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e573aafd34d77300800000000000000
+      internalID: 249901667005461984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_20
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 514
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16859afc81fdc8150800000000000000
+      internalID: 5876316911467845729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_21
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 515
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7327cccc57b63300800000000000000
+      internalID: 231574040056636286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_22
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 516
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d007ff3b2f3375520800000000000000
+      internalID: 2690676419872124941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_23
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 517
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1685ac61dc797a50800000000000000
+      internalID: 6519379174508299807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_24
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 519
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17728ddb781272920800000000000000
+      internalID: 2965375746536122225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_25
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 519
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fbd6c67ecb7c8e0800000000000000
+      internalID: -1673161034402250872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_26
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 514
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10ffa4031013baf0800000000000000
+      internalID: -381943869527298019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_27
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 515
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf20c22203e3747b0800000000000000
+      internalID: -5240151264969620740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_28
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 515
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155f0fce343a72d30800000000000000
+      internalID: 4406670272538670417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_29
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 497
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d73b6be7e53981a0800000000000000
+      internalID: -6806850091590404142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_30
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 498
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1bb5a521286a6b0800000000000000
+      internalID: -5285394097335717416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_31
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 499
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbf5b88753ae8710800000000000000
+      internalID: 1697473705916365809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_32
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 501
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf16f6d25e16a090800000000000000
+      internalID: -8023692344971354174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_33
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 502
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01466983bf680540800000000000000
+      internalID: 4974348605325721867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_34
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 502
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a99d7da376891e0800000000000000
+      internalID: -2190887716288619962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_35
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 497
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f7665c2defc6cc0800000000000000
+      internalID: -3716315411279085694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_36
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 498
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99490f43cecdba7c0800000000000000
+      internalID: -4058907732085795687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_37
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 499
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045efca5acf8fb870800000000000000
+      internalID: 8700831104372827456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_38
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c933e55628ed2a5b0800000000000000
+      internalID: -5358475954989681764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_39
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 481
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcd6cd8d1a1e5930800000000000000
+      internalID: 4133770222207687867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_40
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 483
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f338b49c05174cbb0800000000000000
+      internalID: -4916680301393247425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_41
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 484
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e4856855f8b4000800000000000000
+      internalID: 21268220742225455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_42
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 485
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b221e4726f897e970800000000000000
+      internalID: 8784157781198246443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_43
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 485
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928c43e1a11189e10800000000000000
+      internalID: 2204530821471455273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_44
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ed5af862a7708b0800000000000000
+      internalID: -5186042139856478596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_45
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 481
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9feecb2a96d9460800000000000000
+      internalID: 7250067122811763129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_46
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 482
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9bbde1c70ebcea0800000000000000
+      internalID: -5851336467139544638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_47
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 431
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c34fca38fa07c50800000000000000
+      internalID: 6661016828958227535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_48
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 433
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbc275951191b6b0800000000000000
+      internalID: -5282281366041211906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_49
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 438
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a4580e762eb37a0800000000000000
+      internalID: -6396269909973317044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_50
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 441
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cff482a52e5d6540800000000000000
+      internalID: 5002758276811915204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_51
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 432
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663dcd9665d6df760800000000000000
+      internalID: 7493265572925068134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_52
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 440
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe41d9df61d01cd0800000000000000
+      internalID: -2589339507412087046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_53
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 444
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2c7cd3db4c2b860800000000000000
+      internalID: 7544308642863366818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_54
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 439
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cf3924affeb3eb0800000000000000
+      internalID: -4738930324739457910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_55
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 442
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02da83eaa46072ba0800000000000000
+      internalID: -6113911051311862496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_56
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 432
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5f74a0a062cf7a0800000000000000
+      internalID: -6342152350680484404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_57
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 448
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1880b8494f7cc62d0800000000000000
+      internalID: -3284030174981846911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_58
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 399
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39831bd5544dfc80800000000000000
+      internalID: -8287392603753445057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_59
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 430
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570c41ea7fce80de0800000000000000
+      internalID: -1366581938385272715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_60
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 395
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01100b1fadd9cbff0800000000000000
+      internalID: -18966734733049584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_61
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 441
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5406cb17d6b72fc0800000000000000
+      internalID: -3519643548766567332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_62
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 423
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12683b5142cdbe470800000000000000
+      internalID: 8425069575467664929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_63
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 428
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373d48ce635b7da50800000000000000
+      internalID: 6545899830907294579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_64
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 415
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dfee838a4c009d0800000000000000
+      internalID: -2810029940690453127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_65
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 433
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17dc90c35f025480800000000000000
+      internalID: -8912043860224583906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_66
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 430
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ecb1c76ca152f90800000000000000
+      internalID: -6979142607752671643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_67
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 430
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813cc8636e8c172c0800000000000000
+      internalID: -4435543266899999976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_68
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 422
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e800608d811e278b0800000000000000
+      internalID: -5155811126566059890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_69
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 430
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc480e124d135730800000000000000
+      internalID: 3986562264961928411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_70
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 423
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3440502b56ff1c0800000000000000
+      internalID: -4467740490065493066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_71
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 436
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408e81f36e1cc06a0800000000000000
+      internalID: -6481592569047750652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_72
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 428
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cba758d5641e1fe0800000000000000
+      internalID: -1216512421689578551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_73
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 434
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb4aab976a9d1190800000000000000
+      internalID: -7990060394101453851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_74
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 422
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7470cada4ceaa60800000000000000
+      internalID: 7687297864162559994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_75
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 436
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea6b19821ec4a850800000000000000
+      internalID: 6387456750523214561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_76
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 436
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800a08d579a7965e0800000000000000
+      internalID: -1915865375942074360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_77
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 420
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4f9bfa2b43e4b10800000000000000
+      internalID: 1967568029264508084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_78
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 412
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35ae174f66278000800000000000000
+      internalID: 38041381232354619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_79
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 421
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28531c4aeafaba80800000000000000
+      internalID: -8450165866601686993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_80
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 420
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5b83d4272651c40800000000000000
+      internalID: 5482396364454802911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_81
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 412
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4088548f49a423b0800000000000000
+      internalID: -5538115482770964406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_82
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 417
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46694c111cf413a0800000000000000
+      internalID: -6695449595573868980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_83
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 422
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3175453c25d7e50800000000000000
+      internalID: 6808689210541151138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_84
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 413
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccbefca1ef6d32d0800000000000000
+      internalID: -3297356337104634673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_85
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 420
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a4cc22c3dab4610800000000000000
+      internalID: 1606568165881170470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_86
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 426
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897b249f5ba21e460800000000000000
+      internalID: 7269138234612037528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 423
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186f4e41c6fb01530800000000000000
+      internalID: 3823766554565473921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_88
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 414
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c07e73c57f97ed0800000000000000
+      internalID: -2415627749660619737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_89
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 410
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba324aecb9bad84a0800000000000000
+      internalID: -6589421994098023509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_90
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 399
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f156648adccc610800000000000000
+      internalID: 1642914086702620530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_91
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 412
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bd2685006423330800000000000000
+      internalID: 3689088012066675541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_92
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 411
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a96859f028778e30800000000000000
+      internalID: 4505702035225078182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_93
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 412
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ae584fd420b3320800000000000000
+      internalID: 2538625348791560728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_94
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 418
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec29a91db46bfe10800000000000000
+      internalID: 2232488803634326761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_95
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 414
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d1629bb1c0c4310800000000000000
+      internalID: 1390499698160573714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_96
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 412
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652cc10bcbcc23330800000000000000
+      internalID: 3689236155550450262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_97
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 418
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e154fde1ca0f8010800000000000000
+      internalID: 1193184254313648615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_98
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 406
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3f9d26e2c503510800000000000000
+      internalID: 1526821627975300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_99
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 416
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401fe6b65e366dce0800000000000000
+      internalID: -1380806398741384956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_100
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 409
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1588014d5a1b950800000000000000
+      internalID: 6463129270482391463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_101
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 415
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9356fafaff16c62f0800000000000000
+      internalID: -978299268254177991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_102
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 309
+        width: 61
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e098f7f2da9ca400800000000000000
+      internalID: 336814303040016613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_103
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 409
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b24e25177beeb80800000000000000
+      internalID: -8363545760630559886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_104
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 409
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebe2225f35240290800000000000000
+      internalID: -7925168490374042654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_105
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 408
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8161c178f99daf0800000000000000
+      internalID: -371090091640743767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_106
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 407
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c02c1f76290b4340800000000000000
+      internalID: 4848979484740427970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_107
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 309
+        width: 75
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab801bbe547cc430800000000000000
+      internalID: 3804543735435398055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_108
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 404
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7ad97e8f394f9b0800000000000000
+      internalID: -5047246585128441900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_109
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 409
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a28fa1008535310800000000000000
+      internalID: 1392553467263330887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_110
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 406
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae9e903fcdbdd220800000000000000
+      internalID: 2512372864714186402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_111
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 404
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54de286cc99946d00800000000000000
+      internalID: 965065118788545861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_112
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 408
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83b2554f96a25650800000000000000
+      internalID: 6220217238345134987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_113
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 404
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440ee25e294f11d40800000000000000
+      internalID: 5553488727271989316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_114
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 390
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f07ca612d324290800000000000000
+      internalID: -7907690781974524112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_115
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 401
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604c85c8762520830800000000000000
+      internalID: 4035878820767122438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_116
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 409
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801fb22d0eff73270800000000000000
+      internalID: 8230328185106723080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_117
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 405
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dce96791eb53df40800000000000000
+      internalID: 5752042173548326101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_118
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 408
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929a181b804e76680800000000000000
+      internalID: -8761783824037074647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_119
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 394
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ee105614adff190800000000000000
+      internalID: -7926376844746428903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 371
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d888b87d4a520da0800000000000000
+      internalID: -5980118066410256170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_121
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 389
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fd92380f926e9d0800000000000000
+      internalID: -2745460809866289326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_122
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 393
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00196011e2697700800000000000000
+      internalID: 538570349229969420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_123
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 402
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9283e883577ec9de0800000000000000
+      internalID: -1324929699707733975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_124
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 391
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990a0e13a00113500800000000000000
+      internalID: 374097880020983961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_125
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 382
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7aa81f7e9715eee0800000000000000
+      internalID: -1232552953511368065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_126
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 378
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8024802d6ebd16250800000000000000
+      internalID: 5936267568263741960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_127
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 390
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df53fcf4f986a9800800000000000000
+      internalID: 619922932164933117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_128
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 386
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b538d71da112c2770800000000000000
+      internalID: 8587274988556223323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_129
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 388
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa472d9886ce5c130800000000000000
+      internalID: 3586532612003493034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_130
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 378
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b339bc844f952fa10800000000000000
+      internalID: 1941713295078298427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_131
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 373
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31855ca290b20ebe0800000000000000
+      internalID: -1450111761641023469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_132
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 383
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b71ea8c097a3180800000000000000
+      internalID: -9134855799391028459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_133
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 389
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7c67e31c5e8a960800000000000000
+      internalID: 7613587788209244081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_134
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 387
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01956cd7926f484c0800000000000000
+      internalID: -4286030287285626608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_135
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 387
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3deedbda936840be0800000000000000
+      internalID: -1511935992603480365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_136
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 361
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d7922f1b3666020800000000000000
+      internalID: 2334663072761347405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_137
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 361
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea708a319348a620800000000000000
+      internalID: 2785550660559469285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_138
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 381
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6221abcb14874120800000000000000
+      internalID: 2398030581513396843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_139
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 372
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff8e932a990b7e10800000000000000
+      internalID: 2196359800900456441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_140
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 378
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf0124b260533510800000000000000
+      internalID: 1527653083467812786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_141
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 378
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d425c67671bb6bc60800000000000000
+      internalID: 7833654311051350605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_142
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 377
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70243d9f757220a0800000000000000
+      internalID: -6907829687474184066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_143
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 375
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25a4e2533a472210800000000000000
+      internalID: 1308095801068922156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_144
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 381
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a516672b5c1f3c4a0800000000000000
+      internalID: -6574145199625838246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_145
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 377
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49e96505e5ac86c0800000000000000
+      internalID: -4139751554403407540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_146
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 369
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b9120879e4f0fc0800000000000000
+      internalID: -3526513570611094668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_147
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 369
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640c8bc8e5f9a3350800000000000000
+      internalID: 5997281082233897030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_148
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 371
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460acea2c066bbd60800000000000000
+      internalID: 7907025773224829028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_149
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 366
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25232ec5778e216b0800000000000000
+      internalID: -5326939809868795310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_150
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 366
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898ddd7413eba1b00800000000000000
+      internalID: 800161002680080536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_151
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 371
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b230d1c91b91e670800000000000000
+      internalID: 8566298501163528887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_152
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 369
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e17c1cd2d808880800000000000000
+      internalID: -8610727259868291445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_153
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 373
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d424ea4f3ca9ca0800000000000000
+      internalID: -6009275297109488331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_154
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 353
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15494f6b153a29ee0800000000000000
+      internalID: -1255761774725786543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_155
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 366
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009c0236f357871b0800000000000000
+      internalID: -5658644016684545792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_156
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 366
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d20816ed3d1e6740800000000000000
+      internalID: 5147083575821599440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_157
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 348
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbceec0aa14d5f30800000000000000
+      internalID: 4565877795840773117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_158
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 352
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eee8591c87432c00800000000000000
+      internalID: 874621419686260456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_159
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 352
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66715acb31651dc0800000000000000
+      internalID: -3668919411998099858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_160
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 353
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0907e1deb6759b40800000000000000
+      internalID: 5446389886311926029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_161
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 322
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a25c89878c1af3f0800000000000000
+      internalID: -866348609861561691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_162
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 353
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1223d54bc1de6640800000000000000
+      internalID: 5075224501073158684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_163
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 322
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325a68eea6af23680800000000000000
+      internalID: -8776677386616396509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_164
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 305
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcf0a83e7f179230800000000000000
+      internalID: 3645417050356120822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_165
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 266
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090e353117c7b1cd0800000000000000
+      internalID: -2586336735896805232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_166
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 305
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecfc1a5f0f357b00800000000000000
+      internalID: 825635441861262570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_167
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 266
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6757e396289c1200800000000000000
+      internalID: 152163778881345391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_168
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 266
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08db4a7817fc10f90800000000000000
+      internalID: -6989077060188324480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_169
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 247
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d66d4d6540e90650800000000000000
+      internalID: 6199732950843352787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_170
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 198
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3be5bd2a02a49960800000000000000
+      internalID: 7607883835135879996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_171
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 229
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5bfa3e6480f5030800000000000000
+      internalID: 3485513737168729533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_172
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 194
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf640b218f2dded0800000000000000
+      internalID: -2387699995617497148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_173
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 240
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee9aa37362af9dc0800000000000000
+      internalID: -3630004226611306779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_174
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 116
+        width: 94
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437ee29f440ecccc0800000000000000
+      internalID: -3689327407880280268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_175
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 193
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e91ffd805dbac20800000000000000
+      internalID: 3218900592779959905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_176
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 209
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05225f70328e1b880800000000000000
+      internalID: -8596834976518561200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_177
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 197
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61260f3b28af93ab0800000000000000
+      internalID: -5027712069710880234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_178
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 146
+        width: 108
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ead51d668a674e0800000000000000
+      internalID: -1984213426257416593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_179
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 116
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448cc89f126b2e8a0800000000000000
+      internalID: -6277254673564121020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_180
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 152
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93209d742fd5244e0800000000000000
+      internalID: -1998931989430205895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_181
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 160
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695a11ead4b16aa10800000000000000
+      internalID: 1920252311566919062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_182
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 121
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d02b774fdc20c60800000000000000
+      internalID: 7783009555913510173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_183
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 146
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3c1f50baf7c0310800000000000000
+      internalID: 1372612358957024208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_184
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 104
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479b5c2e588a2f6c0800000000000000
+      internalID: -4111038216847115916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_185
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 65
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5fd3aec949ccf60800000000000000
+      internalID: 8055977235124712921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_186
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 90
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7348123aac8c6b10800000000000000
+      internalID: 1976108999121585018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_187
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 65
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b128442492e1bc0800000000000000
+      internalID: -3810562870114903236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_188
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 65
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed5f29650120dd20800000000000000
+      internalID: 3301174833985838565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_189
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 67
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963ece8b3d1bc0a30800000000000000
+      internalID: 4182913676819096425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_190
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 68
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0a2d273cf51a120800000000000000
+      internalID: 2423323367551705334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_191
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f351c435c2e00e6c0800000000000000
+      internalID: -4116274475877788353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_192
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 70
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27d3d7fc9669e200800000000000000
+      internalID: 209811682008225582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_193
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 70
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a624de857054a0e0800000000000000
+      internalID: -2259592647195482456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_194
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 70
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766666e039dd3f060800000000000000
+      internalID: 6986171070653294183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_195
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ac69e3dae6a6350800000000000000
+      internalID: 6010738343037815351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_196
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 51
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477ca92d2337cff90800000000000000
+      internalID: -6918528265429006476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_197
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 52
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1374e9798fab251a0800000000000000
+      internalID: -6822184908654491855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_198
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7c1fee1cd9cd0e0800000000000000
+      internalID: -2243745058074277911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_199
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36225021467dc93c0800000000000000
+      internalID: -4351366315147713949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_200
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 9
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204604dd988f64260800000000000000
+      internalID: 7081620735092876290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_201
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 34
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3019e7ec582733770800000000000000
+      internalID: 8589334833346285827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_202
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 35
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee52d6f9e619e7b00800000000000000
+      internalID: 828259285789910510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_203
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 36
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c1f16ece5118120800000000000000
+      internalID: 2414234982464560229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_204
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 36
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0131ca48609d0abf0800000000000000
+      internalID: -315013351897033968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_205
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 36
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2552211fcdb2ccdd0800000000000000
+      internalID: -2464546668141206190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_206
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 17
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0cdc88b7d711cc0800000000000000
+      internalID: -3742071845838536541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_207
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10f45ae9bd6ab190800000000000000
+      internalID: -7945917947274006497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_208
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28f3c2a539d39340800000000000000
+      internalID: 4869474446504884270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_209
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce70054fc9ed5cd0800000000000000
+      internalID: -2567639136106152241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleReturn_210
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638f81134ee6333c0800000000000000
+      internalID: -4381036086146041802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rmJungleReturn_0: 1674127423144629982
+      rmJungleReturn_1: 1815722170733581332
+      rmJungleReturn_10: 8265288369150041083
+      rmJungleReturn_100: 6463129270482391463
+      rmJungleReturn_101: -978299268254177991
+      rmJungleReturn_102: 336814303040016613
+      rmJungleReturn_103: -8363545760630559886
+      rmJungleReturn_104: -7925168490374042654
+      rmJungleReturn_105: -371090091640743767
+      rmJungleReturn_106: 4848979484740427970
+      rmJungleReturn_107: 3804543735435398055
+      rmJungleReturn_108: -5047246585128441900
+      rmJungleReturn_109: 1392553467263330887
+      rmJungleReturn_11: -1443652055133904721
+      rmJungleReturn_110: 2512372864714186402
+      rmJungleReturn_111: 965065118788545861
+      rmJungleReturn_112: 6220217238345134987
+      rmJungleReturn_113: 5553488727271989316
+      rmJungleReturn_114: -7907690781974524112
+      rmJungleReturn_115: 4035878820767122438
+      rmJungleReturn_116: 8230328185106723080
+      rmJungleReturn_117: 5752042173548326101
+      rmJungleReturn_118: -8761783824037074647
+      rmJungleReturn_119: -7926376844746428903
+      rmJungleReturn_12: 1094522934767227042
+      rmJungleReturn_120: -5980118066410256170
+      rmJungleReturn_121: -2745460809866289326
+      rmJungleReturn_122: 538570349229969420
+      rmJungleReturn_123: -1324929699707733975
+      rmJungleReturn_124: 374097880020983961
+      rmJungleReturn_125: -1232552953511368065
+      rmJungleReturn_126: 5936267568263741960
+      rmJungleReturn_127: 619922932164933117
+      rmJungleReturn_128: 8587274988556223323
+      rmJungleReturn_129: 3586532612003493034
+      rmJungleReturn_13: -1331756889081075942
+      rmJungleReturn_130: 1941713295078298427
+      rmJungleReturn_131: -1450111761641023469
+      rmJungleReturn_132: -9134855799391028459
+      rmJungleReturn_133: 7613587788209244081
+      rmJungleReturn_134: -4286030287285626608
+      rmJungleReturn_135: -1511935992603480365
+      rmJungleReturn_136: 2334663072761347405
+      rmJungleReturn_137: 2785550660559469285
+      rmJungleReturn_138: 2398030581513396843
+      rmJungleReturn_139: 2196359800900456441
+      rmJungleReturn_14: -9208890753001494740
+      rmJungleReturn_140: 1527653083467812786
+      rmJungleReturn_141: 7833654311051350605
+      rmJungleReturn_142: -6907829687474184066
+      rmJungleReturn_143: 1308095801068922156
+      rmJungleReturn_144: -6574145199625838246
+      rmJungleReturn_145: -4139751554403407540
+      rmJungleReturn_146: -3526513570611094668
+      rmJungleReturn_147: 5997281082233897030
+      rmJungleReturn_148: 7907025773224829028
+      rmJungleReturn_149: -5326939809868795310
+      rmJungleReturn_15: 7287290030214116691
+      rmJungleReturn_150: 800161002680080536
+      rmJungleReturn_151: 8566298501163528887
+      rmJungleReturn_152: -8610727259868291445
+      rmJungleReturn_153: -6009275297109488331
+      rmJungleReturn_154: -1255761774725786543
+      rmJungleReturn_155: -5658644016684545792
+      rmJungleReturn_156: 5147083575821599440
+      rmJungleReturn_157: 4565877795840773117
+      rmJungleReturn_158: 874621419686260456
+      rmJungleReturn_159: -3668919411998099858
+      rmJungleReturn_16: -6988036980312145775
+      rmJungleReturn_160: 5446389886311926029
+      rmJungleReturn_161: -866348609861561691
+      rmJungleReturn_162: 5075224501073158684
+      rmJungleReturn_163: -8776677386616396509
+      rmJungleReturn_164: 3645417050356120822
+      rmJungleReturn_165: -2586336735896805232
+      rmJungleReturn_166: 825635441861262570
+      rmJungleReturn_167: 152163778881345391
+      rmJungleReturn_168: -6989077060188324480
+      rmJungleReturn_169: 6199732950843352787
+      rmJungleReturn_17: -8995525123790454208
+      rmJungleReturn_170: 7607883835135879996
+      rmJungleReturn_171: 3485513737168729533
+      rmJungleReturn_172: -2387699995617497148
+      rmJungleReturn_173: -3630004226611306779
+      rmJungleReturn_174: -3689327407880280268
+      rmJungleReturn_175: 3218900592779959905
+      rmJungleReturn_176: -8596834976518561200
+      rmJungleReturn_177: -5027712069710880234
+      rmJungleReturn_178: -1984213426257416593
+      rmJungleReturn_179: -6277254673564121020
+      rmJungleReturn_18: 8544461030227474196
+      rmJungleReturn_180: -1998931989430205895
+      rmJungleReturn_181: 1920252311566919062
+      rmJungleReturn_182: 7783009555913510173
+      rmJungleReturn_183: 1372612358957024208
+      rmJungleReturn_184: -4111038216847115916
+      rmJungleReturn_185: 8055977235124712921
+      rmJungleReturn_186: 1976108999121585018
+      rmJungleReturn_187: -3810562870114903236
+      rmJungleReturn_188: 3301174833985838565
+      rmJungleReturn_189: 4182913676819096425
+      rmJungleReturn_19: 249901667005461984
+      rmJungleReturn_190: 2423323367551705334
+      rmJungleReturn_191: -4116274475877788353
+      rmJungleReturn_192: 209811682008225582
+      rmJungleReturn_193: -2259592647195482456
+      rmJungleReturn_194: 6986171070653294183
+      rmJungleReturn_195: 6010738343037815351
+      rmJungleReturn_196: -6918528265429006476
+      rmJungleReturn_197: -6822184908654491855
+      rmJungleReturn_198: -2243745058074277911
+      rmJungleReturn_199: -4351366315147713949
+      rmJungleReturn_2: -3669320869728371498
+      rmJungleReturn_20: 5876316911467845729
+      rmJungleReturn_200: 7081620735092876290
+      rmJungleReturn_201: 8589334833346285827
+      rmJungleReturn_202: 828259285789910510
+      rmJungleReturn_203: 2414234982464560229
+      rmJungleReturn_204: -315013351897033968
+      rmJungleReturn_205: -2464546668141206190
+      rmJungleReturn_206: -3742071845838536541
+      rmJungleReturn_207: -7945917947274006497
+      rmJungleReturn_208: 4869474446504884270
+      rmJungleReturn_209: -2567639136106152241
+      rmJungleReturn_21: 231574040056636286
+      rmJungleReturn_210: -4381036086146041802
+      rmJungleReturn_22: 2690676419872124941
+      rmJungleReturn_23: 6519379174508299807
+      rmJungleReturn_24: 2965375746536122225
+      rmJungleReturn_25: -1673161034402250872
+      rmJungleReturn_26: -381943869527298019
+      rmJungleReturn_27: -5240151264969620740
+      rmJungleReturn_28: 4406670272538670417
+      rmJungleReturn_29: -6806850091590404142
+      rmJungleReturn_3: 4613354298431294113
+      rmJungleReturn_30: -5285394097335717416
+      rmJungleReturn_31: 1697473705916365809
+      rmJungleReturn_32: -8023692344971354174
+      rmJungleReturn_33: 4974348605325721867
+      rmJungleReturn_34: -2190887716288619962
+      rmJungleReturn_35: -3716315411279085694
+      rmJungleReturn_36: -4058907732085795687
+      rmJungleReturn_37: 8700831104372827456
+      rmJungleReturn_38: -5358475954989681764
+      rmJungleReturn_39: 4133770222207687867
+      rmJungleReturn_4: -4990045313799578498
+      rmJungleReturn_40: -4916680301393247425
+      rmJungleReturn_41: 21268220742225455
+      rmJungleReturn_42: 8784157781198246443
+      rmJungleReturn_43: 2204530821471455273
+      rmJungleReturn_44: -5186042139856478596
+      rmJungleReturn_45: 7250067122811763129
+      rmJungleReturn_46: -5851336467139544638
+      rmJungleReturn_47: 6661016828958227535
+      rmJungleReturn_48: -5282281366041211906
+      rmJungleReturn_49: -6396269909973317044
+      rmJungleReturn_5: -3300809416529020078
+      rmJungleReturn_50: 5002758276811915204
+      rmJungleReturn_51: 7493265572925068134
+      rmJungleReturn_52: -2589339507412087046
+      rmJungleReturn_53: 7544308642863366818
+      rmJungleReturn_54: -4738930324739457910
+      rmJungleReturn_55: -6113911051311862496
+      rmJungleReturn_56: -6342152350680484404
+      rmJungleReturn_57: -3284030174981846911
+      rmJungleReturn_58: -8287392603753445057
+      rmJungleReturn_59: -1366581938385272715
+      rmJungleReturn_6: -7551751181958087453
+      rmJungleReturn_60: -18966734733049584
+      rmJungleReturn_61: -3519643548766567332
+      rmJungleReturn_62: 8425069575467664929
+      rmJungleReturn_63: 6545899830907294579
+      rmJungleReturn_64: -2810029940690453127
+      rmJungleReturn_65: -8912043860224583906
+      rmJungleReturn_66: -6979142607752671643
+      rmJungleReturn_67: -4435543266899999976
+      rmJungleReturn_68: -5155811126566059890
+      rmJungleReturn_69: 3986562264961928411
+      rmJungleReturn_7: -6963269268396331148
+      rmJungleReturn_70: -4467740490065493066
+      rmJungleReturn_71: -6481592569047750652
+      rmJungleReturn_72: -1216512421689578551
+      rmJungleReturn_73: -7990060394101453851
+      rmJungleReturn_74: 7687297864162559994
+      rmJungleReturn_75: 6387456750523214561
+      rmJungleReturn_76: -1915865375942074360
+      rmJungleReturn_77: 1967568029264508084
+      rmJungleReturn_78: 38041381232354619
+      rmJungleReturn_79: -8450165866601686993
+      rmJungleReturn_8: -2030818891397592184
+      rmJungleReturn_80: 5482396364454802911
+      rmJungleReturn_81: -5538115482770964406
+      rmJungleReturn_82: -6695449595573868980
+      rmJungleReturn_83: 6808689210541151138
+      rmJungleReturn_84: -3297356337104634673
+      rmJungleReturn_85: 1606568165881170470
+      rmJungleReturn_86: 7269138234612037528
+      rmJungleReturn_87: 3823766554565473921
+      rmJungleReturn_88: -2415627749660619737
+      rmJungleReturn_89: -6589421994098023509
+      rmJungleReturn_9: -5767047151273284482
+      rmJungleReturn_90: 1642914086702620530
+      rmJungleReturn_91: 3689088012066675541
+      rmJungleReturn_92: 4505702035225078182
+      rmJungleReturn_93: 2538625348791560728
+      rmJungleReturn_94: 2232488803634326761
+      rmJungleReturn_95: 1390499698160573714
+      rmJungleReturn_96: 3689236155550450262
+      rmJungleReturn_97: 1193184254313648615
+      rmJungleReturn_98: 1526821627975300074
+      rmJungleReturn_99: -1380806398741384956
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

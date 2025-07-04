@@ -1,0 +1,4424 @@
+fileFormatVersion: 2
+guid: 7520bcdf4bbecad408417d3fc9996128
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2041971138900334424
+    second: tony_0
+  - first:
+      213: 1841446298773290861
+    second: tony_1
+  - first:
+      213: 60575920899162983
+    second: tony_2
+  - first:
+      213: -1545082785407749245
+    second: tony_3
+  - first:
+      213: -8436844987215143226
+    second: tony_4
+  - first:
+      213: -8413822361585970397
+    second: tony_5
+  - first:
+      213: 3930560824149663916
+    second: tony_6
+  - first:
+      213: -9025177266684651434
+    second: tony_7
+  - first:
+      213: -2127043409603772926
+    second: tony_8
+  - first:
+      213: 5123211922196643313
+    second: tony_9
+  - first:
+      213: -8801311756210171347
+    second: tony_10
+  - first:
+      213: -6267200678343039314
+    second: tony_11
+  - first:
+      213: 3846659540232340427
+    second: tony_12
+  - first:
+      213: -7050996470017483159
+    second: tony_13
+  - first:
+      213: 9134915985601320153
+    second: tony_14
+  - first:
+      213: -331474878650196574
+    second: tony_15
+  - first:
+      213: -5792695835618145569
+    second: tony_16
+  - first:
+      213: -1724022967068643093
+    second: tony_17
+  - first:
+      213: 1016906881907627899
+    second: tony_18
+  - first:
+      213: 1258168109210266070
+    second: tony_19
+  - first:
+      213: 6352509753715092650
+    second: tony_20
+  - first:
+      213: -8140373941611486212
+    second: tony_21
+  - first:
+      213: 6673950669163476394
+    second: tony_22
+  - first:
+      213: -6354610976225318407
+    second: tony_23
+  - first:
+      213: 7789937967506311700
+    second: tony_24
+  - first:
+      213: 2112098052469909915
+    second: tony_25
+  - first:
+      213: -2724975079481564047
+    second: tony_26
+  - first:
+      213: -386136582032607406
+    second: tony_27
+  - first:
+      213: -4958480688339779240
+    second: tony_28
+  - first:
+      213: -1088756105328370858
+    second: tony_29
+  - first:
+      213: 5517872167985744002
+    second: tony_30
+  - first:
+      213: 4341094166013841461
+    second: tony_31
+  - first:
+      213: -1944165012140349527
+    second: tony_32
+  - first:
+      213: 2518393974111303598
+    second: tony_33
+  - first:
+      213: -9129227654633658771
+    second: tony_34
+  - first:
+      213: 837886313449987464
+    second: tony_35
+  - first:
+      213: -9104885068957757183
+    second: tony_36
+  - first:
+      213: 5220663666251100090
+    second: tony_37
+  - first:
+      213: -316080671869882952
+    second: tony_38
+  - first:
+      213: 3692924473522778871
+    second: tony_39
+  - first:
+      213: -7509950468641041153
+    second: tony_40
+  - first:
+      213: 2438747857630156489
+    second: tony_41
+  - first:
+      213: 8358196359494971066
+    second: tony_42
+  - first:
+      213: 7599883224975360702
+    second: tony_43
+  - first:
+      213: 5479089457000919219
+    second: tony_44
+  - first:
+      213: 4788631026507786286
+    second: tony_45
+  - first:
+      213: -1257661144821918278
+    second: tony_46
+  - first:
+      213: 6169220420308410135
+    second: tony_47
+  - first:
+      213: -4014183854768569986
+    second: tony_48
+  - first:
+      213: 5556661412091398453
+    second: tony_49
+  - first:
+      213: -3261695145862982690
+    second: tony_50
+  - first:
+      213: 3483555782464632395
+    second: tony_51
+  - first:
+      213: -6133316512391291233
+    second: tony_52
+  - first:
+      213: -854624728384832836
+    second: tony_53
+  - first:
+      213: -3876314949718559930
+    second: tony_54
+  - first:
+      213: 5934796051585802574
+    second: tony_55
+  - first:
+      213: 1317037525744018562
+    second: tony_56
+  - first:
+      213: -6502001904621926098
+    second: tony_57
+  - first:
+      213: 1722611094534542736
+    second: tony_58
+  - first:
+      213: 3812506997044749789
+    second: tony_59
+  - first:
+      213: 6811591172951129242
+    second: tony_60
+  - first:
+      213: 8771446932887590635
+    second: tony_61
+  - first:
+      213: 6191551893437140220
+    second: tony_62
+  - first:
+      213: -2937779291350282520
+    second: tony_63
+  - first:
+      213: 9049080486592836891
+    second: tony_64
+  - first:
+      213: 1425846554871660266
+    second: tony_65
+  - first:
+      213: -5224939064592124365
+    second: tony_66
+  - first:
+      213: -1150925672602048436
+    second: tony_67
+  - first:
+      213: -7391457159560967614
+    second: tony_68
+  - first:
+      213: 8571012699325395976
+    second: tony_69
+  - first:
+      213: -4230882504190601834
+    second: tony_70
+  - first:
+      213: -8393589929848342318
+    second: tony_71
+  - first:
+      213: 9030470219287443841
+    second: tony_72
+  - first:
+      213: -5659063279323375766
+    second: tony_73
+  - first:
+      213: -273060792879482094
+    second: tony_74
+  - first:
+      213: -3689042713608575887
+    second: tony_75
+  - first:
+      213: -2342095822725268679
+    second: tony_76
+  - first:
+      213: -6605779309507771289
+    second: tony_77
+  - first:
+      213: 3934340670407718315
+    second: tony_78
+  - first:
+      213: 4663212773215966023
+    second: tony_79
+  - first:
+      213: 7743115562928780432
+    second: tony_80
+  - first:
+      213: -3250189405737441758
+    second: tony_81
+  - first:
+      213: 2246091610076215615
+    second: tony_82
+  - first:
+      213: 1081642236519822198
+    second: tony_83
+  - first:
+      213: 266045514196755553
+    second: tony_84
+  - first:
+      213: 98782763015020143
+    second: tony_85
+  - first:
+      213: -2521779509850225192
+    second: tony_86
+  - first:
+      213: -6016718082712818210
+    second: tony_87
+  - first:
+      213: 6563935140900487393
+    second: tony_88
+  - first:
+      213: -2082154075927978281
+    second: tony_89
+  - first:
+      213: 1033235712666936367
+    second: tony_90
+  - first:
+      213: -916130046199115432
+    second: tony_91
+  - first:
+      213: 5078084255246989151
+    second: tony_92
+  - first:
+      213: 3061743326540941338
+    second: tony_93
+  - first:
+      213: -343282204020105563
+    second: tony_94
+  - first:
+      213: 7698341952873894791
+    second: tony_95
+  - first:
+      213: 7185139899922282066
+    second: tony_96
+  - first:
+      213: -518968192261777347
+    second: tony_97
+  - first:
+      213: -338963876145243570
+    second: tony_98
+  - first:
+      213: 5592581722731825180
+    second: tony_99
+  - first:
+      213: 1137074816804994779
+    second: tony_100
+  - first:
+      213: 947332046024627522
+    second: tony_101
+  - first:
+      213: -549275989542588543
+    second: tony_102
+  - first:
+      213: 1542744237443904107
+    second: tony_103
+  - first:
+      213: 7214587982577678030
+    second: tony_104
+  - first:
+      213: 4170956170169561493
+    second: tony_105
+  - first:
+      213: -3895022490822741221
+    second: tony_106
+  - first:
+      213: 4579830514478364480
+    second: tony_107
+  - first:
+      213: -7631092859931001558
+    second: tony_108
+  - first:
+      213: -7092097231898057641
+    second: tony_109
+  - first:
+      213: 7829034769446871467
+    second: tony_110
+  - first:
+      213: -2282860564919212401
+    second: tony_111
+  - first:
+      213: -2665291308601284772
+    second: tony_112
+  - first:
+      213: 2394297603582384437
+    second: tony_113
+  - first:
+      213: -775616124504415378
+    second: tony_114
+  - first:
+      213: -2237853035415733814
+    second: tony_115
+  - first:
+      213: 6001809413928443009
+    second: tony_116
+  - first:
+      213: -6864910834797643840
+    second: tony_117
+  - first:
+      213: 1445653762275932794
+    second: tony_118
+  - first:
+      213: 2303812981857563792
+    second: tony_119
+  - first:
+      213: 5213101061056202695
+    second: tony_120
+  - first:
+      213: 4195292169671038014
+    second: tony_121
+  - first:
+      213: -8405333097551605068
+    second: tony_122
+  - first:
+      213: -1321697552550345296
+    second: tony_123
+  - first:
+      213: 2359990839174152098
+    second: tony_124
+  - first:
+      213: -8649254774989599468
+    second: tony_125
+  - first:
+      213: 685333260019074407
+    second: tony_126
+  - first:
+      213: -2308752076179219061
+    second: tony_127
+  - first:
+      213: -6329974357775354365
+    second: tony_128
+  - first:
+      213: -8918662196921713372
+    second: tony_129
+  - first:
+      213: -1422846881922282604
+    second: tony_130
+  - first:
+      213: -781781868742591327
+    second: tony_131
+  - first:
+      213: 648253046740759218
+    second: tony_132
+  - first:
+      213: 9181716548865295706
+    second: tony_133
+  - first:
+      213: 260318994857176974
+    second: tony_134
+  - first:
+      213: -1934163751316075397
+    second: tony_135
+  - first:
+      213: 6565845809033484996
+    second: tony_136
+  - first:
+      213: -5489704543117327400
+    second: tony_137
+  - first:
+      213: 7814802657286553888
+    second: tony_138
+  - first:
+      213: 2959643319761589393
+    second: tony_139
+  - first:
+      213: 2449154888668288499
+    second: tony_140
+  - first:
+      213: 9170161058858963693
+    second: tony_141
+  - first:
+      213: 4171486973054532484
+    second: tony_142
+  - first:
+      213: 852714955778225920
+    second: tony_143
+  - first:
+      213: -5226315531530438945
+    second: tony_144
+  - first:
+      213: 6980279589410917082
+    second: tony_145
+  - first:
+      213: -7021273592971001543
+    second: tony_146
+  - first:
+      213: 8881506651667045495
+    second: tony_147
+  - first:
+      213: -1611348004615691419
+    second: tony_148
+  - first:
+      213: 672354594161415896
+    second: tony_149
+  - first:
+      213: -2789271633495153496
+    second: tony_150
+  - first:
+      213: 6375143522199604965
+    second: tony_151
+  - first:
+      213: -7824722372238359867
+    second: tony_152
+  - first:
+      213: -8709570621087156574
+    second: tony_153
+  - first:
+      213: 5735196372075175602
+    second: tony_154
+  - first:
+      213: 7207194259330571934
+    second: tony_155
+  - first:
+      213: 2128918524729248198
+    second: tony_156
+  - first:
+      213: 8344697778363197860
+    second: tony_157
+  - first:
+      213: 767868611468077664
+    second: tony_158
+  - first:
+      213: -6521257397085290268
+    second: tony_159
+  - first:
+      213: -8727166718379252709
+    second: tony_160
+  - first:
+      213: -7098469277897743438
+    second: tony_161
+  - first:
+      213: -5848042889301523796
+    second: tony_162
+  - first:
+      213: -5561704140412425069
+    second: tony_163
+  - first:
+      213: 5198530015751129828
+    second: tony_164
+  - first:
+      213: 8977212001504776957
+    second: tony_165
+  - first:
+      213: 4978969963788353741
+    second: tony_166
+  - first:
+      213: 9057336180388055559
+    second: tony_167
+  - first:
+      213: 7962375733120125073
+    second: tony_168
+  - first:
+      213: -3282613314485069728
+    second: tony_169
+  - first:
+      213: -1113466769162403568
+    second: tony_170
+  - first:
+      213: -6828150065334030423
+    second: tony_171
+  - first:
+      213: 8887074980779211650
+    second: tony_172
+  - first:
+      213: 4170635415293345698
+    second: tony_173
+  - first:
+      213: 2380707052900323599
+    second: tony_174
+  - first:
+      213: 1429545855884519295
+    second: tony_175
+  - first:
+      213: 8660806564813396804
+    second: tony_176
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tony_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 443
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85711c79ee9865c10800000000000000
+      internalID: 2041971138900334424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 447
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ff65ff6a12e8910800000000000000
+      internalID: 1841446298773290861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 460
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7630327aa7537d000800000000000000
+      internalID: 60575920899162983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 460
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38333339463ce8ae0800000000000000
+      internalID: -1545082785407749245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 460
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce91083f2e4aea80800000000000000
+      internalID: -8436844987215143226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 460
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3231e66f3291c3b80800000000000000
+      internalID: -8413822361585970397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_6
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 456
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0e18b9e382c8630800000000000000
+      internalID: 3930560824149663916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_7
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 454
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6589458e71120c280800000000000000
+      internalID: -9025177266684651434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_8
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 452
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e3bbcd9493b72e0800000000000000
+      internalID: -2127043409603772926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_9
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 469
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdb39b691e491740800000000000000
+      internalID: 5123211922196643313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 411
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d229f9dc6957bd580800000000000000
+      internalID: -8801311756210171347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 412
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6a647203e6609a0800000000000000
+      internalID: -6267200678343039314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_12
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 412
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc38a6ba874126530800000000000000
+      internalID: 3846659540232340427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_13
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 412
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e131c7114d52e90800000000000000
+      internalID: -7050996470017483159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 411
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4ddc6a0bdb5ce70800000000000000
+      internalID: 9134915985601320153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_15
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 411
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2add616aa5d566bf0800000000000000
+      internalID: -331474878650196574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 421
+        width: 21
+        height: 26
+      alignment: 9
+      pivot: {x: 0.432716, y: 0.49456552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda881a14d53c9fa0800000000000000
+      internalID: -5792695835618145569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 428
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be03247ee3a0318e0800000000000000
+      internalID: -1724022967068643093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 381
+        width: 55
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7711c9db67cc1e00800000000000000
+      internalID: 1016906881907627899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 384
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9e331ba39e57110800000000000000
+      internalID: 1258168109210266070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 380
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac6466c6f5a82850800000000000000
+      internalID: 6352509753715092650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_21
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 378
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3a6679705970f80800000000000000
+      internalID: -8140373941611486212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_22
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 380
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa538f306c2ae9c50800000000000000
+      internalID: 6673950669163476394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_23
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 384
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9aa4c3cf2efc7a0800000000000000
+      internalID: -6354610976225318407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_24
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 383
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41aca8ffe4b6b1c60800000000000000
+      internalID: 7789937967506311700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_25
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 383
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9963440dfdaf4d10800000000000000
+      internalID: 2112098052469909915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_26
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 384
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174a5bd4a91fe2ad0800000000000000
+      internalID: -2724975079481564047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_27
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 381
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257b92113da24aaf0800000000000000
+      internalID: -386136582032607406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_28
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 380
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8518fd9c510ff2bb0800000000000000
+      internalID: -4958480688339779240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_29
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 339
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b5dd63716f3e0f0800000000000000
+      internalID: -1088756105328370858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_30
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 351
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2880ec8708b639c40800000000000000
+      internalID: 5517872167985744002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_31
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 348
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53096c5d42aae3c30800000000000000
+      internalID: 4341094166013841461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_32
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 349
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7a1aad830f405e0800000000000000
+      internalID: -1944165012140349527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_33
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 347
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea77367f9f123f220800000000000000
+      internalID: 2518393974111303598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_34
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 348
+        width: 16
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5434758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6663eb11d77e4180800000000000000
+      internalID: -9129227654633658771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_35
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 348
+        width: 18
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5074565, y: 0.5611389}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d195ba925c0ab00800000000000000
+      internalID: 837886313449987464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_36
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 349
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101d3000543f4a180800000000000000
+      internalID: -9104885068957757183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_37
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 349
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf6fa6b1f5837840800000000000000
+      internalID: 5220663666251100090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_38
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 349
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd24d8bd4e0d9bf0800000000000000
+      internalID: -316080671869882952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_39
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 316
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2fba22e37ef3330800000000000000
+      internalID: 3692924473522778871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_40
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 316
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff45fd396db47c790800000000000000
+      internalID: -7509950468641041153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_41
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 298
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c65ac6614c28d120800000000000000
+      internalID: 2438747857630156489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_42
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 315
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe29aa2e474ef370800000000000000
+      internalID: 8358196359494971066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 316
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb24b17f685387960800000000000000
+      internalID: 7599883224975360702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_44
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 317
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0b029e4d2a90c40800000000000000
+      internalID: 5479089457000919219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_45
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 316
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28296f1c82a47240800000000000000
+      internalID: 4788631026507786286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_46
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 316
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab514172ad3eb8ee0800000000000000
+      internalID: -1257661144821918278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_47
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 315
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f919d49497d9550800000000000000
+      internalID: 6169220420308410135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_48
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 315
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7149695d01ca48c0800000000000000
+      internalID: -4014183854768569986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_49
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 315
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53904d42d1a3d1d40800000000000000
+      internalID: 5556661412091398453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_50
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 315
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed39839cb812cb2d0800000000000000
+      internalID: -3261695145862982690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_51
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 266
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46ff090783185030800000000000000
+      internalID: 3483555782464632395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_52
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 279
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e11efa02512eaa0800000000000000
+      internalID: -6133316512391291233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_53
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 282
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba7b586653c324f0800000000000000
+      internalID: -854624728384832836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_54
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 285
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6433d704710943ac0800000000000000
+      internalID: -3876314949718559930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_55
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 285
+        width: 22
+        height: 24
+      alignment: 9
+      pivot: {x: 0.37154734, y: 0.5058873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41a925a091ac5250800000000000000
+      internalID: 5934796051585802574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_56
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 285
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284e4d5d6ae074210800000000000000
+      internalID: 1317037525744018562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_57
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 285
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29c81287bf34c5a0800000000000000
+      internalID: -6502001904621926098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_58
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 285
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095d0e7e9a1f7e710800000000000000
+      internalID: 1722611094534542736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_59
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 285
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd52b8e0aeeb8e430800000000000000
+      internalID: 3812506997044749789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_60
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 285
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c30fa1512a78e50800000000000000
+      internalID: 6811591172951129242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_61
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 252
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be654f823807ab970800000000000000
+      internalID: 8771446932887590635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_62
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 238
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcc7b094afcce550800000000000000
+      internalID: 6191551893437140220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_63
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 243
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee419eac49ea37d0800000000000000
+      internalID: -2937779291350282520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_64
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 249
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15f84b22cac49d70800000000000000
+      internalID: 9049080486592836891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_65
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 256
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeef65f13ef99c310800000000000000
+      internalID: 1425846554871660266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_66
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 254
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336bce98a994d77b0800000000000000
+      internalID: -5224939064592124365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_67
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 253
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c486da9d2371700f0800000000000000
+      internalID: -1150925672602048436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_68
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 253
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ac9dfffd44c6990800000000000000
+      internalID: -7391457159560967614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_69
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 253
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804f6ac83aa52f670800000000000000
+      internalID: 8571012699325395976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_70
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 254
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695dd4357c2e845c0800000000000000
+      internalID: -4230882504190601834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_71
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 253
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8f7111e6af38b80800000000000000
+      internalID: -8393589929848342318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_73
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 258
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6719723ee7f671b0800000000000000
+      internalID: -5659063279323375766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_74
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 233
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bf456d7a4e53cf0800000000000000
+      internalID: -273060792879482094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_75
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 216
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1742e168233edccc0800000000000000
+      internalID: -3689042713608575887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_76
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 227
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bb88812443f7fd0800000000000000
+      internalID: -2342095822725268679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_77
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 225
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7640a2887be8354a0800000000000000
+      internalID: -6605779309507771289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_79
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 225
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7431a9b7f4f07b040800000000000000
+      internalID: 4663212773215966023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_81
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 224
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226284aa4f105e2d0800000000000000
+      internalID: -3250189405737441758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_83
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 224
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673b2d122e3c20f00800000000000000
+      internalID: 1081642236519822198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_85
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 225
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e117b4662fe5100800000000000000
+      internalID: 98782763015020143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_87
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 224
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddab3e18c2508ca0800000000000000
+      internalID: -6016718082712818210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_89
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 224
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de5ea056e3ba13e0800000000000000
+      internalID: -2082154075927978281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_91
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 225
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8515d3ca3904943f0800000000000000
+      internalID: -916130046199115432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_93
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 179
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1845eb655f7d7a20800000000000000
+      internalID: 3061743326540941338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_94
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 184
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae1bab77aa6c3bf0800000000000000
+      internalID: -343282204020105563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_95
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 200
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7831984f73106da60800000000000000
+      internalID: 7698341952873894791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_96
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 207
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2567a54abaeb6b360800000000000000
+      internalID: 7185139899922282066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_97
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 184
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d389282cd214cc8f0800000000000000
+      internalID: -518968192261777347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_98
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 201
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a5caa8622cb4bf0800000000000000
+      internalID: -338963876145243570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_99
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 192
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18c5c03277dc9d40800000000000000
+      internalID: 5592581722731825180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_100
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 188
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde34ba7583b7cf00800000000000000
+      internalID: 1137074816804994779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_101
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 189
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24554a70a79952d00800000000000000
+      internalID: 947332046024627522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_102
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 189
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fa9afc5649068f0800000000000000
+      internalID: -549275989542588543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_103
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 189
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62ff1cc5bde86510800000000000000
+      internalID: 1542744237443904107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_104
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 189
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6385eab8d5f1460800000000000000
+      internalID: 7214587982577678030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_105
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 189
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5913ea0c98632e930800000000000000
+      internalID: 4170956170169561493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_106
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 189
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b137a5a6ea912f9c0800000000000000
+      internalID: -3895022490822741221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_107
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 171
+        width: 34
+        height: 24
+      alignment: 9
+      pivot: {x: 0.2711415, y: 0.5578963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0473af28693de8f30800000000000000
+      internalID: 4579830514478364480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_109
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 167
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7546f24a42fc39d90800000000000000
+      internalID: -7092097231898057641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_110
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 150
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1201f84a156ac60800000000000000
+      internalID: 7829034769446871467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_111
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 167
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f862e3c4966a150e0800000000000000
+      internalID: -2282860564919212401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_112
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 158
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5762e71dabf20bd0800000000000000
+      internalID: -2665291308601284772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_114
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 156
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6369d08e357c35f0800000000000000
+      internalID: -775616124504415378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_115
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 156
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9f38c558c81f0e0800000000000000
+      internalID: -2237853035415733814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_116
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 155
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cdcceecd5ba4350800000000000000
+      internalID: 6001809413928443009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_117
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 156
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7f725b7ffeab0a0800000000000000
+      internalID: -6864910834797643840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_118
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 154
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7af9a8ff6eff0410800000000000000
+      internalID: 1445653762275932794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_119
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 156
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094bd8c63b9c8ff10800000000000000
+      internalID: 2303812981857563792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_120
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 155
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7877a7bc7a85840800000000000000
+      internalID: 5213101061056202695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_121
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 122
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34583e200ca83a30800000000000000
+      internalID: 4195292169671038014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_122
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 124
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b25a95c4124a5b80800000000000000
+      internalID: -8405333097551605068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_123
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 133
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5cbbf141368ade0800000000000000
+      internalID: -1321697552550345296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_124
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 135
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afb62a1a2f50c020800000000000000
+      internalID: 2359990839174152098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_125
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 118
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41dc4ec9b9ca7f780800000000000000
+      internalID: -8649254774989599468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_126
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 131
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765823c08fac28900800000000000000
+      internalID: 685333260019074407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_127
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 126
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d54e0183aa5ffd0800000000000000
+      internalID: -2308752076179219061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_128
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 123
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306f777fbd96728a0800000000000000
+      internalID: -6329974357775354365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_129
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 123
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42db6c82cfb8a3480800000000000000
+      internalID: -8918662196921713372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_130
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 122
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b0049ac48014ce0800000000000000
+      internalID: -1422846881922282604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_131
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 123
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acb1cd488d8625f0800000000000000
+      internalID: -781781868742591327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_132
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 121
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b23c8f16be0ff800800000000000000
+      internalID: 648253046740759218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_133
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 121
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55017bed820c6f70800000000000000
+      internalID: 9181716548865295706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_134
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 122
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fafb02fb6dc9300800000000000000
+      internalID: 260318994857176974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_136
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 100
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca9d69d9f19e1b50800000000000000
+      internalID: 6565845809033484996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_137
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 99
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3c4a1cdc6a0d3b0800000000000000
+      internalID: -5489704543117327400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_138
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 86
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0210859bc91c37c60800000000000000
+      internalID: 7814802657286553888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_139
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 94
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1945f302be3c21920800000000000000
+      internalID: 2959643319761589393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_140
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 93
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f51cf225652df120800000000000000
+      internalID: 2449154888668288499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_142
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 90
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bb51eec4914e930800000000000000
+      internalID: 4171486973054532484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_143
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 90
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007f2d10cb375db00800000000000000
+      internalID: 852714955778225920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_144
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 88
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6750bd6b56877b0800000000000000
+      internalID: -5226315531530438945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_145
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 89
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada4fbfad4feed060800000000000000
+      internalID: 6980279589410917082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_146
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 88
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93102241edc6f8e90800000000000000
+      internalID: -7021273592971001543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_147
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 89
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c12e25e33714b70800000000000000
+      internalID: 8881506651667045495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_148
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 88
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563e85fe68753a9e0800000000000000
+      internalID: -1611348004615691419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_149
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 63
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6d71ce0fea45900800000000000000
+      internalID: 672354594161415896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_150
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 69
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4a27f3a348a49d0800000000000000
+      internalID: -2789271633495153496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_151
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 67
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee07d8a14f097850800000000000000
+      internalID: 6375143522199604965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_152
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 63
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c24ea8a570096390800000000000000
+      internalID: -7824722372238359867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_153
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 51
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6fbe75aa3612780800000000000000
+      internalID: -8709570621087156574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_154
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 51
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be56aac6b2879f40800000000000000
+      internalID: 5735196372075175602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_155
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 60
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e12a65ef8150460800000000000000
+      internalID: 7207194259330571934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_156
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 57
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c94c366e107b8d10800000000000000
+      internalID: 2128918524729248198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_157
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 55
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a96455da625ec370800000000000000
+      internalID: 8344697778363197860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_158
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 55
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a2abc0f6408aa00800000000000000
+      internalID: 767868611468077664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_159
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 56
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0c7ddc2f6df75a0800000000000000
+      internalID: -6521257397085290268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_160
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 55
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14a46fab10e2e680800000000000000
+      internalID: -8727166718379252709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_161
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 55
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3a1e11dcb2d7d90800000000000000
+      internalID: -7098469277897743438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_162
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 55
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca20fe7f9f397dea0800000000000000
+      internalID: -5848042889301523796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_164
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 29
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea4d0f9183e42840800000000000000
+      internalID: 5198530015751129828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_165
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 34
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2d01780c6759c70800000000000000
+      internalID: 8977212001504776957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_166
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 27
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0c1f66dcad81540800000000000000
+      internalID: 4978969963788353741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_167
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 18
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ac25ba44f12bd70800000000000000
+      internalID: 9057336180388055559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_168
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 18
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198c0d4fa8a008e60800000000000000
+      internalID: 7962375733120125073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_169
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 24
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068562f1590d172d0800000000000000
+      internalID: -3282613314485069728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_170
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 24
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0118fd27fdb2c80f0800000000000000
+      internalID: -1113466769162403568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_171
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 22
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af64b251b98d31a0800000000000000
+      internalID: -6828150065334030423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_172
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 22
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b3b99fb9b355b70800000000000000
+      internalID: 8887074980779211650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_173
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 22
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af393030d211e930800000000000000
+      internalID: 4170635415293345698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_174
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 7
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01146a7378f90120800000000000000
+      internalID: 2380707052900323599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_175
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77e022c164c6d310800000000000000
+      internalID: 1429545855884519295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tony_176
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 5
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bd21c0fad513870800000000000000
+      internalID: 8660806564813396804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c5b6d4dfca519c048a5364f5acb5ccf0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tony_0: 2041971138900334424
+      tony_1: 1841446298773290861
+      tony_10: -8801311756210171347
+      tony_100: 1137074816804994779
+      tony_101: 947332046024627522
+      tony_102: -549275989542588543
+      tony_103: 1542744237443904107
+      tony_104: 7214587982577678030
+      tony_105: 4170956170169561493
+      tony_106: -3895022490822741221
+      tony_107: 4579830514478364480
+      tony_108: -7631092859931001558
+      tony_109: -7092097231898057641
+      tony_11: -6267200678343039314
+      tony_110: 7829034769446871467
+      tony_111: -2282860564919212401
+      tony_112: -2665291308601284772
+      tony_113: 2394297603582384437
+      tony_114: -775616124504415378
+      tony_115: -2237853035415733814
+      tony_116: 6001809413928443009
+      tony_117: -6864910834797643840
+      tony_118: 1445653762275932794
+      tony_119: 2303812981857563792
+      tony_12: 3846659540232340427
+      tony_120: 5213101061056202695
+      tony_121: 4195292169671038014
+      tony_122: -8405333097551605068
+      tony_123: -1321697552550345296
+      tony_124: 2359990839174152098
+      tony_125: -8649254774989599468
+      tony_126: 685333260019074407
+      tony_127: -2308752076179219061
+      tony_128: -6329974357775354365
+      tony_129: -8918662196921713372
+      tony_13: -7050996470017483159
+      tony_130: -1422846881922282604
+      tony_131: -781781868742591327
+      tony_132: 648253046740759218
+      tony_133: 9181716548865295706
+      tony_134: 260318994857176974
+      tony_135: -1934163751316075397
+      tony_136: 6565845809033484996
+      tony_137: -5489704543117327400
+      tony_138: 7814802657286553888
+      tony_139: 2959643319761589393
+      tony_14: 9134915985601320153
+      tony_140: 2449154888668288499
+      tony_141: 9170161058858963693
+      tony_142: 4171486973054532484
+      tony_143: 852714955778225920
+      tony_144: -5226315531530438945
+      tony_145: 6980279589410917082
+      tony_146: -7021273592971001543
+      tony_147: 8881506651667045495
+      tony_148: -1611348004615691419
+      tony_149: 672354594161415896
+      tony_15: -331474878650196574
+      tony_150: -2789271633495153496
+      tony_151: 6375143522199604965
+      tony_152: -7824722372238359867
+      tony_153: -8709570621087156574
+      tony_154: 5735196372075175602
+      tony_155: 7207194259330571934
+      tony_156: 2128918524729248198
+      tony_157: 8344697778363197860
+      tony_158: 767868611468077664
+      tony_159: -6521257397085290268
+      tony_16: -5792695835618145569
+      tony_160: -8727166718379252709
+      tony_161: -7098469277897743438
+      tony_162: -5848042889301523796
+      tony_163: -5561704140412425069
+      tony_164: 5198530015751129828
+      tony_165: 8977212001504776957
+      tony_166: 4978969963788353741
+      tony_167: 9057336180388055559
+      tony_168: 7962375733120125073
+      tony_169: -3282613314485069728
+      tony_17: -1724022967068643093
+      tony_170: -1113466769162403568
+      tony_171: -6828150065334030423
+      tony_172: 8887074980779211650
+      tony_173: 4170635415293345698
+      tony_174: 2380707052900323599
+      tony_175: 1429545855884519295
+      tony_176: 8660806564813396804
+      tony_18: 1016906881907627899
+      tony_19: 1258168109210266070
+      tony_2: 60575920899162983
+      tony_20: 6352509753715092650
+      tony_21: -8140373941611486212
+      tony_22: 6673950669163476394
+      tony_23: -6354610976225318407
+      tony_24: 7789937967506311700
+      tony_25: 2112098052469909915
+      tony_26: -2724975079481564047
+      tony_27: -386136582032607406
+      tony_28: -4958480688339779240
+      tony_29: -1088756105328370858
+      tony_3: -1545082785407749245
+      tony_30: 5517872167985744002
+      tony_31: 4341094166013841461
+      tony_32: -1944165012140349527
+      tony_33: 2518393974111303598
+      tony_34: -9129227654633658771
+      tony_35: 837886313449987464
+      tony_36: -9104885068957757183
+      tony_37: 5220663666251100090
+      tony_38: -316080671869882952
+      tony_39: 3692924473522778871
+      tony_4: -8436844987215143226
+      tony_40: -7509950468641041153
+      tony_41: 2438747857630156489
+      tony_42: 8358196359494971066
+      tony_43: 7599883224975360702
+      tony_44: 5479089457000919219
+      tony_45: 4788631026507786286
+      tony_46: -1257661144821918278
+      tony_47: 6169220420308410135
+      tony_48: -4014183854768569986
+      tony_49: 5556661412091398453
+      tony_5: -8413822361585970397
+      tony_50: -3261695145862982690
+      tony_51: 3483555782464632395
+      tony_52: -6133316512391291233
+      tony_53: -854624728384832836
+      tony_54: -3876314949718559930
+      tony_55: 5934796051585802574
+      tony_56: 1317037525744018562
+      tony_57: -6502001904621926098
+      tony_58: 1722611094534542736
+      tony_59: 3812506997044749789
+      tony_6: 3930560824149663916
+      tony_60: 6811591172951129242
+      tony_61: 8771446932887590635
+      tony_62: 6191551893437140220
+      tony_63: -2937779291350282520
+      tony_64: 9049080486592836891
+      tony_65: 1425846554871660266
+      tony_66: -5224939064592124365
+      tony_67: -1150925672602048436
+      tony_68: -7391457159560967614
+      tony_69: 8571012699325395976
+      tony_7: -9025177266684651434
+      tony_70: -4230882504190601834
+      tony_71: -8393589929848342318
+      tony_72: 9030470219287443841
+      tony_73: -5659063279323375766
+      tony_74: -273060792879482094
+      tony_75: -3689042713608575887
+      tony_76: -2342095822725268679
+      tony_77: -6605779309507771289
+      tony_78: 3934340670407718315
+      tony_79: 4663212773215966023
+      tony_8: -2127043409603772926
+      tony_80: 7743115562928780432
+      tony_81: -3250189405737441758
+      tony_82: 2246091610076215615
+      tony_83: 1081642236519822198
+      tony_84: 266045514196755553
+      tony_85: 98782763015020143
+      tony_86: -2521779509850225192
+      tony_87: -6016718082712818210
+      tony_88: 6563935140900487393
+      tony_89: -2082154075927978281
+      tony_9: 5123211922196643313
+      tony_90: 1033235712666936367
+      tony_91: -916130046199115432
+      tony_92: 5078084255246989151
+      tony_93: 3061743326540941338
+      tony_94: -343282204020105563
+      tony_95: 7698341952873894791
+      tony_96: 7185139899922282066
+      tony_97: -518968192261777347
+      tony_98: -338963876145243570
+      tony_99: 5592581722731825180
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

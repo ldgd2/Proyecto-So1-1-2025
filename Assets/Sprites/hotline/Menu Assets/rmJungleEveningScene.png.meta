@@ -1,0 +1,5616 @@
+fileFormatVersion: 2
+guid: 727cf0dbe549a6842a6e983a83f7d9e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7531743679052300739
+    second: rmJungleEveningScene_0
+  - first:
+      213: -1917885146354050246
+    second: rmJungleEveningScene_1
+  - first:
+      213: -5233643357574820278
+    second: rmJungleEveningScene_2
+  - first:
+      213: -6853719150320030939
+    second: rmJungleEveningScene_3
+  - first:
+      213: -1798759908726541049
+    second: rmJungleEveningScene_4
+  - first:
+      213: -4460026570882810091
+    second: rmJungleEveningScene_5
+  - first:
+      213: 6761221934024293461
+    second: rmJungleEveningScene_6
+  - first:
+      213: 5482858458163964490
+    second: rmJungleEveningScene_7
+  - first:
+      213: -4751079176640068104
+    second: rmJungleEveningScene_8
+  - first:
+      213: 5955486089991025504
+    second: rmJungleEveningScene_9
+  - first:
+      213: 5595051041928593721
+    second: rmJungleEveningScene_10
+  - first:
+      213: -1847452636751573031
+    second: rmJungleEveningScene_11
+  - first:
+      213: 4426509259426798487
+    second: rmJungleEveningScene_12
+  - first:
+      213: 7937807205564738876
+    second: rmJungleEveningScene_13
+  - first:
+      213: 5794526515806000199
+    second: rmJungleEveningScene_14
+  - first:
+      213: 7269864261751202274
+    second: rmJungleEveningScene_15
+  - first:
+      213: 1389888153516456495
+    second: rmJungleEveningScene_16
+  - first:
+      213: 6266849101761704987
+    second: rmJungleEveningScene_17
+  - first:
+      213: -1774281097149797572
+    second: rmJungleEveningScene_18
+  - first:
+      213: -3883289896305261275
+    second: rmJungleEveningScene_19
+  - first:
+      213: -4781658170421968902
+    second: rmJungleEveningScene_20
+  - first:
+      213: -8342262545837889782
+    second: rmJungleEveningScene_21
+  - first:
+      213: 7149438989387299647
+    second: rmJungleEveningScene_22
+  - first:
+      213: 8037914831468014801
+    second: rmJungleEveningScene_23
+  - first:
+      213: 636410111656175804
+    second: rmJungleEveningScene_24
+  - first:
+      213: 2091340560500302422
+    second: rmJungleEveningScene_25
+  - first:
+      213: -5371364687144771292
+    second: rmJungleEveningScene_26
+  - first:
+      213: -6866170202954006681
+    second: rmJungleEveningScene_27
+  - first:
+      213: 442046013059211707
+    second: rmJungleEveningScene_28
+  - first:
+      213: -3594622820715292156
+    second: rmJungleEveningScene_29
+  - first:
+      213: 8974716578172329383
+    second: rmJungleEveningScene_30
+  - first:
+      213: 2033269771313022962
+    second: rmJungleEveningScene_31
+  - first:
+      213: 1417920400638724735
+    second: rmJungleEveningScene_32
+  - first:
+      213: 9166716531520584523
+    second: rmJungleEveningScene_33
+  - first:
+      213: 2029783906643919364
+    second: rmJungleEveningScene_34
+  - first:
+      213: 7340025027492505069
+    second: rmJungleEveningScene_35
+  - first:
+      213: 6268269446215094380
+    second: rmJungleEveningScene_36
+  - first:
+      213: -3801065143047038431
+    second: rmJungleEveningScene_37
+  - first:
+      213: 6381718144640687210
+    second: rmJungleEveningScene_38
+  - first:
+      213: -2787727819413238075
+    second: rmJungleEveningScene_39
+  - first:
+      213: -1466061416720394433
+    second: rmJungleEveningScene_40
+  - first:
+      213: 4046875622509863458
+    second: rmJungleEveningScene_41
+  - first:
+      213: -2218030753187630383
+    second: rmJungleEveningScene_42
+  - first:
+      213: -354529167865339615
+    second: rmJungleEveningScene_43
+  - first:
+      213: 3316094892790676165
+    second: rmJungleEveningScene_44
+  - first:
+      213: 4134465712492087632
+    second: rmJungleEveningScene_45
+  - first:
+      213: -6096078525251078720
+    second: rmJungleEveningScene_46
+  - first:
+      213: -3630420494180486565
+    second: rmJungleEveningScene_47
+  - first:
+      213: 7497739232686120266
+    second: rmJungleEveningScene_48
+  - first:
+      213: -7224224934395585142
+    second: rmJungleEveningScene_49
+  - first:
+      213: -971128518038052436
+    second: rmJungleEveningScene_50
+  - first:
+      213: 3431817084109291616
+    second: rmJungleEveningScene_51
+  - first:
+      213: 6795228652948022044
+    second: rmJungleEveningScene_52
+  - first:
+      213: 252735105517956466
+    second: rmJungleEveningScene_53
+  - first:
+      213: -3431841388262942244
+    second: rmJungleEveningScene_54
+  - first:
+      213: 5602649668116024590
+    second: rmJungleEveningScene_55
+  - first:
+      213: -1423435436496826053
+    second: rmJungleEveningScene_56
+  - first:
+      213: 860032616968281349
+    second: rmJungleEveningScene_57
+  - first:
+      213: 7243923595887297610
+    second: rmJungleEveningScene_58
+  - first:
+      213: -3356977431303411392
+    second: rmJungleEveningScene_59
+  - first:
+      213: 8684310181059378282
+    second: rmJungleEveningScene_60
+  - first:
+      213: 7130646209972139454
+    second: rmJungleEveningScene_61
+  - first:
+      213: 6253303862783772360
+    second: rmJungleEveningScene_62
+  - first:
+      213: -4345102830652270261
+    second: rmJungleEveningScene_63
+  - first:
+      213: 5164570876269395076
+    second: rmJungleEveningScene_64
+  - first:
+      213: -8315368788195073566
+    second: rmJungleEveningScene_65
+  - first:
+      213: -8301949181529604044
+    second: rmJungleEveningScene_66
+  - first:
+      213: -1667097487911656880
+    second: rmJungleEveningScene_67
+  - first:
+      213: 1958367555111361958
+    second: rmJungleEveningScene_68
+  - first:
+      213: -8991849199811818400
+    second: rmJungleEveningScene_69
+  - first:
+      213: -7227522239034927149
+    second: rmJungleEveningScene_70
+  - first:
+      213: 6711003706890372395
+    second: rmJungleEveningScene_71
+  - first:
+      213: -854836449080116303
+    second: rmJungleEveningScene_72
+  - first:
+      213: -8716274567106982112
+    second: rmJungleEveningScene_73
+  - first:
+      213: 178462278960672275
+    second: rmJungleEveningScene_74
+  - first:
+      213: 2654275766617499385
+    second: rmJungleEveningScene_75
+  - first:
+      213: 7547736392495415751
+    second: rmJungleEveningScene_76
+  - first:
+      213: 3861065228087693717
+    second: rmJungleEveningScene_77
+  - first:
+      213: -6414933202757831617
+    second: rmJungleEveningScene_78
+  - first:
+      213: -8799975808414685983
+    second: rmJungleEveningScene_79
+  - first:
+      213: -4005666144562846637
+    second: rmJungleEveningScene_80
+  - first:
+      213: 7772912941535508387
+    second: rmJungleEveningScene_81
+  - first:
+      213: 6281037121595541452
+    second: rmJungleEveningScene_82
+  - first:
+      213: -9068418487645919790
+    second: rmJungleEveningScene_83
+  - first:
+      213: -2724811867001294309
+    second: rmJungleEveningScene_84
+  - first:
+      213: -1846387882706267611
+    second: rmJungleEveningScene_85
+  - first:
+      213: 8739271674909032963
+    second: rmJungleEveningScene_86
+  - first:
+      213: -9026040088062921499
+    second: rmJungleEveningScene_87
+  - first:
+      213: 6113524594222121132
+    second: rmJungleEveningScene_88
+  - first:
+      213: -8177507049559476307
+    second: rmJungleEveningScene_89
+  - first:
+      213: -4499945776838293737
+    second: rmJungleEveningScene_90
+  - first:
+      213: 698838778083628319
+    second: rmJungleEveningScene_91
+  - first:
+      213: 4618082125878126892
+    second: rmJungleEveningScene_92
+  - first:
+      213: -1935223384454848427
+    second: rmJungleEveningScene_93
+  - first:
+      213: -3062617206039677699
+    second: rmJungleEveningScene_94
+  - first:
+      213: 8923543217895919561
+    second: rmJungleEveningScene_95
+  - first:
+      213: -6991450472517970245
+    second: rmJungleEveningScene_96
+  - first:
+      213: 6647262571851807879
+    second: rmJungleEveningScene_97
+  - first:
+      213: -6547340797494120649
+    second: rmJungleEveningScene_98
+  - first:
+      213: -1783111672024019964
+    second: rmJungleEveningScene_99
+  - first:
+      213: -3924180979997294283
+    second: rmJungleEveningScene_100
+  - first:
+      213: -4274507297973651714
+    second: rmJungleEveningScene_101
+  - first:
+      213: -5041467185683913655
+    second: rmJungleEveningScene_102
+  - first:
+      213: 8034115756998703618
+    second: rmJungleEveningScene_103
+  - first:
+      213: -5200250546416470363
+    second: rmJungleEveningScene_104
+  - first:
+      213: 3391964362753069993
+    second: rmJungleEveningScene_105
+  - first:
+      213: 6969031829758982474
+    second: rmJungleEveningScene_106
+  - first:
+      213: 8545765338576499402
+    second: rmJungleEveningScene_107
+  - first:
+      213: -6718100201807504681
+    second: rmJungleEveningScene_108
+  - first:
+      213: -1345975487155794683
+    second: rmJungleEveningScene_109
+  - first:
+      213: -4392714309898472523
+    second: rmJungleEveningScene_110
+  - first:
+      213: -6815232452681545201
+    second: rmJungleEveningScene_111
+  - first:
+      213: 6355675104214658410
+    second: rmJungleEveningScene_112
+  - first:
+      213: -5008993389497987522
+    second: rmJungleEveningScene_113
+  - first:
+      213: 847366206043880674
+    second: rmJungleEveningScene_114
+  - first:
+      213: 5182512294484156857
+    second: rmJungleEveningScene_115
+  - first:
+      213: 7578695312042289591
+    second: rmJungleEveningScene_116
+  - first:
+      213: 4091954418839590786
+    second: rmJungleEveningScene_117
+  - first:
+      213: 3121959585978914649
+    second: rmJungleEveningScene_118
+  - first:
+      213: 3297702315210612109
+    second: rmJungleEveningScene_119
+  - first:
+      213: -3713549823616352869
+    second: rmJungleEveningScene_120
+  - first:
+      213: 8270992254796462104
+    second: rmJungleEveningScene_121
+  - first:
+      213: 5335127174558299221
+    second: rmJungleEveningScene_122
+  - first:
+      213: -2174178773528727728
+    second: rmJungleEveningScene_123
+  - first:
+      213: 2354868283563988672
+    second: rmJungleEveningScene_124
+  - first:
+      213: 6475720597064867257
+    second: rmJungleEveningScene_125
+  - first:
+      213: 8351328838759593655
+    second: rmJungleEveningScene_126
+  - first:
+      213: 5844377310498144103
+    second: rmJungleEveningScene_127
+  - first:
+      213: 1797743377287813540
+    second: rmJungleEveningScene_128
+  - first:
+      213: -1749506951504037266
+    second: rmJungleEveningScene_129
+  - first:
+      213: 1566774700820640769
+    second: rmJungleEveningScene_130
+  - first:
+      213: 930730339114991381
+    second: rmJungleEveningScene_131
+  - first:
+      213: 3687905609419216862
+    second: rmJungleEveningScene_132
+  - first:
+      213: 700789469101341355
+    second: rmJungleEveningScene_133
+  - first:
+      213: -4844336681796285695
+    second: rmJungleEveningScene_134
+  - first:
+      213: 3504100697088995114
+    second: rmJungleEveningScene_135
+  - first:
+      213: 8568960198036184906
+    second: rmJungleEveningScene_136
+  - first:
+      213: 8978868590209031842
+    second: rmJungleEveningScene_137
+  - first:
+      213: -3184341107011978649
+    second: rmJungleEveningScene_138
+  - first:
+      213: -8234758478022596196
+    second: rmJungleEveningScene_139
+  - first:
+      213: -6607774000903776356
+    second: rmJungleEveningScene_140
+  - first:
+      213: -4802875611686271922
+    second: rmJungleEveningScene_141
+  - first:
+      213: -2204896940290184980
+    second: rmJungleEveningScene_142
+  - first:
+      213: 3007292835006126814
+    second: rmJungleEveningScene_143
+  - first:
+      213: 5608097782146102847
+    second: rmJungleEveningScene_144
+  - first:
+      213: -3983803545459543401
+    second: rmJungleEveningScene_145
+  - first:
+      213: 7060446847806373851
+    second: rmJungleEveningScene_146
+  - first:
+      213: -5598162905427566089
+    second: rmJungleEveningScene_147
+  - first:
+      213: -2935288284555329335
+    second: rmJungleEveningScene_148
+  - first:
+      213: 4218781786605068222
+    second: rmJungleEveningScene_149
+  - first:
+      213: -6371770385224006781
+    second: rmJungleEveningScene_150
+  - first:
+      213: 2997522043425407110
+    second: rmJungleEveningScene_151
+  - first:
+      213: -5194209699987674286
+    second: rmJungleEveningScene_152
+  - first:
+      213: -3312236735249707657
+    second: rmJungleEveningScene_153
+  - first:
+      213: -2007179685878250219
+    second: rmJungleEveningScene_154
+  - first:
+      213: -7438335061211710105
+    second: rmJungleEveningScene_155
+  - first:
+      213: -3708882577549059932
+    second: rmJungleEveningScene_156
+  - first:
+      213: 1526037369373541037
+    second: rmJungleEveningScene_157
+  - first:
+      213: -1814171959609709768
+    second: rmJungleEveningScene_158
+  - first:
+      213: -8475882562402659823
+    second: rmJungleEveningScene_159
+  - first:
+      213: 1595543223592301368
+    second: rmJungleEveningScene_160
+  - first:
+      213: -413512494526571102
+    second: rmJungleEveningScene_161
+  - first:
+      213: 2969920160895088596
+    second: rmJungleEveningScene_162
+  - first:
+      213: 248174878747335568
+    second: rmJungleEveningScene_163
+  - first:
+      213: -3960586065409271756
+    second: rmJungleEveningScene_164
+  - first:
+      213: -1251393966540121229
+    second: rmJungleEveningScene_165
+  - first:
+      213: -3332988000140364603
+    second: rmJungleEveningScene_166
+  - first:
+      213: 143722834790043488
+    second: rmJungleEveningScene_167
+  - first:
+      213: 5783110817011889717
+    second: rmJungleEveningScene_168
+  - first:
+      213: 6478112018546499782
+    second: rmJungleEveningScene_169
+  - first:
+      213: 2960424079650070269
+    second: rmJungleEveningScene_170
+  - first:
+      213: 7811511434222151780
+    second: rmJungleEveningScene_171
+  - first:
+      213: 395158047558113532
+    second: rmJungleEveningScene_172
+  - first:
+      213: 1373363315187689563
+    second: rmJungleEveningScene_173
+  - first:
+      213: -972698405896236368
+    second: rmJungleEveningScene_174
+  - first:
+      213: 1197569961343879888
+    second: rmJungleEveningScene_175
+  - first:
+      213: 4430055422042687164
+    second: rmJungleEveningScene_176
+  - first:
+      213: 2122929943683979831
+    second: rmJungleEveningScene_177
+  - first:
+      213: -1651263643114640121
+    second: rmJungleEveningScene_178
+  - first:
+      213: -7637522164676052492
+    second: rmJungleEveningScene_179
+  - first:
+      213: 5924068335476030593
+    second: rmJungleEveningScene_180
+  - first:
+      213: -3716723219704214384
+    second: rmJungleEveningScene_181
+  - first:
+      213: -2067616575136488531
+    second: rmJungleEveningScene_182
+  - first:
+      213: -8656030790389328366
+    second: rmJungleEveningScene_183
+  - first:
+      213: -3701367226502619671
+    second: rmJungleEveningScene_184
+  - first:
+      213: -8529576866882774134
+    second: rmJungleEveningScene_185
+  - first:
+      213: -4797193814947927670
+    second: rmJungleEveningScene_186
+  - first:
+      213: 8620948860286737587
+    second: rmJungleEveningScene_187
+  - first:
+      213: 421818612658472101
+    second: rmJungleEveningScene_188
+  - first:
+      213: -550855049645813023
+    second: rmJungleEveningScene_189
+  - first:
+      213: -8018145617448195894
+    second: rmJungleEveningScene_190
+  - first:
+      213: 2944509483455344427
+    second: rmJungleEveningScene_191
+  - first:
+      213: -1292956958823910937
+    second: rmJungleEveningScene_192
+  - first:
+      213: 6511707009325648022
+    second: rmJungleEveningScene_193
+  - first:
+      213: 637528852245036203
+    second: rmJungleEveningScene_194
+  - first:
+      213: 8454514634521289222
+    second: rmJungleEveningScene_195
+  - first:
+      213: -543722633795683797
+    second: rmJungleEveningScene_196
+  - first:
+      213: -3302002811197653630
+    second: rmJungleEveningScene_197
+  - first:
+      213: -2386148821958025817
+    second: rmJungleEveningScene_198
+  - first:
+      213: -3137543446415296170
+    second: rmJungleEveningScene_199
+  - first:
+      213: 11472849219019539
+    second: rmJungleEveningScene_200
+  - first:
+      213: -2446239620557792286
+    second: rmJungleEveningScene_201
+  - first:
+      213: 3671117579280480506
+    second: rmJungleEveningScene_202
+  - first:
+      213: 8071896845958761606
+    second: rmJungleEveningScene_203
+  - first:
+      213: 2733621142251844105
+    second: rmJungleEveningScene_204
+  - first:
+      213: 1798064408359564685
+    second: rmJungleEveningScene_205
+  - first:
+      213: -4967236561470610168
+    second: rmJungleEveningScene_206
+  - first:
+      213: -2867429974195838303
+    second: rmJungleEveningScene_207
+  - first:
+      213: -4495365687665756584
+    second: rmJungleEveningScene_208
+  - first:
+      213: 8094931940762268049
+    second: rmJungleEveningScene_209
+  - first:
+      213: 9012811185774353293
+    second: rmJungleEveningScene_210
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rmJungleEveningScene_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 467
+        width: 475
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1c431a8f0268860800000000000000
+      internalID: 7531743679052300739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 467
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b919bee9d4265e0800000000000000
+      internalID: -1917885146354050246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_2
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 547
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e8ba6681d5e57b0800000000000000
+      internalID: -5233643357574820278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_3
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 548
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52be1eeceb2b2e0a0800000000000000
+      internalID: -6853719150320030939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_4
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 550
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705f32ca4658907e0800000000000000
+      internalID: -1798759908726541049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_5
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 551
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ff9b9c67dca12c0800000000000000
+      internalID: -4460026570882810091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_6
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 552
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cf819c68fa4dd50800000000000000
+      internalID: 6761221934024293461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_7
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 553
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4aeb90e7b6071c40800000000000000
+      internalID: 5482858458163964490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_8
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 553
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f50d9049a6c01eb0800000000000000
+      internalID: -4751079176640068104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_9
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 553
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063f1ba9b0326a250800000000000000
+      internalID: 5955486089991025504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_10
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 553
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931455e574d95ad40800000000000000
+      internalID: 5595051041928593721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_11
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 530
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df40177d978c56e0800000000000000
+      internalID: -1847452636751573031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_12
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 532
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b9c1308be1e6d30800000000000000
+      internalID: 4426509259426798487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_13
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 533
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3de83fd891c82e60800000000000000
+      internalID: 7937807205564738876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_14
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 534
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744d2385a2b4a6050800000000000000
+      internalID: 5794526515806000199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_15
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 535
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1ecf6570fb3e460800000000000000
+      internalID: 7269864261751202274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_16
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 536
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a3fd369efd94310800000000000000
+      internalID: 1389888153516456495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_17
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 530
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b147b7b0e0258f650800000000000000
+      internalID: 6266849101761704987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_18
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 530
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b22b02ebc7067e0800000000000000
+      internalID: -1774281097149797572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_19
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 531
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5258cd2f968cb1ac0800000000000000
+      internalID: -3883289896305261275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_20
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 514
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff77a27a3324adb0800000000000000
+      internalID: -4781658170421968902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_21
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 515
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07694ce9645a3c80800000000000000
+      internalID: -8342262545837889782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_22
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 516
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bf1c9a1e8e73360800000000000000
+      internalID: 7149438989387299647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_23
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 517
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcae78d3f86c8f60800000000000000
+      internalID: 8037914831468014801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_24
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 519
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8abbcef9bf4d800800000000000000
+      internalID: 636410111656175804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_25
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 519
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652acfcc82fe50d10800000000000000
+      internalID: 2091340560500302422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_26
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 514
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421a8a796441575b0800000000000000
+      internalID: -5371364687144771292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_27
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 515
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ffd85349676b0a0800000000000000
+      internalID: -6866170202954006681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_28
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 515
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1a5ceb186722600800000000000000
+      internalID: 442046013059211707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_29
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 497
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a90c5f6955d1ec0800000000000000
+      internalID: -3594622820715292156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_30
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 498
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad55c18d299c8c70800000000000000
+      internalID: 8974716578172329383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_31
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 499
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f707a39510a73c10800000000000000
+      internalID: 2033269771313022962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_32
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 501
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ac9d787177da310800000000000000
+      internalID: 1417920400638724735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_33
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 502
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b3cf93e18b63f70800000000000000
+      internalID: 9166716531520584523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_34
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 502
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402c05675bd3b2c10800000000000000
+      internalID: 2029783906643919364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_35
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 497
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5ea269fd10dd560800000000000000
+      internalID: 7340025027492505069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_36
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 498
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60d512c9dd5df650800000000000000
+      internalID: 6268269446215094380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_37
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 499
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12adf8c2467ef3bc0800000000000000
+      internalID: -3801065143047038431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_38
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c19fb37da609850800000000000000
+      internalID: 6381718144640687210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_39
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 481
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce466971500059d0800000000000000
+      internalID: -2787727819413238075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_40
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 483
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f379975b8e087abe0800000000000000
+      internalID: -1466061416720394433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_41
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 484
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22263e9ffe3692830800000000000000
+      internalID: 4046875622509863458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_42
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 485
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2fb5718c8f731e0800000000000000
+      internalID: -2218030753187630383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_43
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 485
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1212fd6a995741bf0800000000000000
+      internalID: -354529167865339615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_44
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca764e4cb2250e20800000000000000
+      internalID: 3316094892790676165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_45
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 481
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0598f1109a2906930800000000000000
+      internalID: 4134465712492087632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_46
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 482
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5b58331e0666ba0800000000000000
+      internalID: -6096078525251078720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_47
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 431
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52f21b9bc72e9dc0800000000000000
+      internalID: -3630420494180486565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_48
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 433
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d14ce7b125d0860800000000000000
+      internalID: 7497739232686120266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_49
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 438
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8dd4df92b56ebb90800000000000000
+      internalID: -7224224934395585142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_50
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 441
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1271312cbd582f0800000000000000
+      internalID: -971128518038052436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_51
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 432
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0608378947340af20800000000000000
+      internalID: 3431817084109291616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_52
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 440
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13e58a05708d4e50800000000000000
+      internalID: 6795228652948022044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_53
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 444
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d2baa4d35e18300800000000000000
+      internalID: 252735105517956466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_54
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 439
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd99a17a076af50d0800000000000000
+      internalID: -3431841388262942244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_55
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 442
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d0405603c90cd40800000000000000
+      internalID: 5602649668116024590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_56
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 432
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3157ee1301fe3ce0800000000000000
+      internalID: -1423435436496826053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_57
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 448
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dd4a5cb137feb00800000000000000
+      internalID: 860032616968281349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_58
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 399
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44cee86126978460800000000000000
+      internalID: 7243923595887297610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_59
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 430
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0492820ffce9961d0800000000000000
+      internalID: -3356977431303411392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_60
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 395
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c3a55291ed48870800000000000000
+      internalID: 8684310181059378282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_61
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 441
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5ff5cb2f425f260800000000000000
+      internalID: 7130646209972139454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_62
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 423
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c60ec55bb238c650800000000000000
+      internalID: 6253303862783772360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_63
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 428
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b495d623ff713b3c0800000000000000
+      internalID: -4345102830652270261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_64
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 415
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c7d5159dd3ca740800000000000000
+      internalID: 5164570876269395076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_65
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 433
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e12343d420e99c80800000000000000
+      internalID: -8315368788195073566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_66
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 430
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430459b743d89cc80800000000000000
+      internalID: -8301949181529604044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_67
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 430
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052641bdaa74dd8e0800000000000000
+      internalID: -1667097487911656880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_68
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 422
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad101e5ae48d2b10800000000000000
+      internalID: 1958367555111361958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_69
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 430
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c065b2bc8863380800000000000000
+      internalID: -8991849199811818400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_70
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 423
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7561011dea2bb90800000000000000
+      internalID: -7227522239034927149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_71
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 436
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25c783a056422d50800000000000000
+      internalID: 6711003706890372395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_72
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 428
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbf58757c20324f0800000000000000
+      internalID: -854836449080116303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_73
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 434
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f01d64672990780800000000000000
+      internalID: -8716274567106982112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_74
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 422
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ee1474f760a7200800000000000000
+      internalID: 178462278960672275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_75
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 436
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6e92d2fb1e5d420800000000000000
+      internalID: 2654275766617499385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_76
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 436
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c14af46242feb860800000000000000
+      internalID: 7547736392495415751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_77
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 420
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59197ce3e52459530800000000000000
+      internalID: 3861065228087693717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_78
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 412
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34b2c76d3499f6a0800000000000000
+      internalID: -6414933202757831617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_79
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 421
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4696360a430e580800000000000000
+      internalID: -8799975808414685983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_80
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 420
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354e58c4dd30968c0800000000000000
+      internalID: -4005666144562846637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_81
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 412
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7b24e332feedb60800000000000000
+      internalID: 7772912941535508387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_82
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 417
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc78eb5dbf9ba2750800000000000000
+      internalID: 6281037121595541452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_83
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 422
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5a7499e61862280800000000000000
+      internalID: -9068418487645919790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_84
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 413
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b127e9b2b068f2ad0800000000000000
+      internalID: -2724811867001294309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_85
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 420
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52215b5d0005066e0800000000000000
+      internalID: -1846387882706267611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_86
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 426
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30206922941284970800000000000000
+      internalID: 8739271674909032963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 423
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4f296ac501db280800000000000000
+      internalID: -9026040088062921499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_88
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 414
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca049344a3a97d450800000000000000
+      internalID: 6113524594222121132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_89
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 410
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da731ca2aa8a38e80800000000000000
+      internalID: -8177507049559476307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_90
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 399
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717c80f582bfc81c0800000000000000
+      internalID: -4499945776838293737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_91
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 412
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1551f28a26c2b900800000000000000
+      internalID: 698838778083628319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_92
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 411
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29eb80d939b61040800000000000000
+      internalID: 4618082125878126892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_93
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 412
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5502a88c594b425e0800000000000000
+      internalID: -1935223384454848427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_94
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 418
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df47107a0e56f75d0800000000000000
+      internalID: -3062617206039677699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_95
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 414
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf4888174bc6db70800000000000000
+      internalID: 8923543217895919561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_96
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 412
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb654d866d069fe90800000000000000
+      internalID: -6991450472517970245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_97
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 418
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cf9f32712df3c50800000000000000
+      internalID: 6647262571851807879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_98
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 406
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fa0f5eb3c2325a0800000000000000
+      internalID: -6547340797494120649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_99
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 416
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cc722b16d1147e0800000000000000
+      internalID: -1783111672024019964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_100
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 409
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531caec90328a89c0800000000000000
+      internalID: -3924180979997294283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_101
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 415
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef637728246eda4c0800000000000000
+      internalID: -4274507297973651714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_102
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 309
+        width: 61
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944a5823e4c190ab0800000000000000
+      internalID: -5041467185683913655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_103
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 409
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ab644e6b9ee7f60800000000000000
+      internalID: 8034115756998703618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_104
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 409
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6b0dd1eaff4d7b0800000000000000
+      internalID: -5200250546416470363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_105
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 408
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a35ea4dd9da21f20800000000000000
+      internalID: 3391964362753069993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_106
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 407
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49bc219689f6b060800000000000000
+      internalID: 6969031829758982474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_107
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 309
+        width: 75
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2b2bb4c48a89670800000000000000
+      internalID: 8545765338576499402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_108
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 404
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da98c1e57384c2a0800000000000000
+      internalID: -6718100201807504681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_109
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 409
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d02bbfc62225de0800000000000000
+      internalID: -1345975487155794683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_110
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 406
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3f9b6db91f903c0800000000000000
+      internalID: -4392714309898472523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_111
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 404
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ac334613e6b61a0800000000000000
+      internalID: -6815232452681545201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_112
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 408
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d228e55d4e33850800000000000000
+      internalID: 6355675104214658410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_113
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 404
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e41b01d0b7c7ab0800000000000000
+      internalID: -5008993389497987522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_114
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 390
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec7ae9231372cb00800000000000000
+      internalID: 847366206043880674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_115
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 401
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1a2d4497bfbe740800000000000000
+      internalID: 5182512294484156857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_116
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 409
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9e23f8b3fec2960800000000000000
+      internalID: 7578695312042289591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_117
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 405
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28716042dda89c830800000000000000
+      internalID: 4091954418839590786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_118
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 408
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957166dd3bd635b20800000000000000
+      internalID: 3121959585978914649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_119
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 394
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d9c11a8cac3cd20800000000000000
+      internalID: 3297702315210612109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 371
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9df1a35c12d67cc0800000000000000
+      internalID: -3713549823616352869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_121
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 389
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818762752a778c270800000000000000
+      internalID: 8270992254796462104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_122
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 393
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554b41706ed2a0a40800000000000000
+      internalID: 5335127174558299221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_123
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 402
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f20adbce3c3d1e0800000000000000
+      internalID: -2174178773528727728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_124
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 391
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c65aae2a3c2ea020800000000000000
+      internalID: 2354868283563988672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_125
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 382
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd5bbcb2916ed950800000000000000
+      internalID: 6475720597064867257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_126
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 378
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6bdb4e451e5e370800000000000000
+      internalID: 8351328838759593655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_127
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 390
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f3895f2366b1150800000000000000
+      internalID: 5844377310498144103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_128
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 386
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a91d88a31ed2f810800000000000000
+      internalID: 1797743377287813540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_129
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 388
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a768762b088b7e0800000000000000
+      internalID: -1749506951504037266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_130
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 378
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104bb7d0a4d4eb510800000000000000
+      internalID: 1566774700820640769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_131
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 373
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fb0acef4e9aec00800000000000000
+      internalID: 930730339114991381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_132
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 383
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed75a96cc921e2330800000000000000
+      internalID: 3687905609419216862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_133
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 389
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baabe182f44b9b900800000000000000
+      internalID: 700789469101341355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_134
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 387
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b432d447575ccb0800000000000000
+      internalID: -4844336681796285695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_135
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 387
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f203bb40111a030800000000000000
+      internalID: 3504100697088995114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_136
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 361
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f586a56ef0be670800000000000000
+      internalID: 8568960198036184906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_137
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 361
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae525429695b9c70800000000000000
+      internalID: 8978868590209031842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_138
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 381
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a70e072a2fec3d0800000000000000
+      internalID: -3184341107011978649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_139
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 372
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99a35a3bc248bd80800000000000000
+      internalID: -8234758478022596196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_140
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 378
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9791104e887c44a0800000000000000
+      internalID: -6607774000903776356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_141
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 378
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e448d01f312c85db0800000000000000
+      internalID: -4802875611686271922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_142
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 377
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce868a33ae1a661e0800000000000000
+      internalID: -2204896940290184980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_143
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 375
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda1e1e66ec0cb920800000000000000
+      internalID: 3007292835006126814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_144
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 381
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36797a4837f3dd40800000000000000
+      internalID: 5608097782146102847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_145
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 377
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79231f158cfa6b8c0800000000000000
+      internalID: -3983803545459543401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_146
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 369
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf760f000fbbf160800000000000000
+      internalID: 7060446847806373851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_147
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 369
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1a8337f745f42b0800000000000000
+      internalID: -5598162905427566089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_148
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 371
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0c6b56bd2c347d0800000000000000
+      internalID: -2935288284555329335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_149
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 366
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf9b7fceaf1c8a30800000000000000
+      internalID: 4218781786605068222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_150
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 366
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3838e5ef79ce297a0800000000000000
+      internalID: -6371770385224006781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_151
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 371
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68046ccba66599920800000000000000
+      internalID: 2997522043425407110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_152
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 369
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ba8574cc57ae7b0800000000000000
+      internalID: -5194209699987674286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_153
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 373
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d017ffc329802d0800000000000000
+      internalID: -3312236735249707657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_154
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 353
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515c8dec5b01524e0800000000000000
+      internalID: -2007179685878250219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_155
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 366
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d742cfba9b5c890800000000000000
+      internalID: -7438335061211710105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_156
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 366
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a89d8b32f6678cc0800000000000000
+      internalID: -3708882577549059932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_157
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 348
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da24b73f6e29d2510800000000000000
+      internalID: 1526037369373541037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_158
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 352
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b2df1f634c2d6e0800000000000000
+      internalID: -1814171959609709768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_159
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 352
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112df0677bd9f5a80800000000000000
+      internalID: -8475882562402659823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_160
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 353
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833300abb12842610800000000000000
+      internalID: 1595543223592301368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_161
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 322
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adde8db398e24af0800000000000000
+      internalID: -413512494526571102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_162
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 353
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d73c69a6a6473920800000000000000
+      internalID: 2969920160895088596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_163
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 322
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b19e1ccb1b17300800000000000000
+      internalID: 248174878747335568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_164
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 305
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4381be425fb2909c0800000000000000
+      internalID: -3960586065409271756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_165
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 266
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b1f4e41d722aee0800000000000000
+      internalID: -1251393966540121229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_166
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 305
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c47ef2a219deb1d0800000000000000
+      internalID: -3332988000140364603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_167
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 266
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fc5c1282b9ef100800000000000000
+      internalID: 143722834790043488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_168
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 266
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53676b8d5acb14050800000000000000
+      internalID: 5783110817011889717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_169
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 247
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c027a0fe80e6e950800000000000000
+      internalID: 6478112018546499782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_170
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 198
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe1e04f30a851920800000000000000
+      internalID: 2960424079650070269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_171
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 229
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468a6b32340186c60800000000000000
+      internalID: 7811511434222151780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_172
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 194
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf896de8622eb7500800000000000000
+      internalID: 395158047558113532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_173
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 240
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58a055a8aa2f0310800000000000000
+      internalID: 1373363315187689563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_174
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 116
+        width: 94
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b257f214f74082f0800000000000000
+      internalID: -972698405896236368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_175
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 193
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da849be88f9e9010800000000000000
+      internalID: 1197569961343879888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_176
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 209
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6c5265fe7ba7d30800000000000000
+      internalID: 4430055422042687164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_177
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 197
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ad2583989267d10800000000000000
+      internalID: 2122929943683979831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_178
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 146
+        width: 108
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d62a127788519e0800000000000000
+      internalID: -1651263643114640121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_179
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 116
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9bf4a7e02120690800000000000000
+      internalID: -7637522164676052492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_180
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 152
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c303993c4863250800000000000000
+      internalID: 5924068335476030593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_181
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 160
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c85197ceb8b6cc0800000000000000
+      internalID: -3716723219704214384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_182
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 121
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3a74bfda95e43e0800000000000000
+      internalID: -2067616575136488531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_183
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 146
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21610069bd99fd780800000000000000
+      internalID: -8656030790389328366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_184
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 104
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edd9014e1a12acc0800000000000000
+      internalID: -3701367226502619671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_185
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 65
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b101df70bd0a980800000000000000
+      internalID: -8529576866882774134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_186
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 90
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89e35554a1fc6db0800000000000000
+      internalID: -4797193814947927670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_187
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 65
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc133c0053c3a770800000000000000
+      internalID: 8620948860286737587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_188
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 65
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a408271bc99ad500800000000000000
+      internalID: 421818612658472101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_189
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 67
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2912b3048fa58f0800000000000000
+      internalID: -550855049645813023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_190
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 68
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac825aafa03d9b090800000000000000
+      internalID: -8018145617448195894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_191
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fef1746cffcd820800000000000000
+      internalID: 2944509483455344427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_192
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 70
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e17e6f0f7e7e0ee0800000000000000
+      internalID: -1292956958823910937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_193
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 70
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698c644460b3e5a50800000000000000
+      internalID: 6511707009325648022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_194
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 70
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacb0240d15f8d800800000000000000
+      internalID: 637528852245036203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_195
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602abf22448745570800000000000000
+      internalID: 8454514634521289222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_196
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 51
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ab444352f4478f0800000000000000
+      internalID: -543722633795683797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_197
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 52
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28df83f10fdec22d0800000000000000
+      internalID: -3302002811197653630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_198
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad99fde942b2eed0800000000000000
+      internalID: -2386148821958025817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_199
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659bf01ebd43574d0800000000000000
+      internalID: -3137543446415296170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_200
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 9
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313e24ede72c82000800000000000000
+      internalID: 11472849219019539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_201
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 34
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb9a2d96063d0ed0800000000000000
+      internalID: -2446239620557792286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_202
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 35
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af874b9ecfd62f230800000000000000
+      internalID: 3671117579280480506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_203
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 36
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cc7f62a63250070800000000000000
+      internalID: 8071896845958761606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_204
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 36
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9023b6e02f5cfe520800000000000000
+      internalID: 2733621142251844105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_205
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 36
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d857b878d0204f810800000000000000
+      internalID: 1798064408359564685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_206
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 17
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80526363aa4d01bb0800000000000000
+      internalID: -4967236561470610168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_207
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2efb971a7d438d0800000000000000
+      internalID: -2867429974195838303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_208
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856f33b79b04d91c0800000000000000
+      internalID: -4495365687665756584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_209
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191391a16b9f65070800000000000000
+      internalID: 8094931940762268049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleEveningScene_210
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b5fb38500f31d70800000000000000
+      internalID: 9012811185774353293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rmJungleEveningScene_0: 7531743679052300739
+      rmJungleEveningScene_1: -1917885146354050246
+      rmJungleEveningScene_10: 5595051041928593721
+      rmJungleEveningScene_100: -3924180979997294283
+      rmJungleEveningScene_101: -4274507297973651714
+      rmJungleEveningScene_102: -5041467185683913655
+      rmJungleEveningScene_103: 8034115756998703618
+      rmJungleEveningScene_104: -5200250546416470363
+      rmJungleEveningScene_105: 3391964362753069993
+      rmJungleEveningScene_106: 6969031829758982474
+      rmJungleEveningScene_107: 8545765338576499402
+      rmJungleEveningScene_108: -6718100201807504681
+      rmJungleEveningScene_109: -1345975487155794683
+      rmJungleEveningScene_11: -1847452636751573031
+      rmJungleEveningScene_110: -4392714309898472523
+      rmJungleEveningScene_111: -6815232452681545201
+      rmJungleEveningScene_112: 6355675104214658410
+      rmJungleEveningScene_113: -5008993389497987522
+      rmJungleEveningScene_114: 847366206043880674
+      rmJungleEveningScene_115: 5182512294484156857
+      rmJungleEveningScene_116: 7578695312042289591
+      rmJungleEveningScene_117: 4091954418839590786
+      rmJungleEveningScene_118: 3121959585978914649
+      rmJungleEveningScene_119: 3297702315210612109
+      rmJungleEveningScene_12: 4426509259426798487
+      rmJungleEveningScene_120: -3713549823616352869
+      rmJungleEveningScene_121: 8270992254796462104
+      rmJungleEveningScene_122: 5335127174558299221
+      rmJungleEveningScene_123: -2174178773528727728
+      rmJungleEveningScene_124: 2354868283563988672
+      rmJungleEveningScene_125: 6475720597064867257
+      rmJungleEveningScene_126: 8351328838759593655
+      rmJungleEveningScene_127: 5844377310498144103
+      rmJungleEveningScene_128: 1797743377287813540
+      rmJungleEveningScene_129: -1749506951504037266
+      rmJungleEveningScene_13: 7937807205564738876
+      rmJungleEveningScene_130: 1566774700820640769
+      rmJungleEveningScene_131: 930730339114991381
+      rmJungleEveningScene_132: 3687905609419216862
+      rmJungleEveningScene_133: 700789469101341355
+      rmJungleEveningScene_134: -4844336681796285695
+      rmJungleEveningScene_135: 3504100697088995114
+      rmJungleEveningScene_136: 8568960198036184906
+      rmJungleEveningScene_137: 8978868590209031842
+      rmJungleEveningScene_138: -3184341107011978649
+      rmJungleEveningScene_139: -8234758478022596196
+      rmJungleEveningScene_14: 5794526515806000199
+      rmJungleEveningScene_140: -6607774000903776356
+      rmJungleEveningScene_141: -4802875611686271922
+      rmJungleEveningScene_142: -2204896940290184980
+      rmJungleEveningScene_143: 3007292835006126814
+      rmJungleEveningScene_144: 5608097782146102847
+      rmJungleEveningScene_145: -3983803545459543401
+      rmJungleEveningScene_146: 7060446847806373851
+      rmJungleEveningScene_147: -5598162905427566089
+      rmJungleEveningScene_148: -2935288284555329335
+      rmJungleEveningScene_149: 4218781786605068222
+      rmJungleEveningScene_15: 7269864261751202274
+      rmJungleEveningScene_150: -6371770385224006781
+      rmJungleEveningScene_151: 2997522043425407110
+      rmJungleEveningScene_152: -5194209699987674286
+      rmJungleEveningScene_153: -3312236735249707657
+      rmJungleEveningScene_154: -2007179685878250219
+      rmJungleEveningScene_155: -7438335061211710105
+      rmJungleEveningScene_156: -3708882577549059932
+      rmJungleEveningScene_157: 1526037369373541037
+      rmJungleEveningScene_158: -1814171959609709768
+      rmJungleEveningScene_159: -8475882562402659823
+      rmJungleEveningScene_16: 1389888153516456495
+      rmJungleEveningScene_160: 1595543223592301368
+      rmJungleEveningScene_161: -413512494526571102
+      rmJungleEveningScene_162: 2969920160895088596
+      rmJungleEveningScene_163: 248174878747335568
+      rmJungleEveningScene_164: -3960586065409271756
+      rmJungleEveningScene_165: -1251393966540121229
+      rmJungleEveningScene_166: -3332988000140364603
+      rmJungleEveningScene_167: 143722834790043488
+      rmJungleEveningScene_168: 5783110817011889717
+      rmJungleEveningScene_169: 6478112018546499782
+      rmJungleEveningScene_17: 6266849101761704987
+      rmJungleEveningScene_170: 2960424079650070269
+      rmJungleEveningScene_171: 7811511434222151780
+      rmJungleEveningScene_172: 395158047558113532
+      rmJungleEveningScene_173: 1373363315187689563
+      rmJungleEveningScene_174: -972698405896236368
+      rmJungleEveningScene_175: 1197569961343879888
+      rmJungleEveningScene_176: 4430055422042687164
+      rmJungleEveningScene_177: 2122929943683979831
+      rmJungleEveningScene_178: -1651263643114640121
+      rmJungleEveningScene_179: -7637522164676052492
+      rmJungleEveningScene_18: -1774281097149797572
+      rmJungleEveningScene_180: 5924068335476030593
+      rmJungleEveningScene_181: -3716723219704214384
+      rmJungleEveningScene_182: -2067616575136488531
+      rmJungleEveningScene_183: -8656030790389328366
+      rmJungleEveningScene_184: -3701367226502619671
+      rmJungleEveningScene_185: -8529576866882774134
+      rmJungleEveningScene_186: -4797193814947927670
+      rmJungleEveningScene_187: 8620948860286737587
+      rmJungleEveningScene_188: 421818612658472101
+      rmJungleEveningScene_189: -550855049645813023
+      rmJungleEveningScene_19: -3883289896305261275
+      rmJungleEveningScene_190: -8018145617448195894
+      rmJungleEveningScene_191: 2944509483455344427
+      rmJungleEveningScene_192: -1292956958823910937
+      rmJungleEveningScene_193: 6511707009325648022
+      rmJungleEveningScene_194: 637528852245036203
+      rmJungleEveningScene_195: 8454514634521289222
+      rmJungleEveningScene_196: -543722633795683797
+      rmJungleEveningScene_197: -3302002811197653630
+      rmJungleEveningScene_198: -2386148821958025817
+      rmJungleEveningScene_199: -3137543446415296170
+      rmJungleEveningScene_2: -5233643357574820278
+      rmJungleEveningScene_20: -4781658170421968902
+      rmJungleEveningScene_200: 11472849219019539
+      rmJungleEveningScene_201: -2446239620557792286
+      rmJungleEveningScene_202: 3671117579280480506
+      rmJungleEveningScene_203: 8071896845958761606
+      rmJungleEveningScene_204: 2733621142251844105
+      rmJungleEveningScene_205: 1798064408359564685
+      rmJungleEveningScene_206: -4967236561470610168
+      rmJungleEveningScene_207: -2867429974195838303
+      rmJungleEveningScene_208: -4495365687665756584
+      rmJungleEveningScene_209: 8094931940762268049
+      rmJungleEveningScene_21: -8342262545837889782
+      rmJungleEveningScene_210: 9012811185774353293
+      rmJungleEveningScene_22: 7149438989387299647
+      rmJungleEveningScene_23: 8037914831468014801
+      rmJungleEveningScene_24: 636410111656175804
+      rmJungleEveningScene_25: 2091340560500302422
+      rmJungleEveningScene_26: -5371364687144771292
+      rmJungleEveningScene_27: -6866170202954006681
+      rmJungleEveningScene_28: 442046013059211707
+      rmJungleEveningScene_29: -3594622820715292156
+      rmJungleEveningScene_3: -6853719150320030939
+      rmJungleEveningScene_30: 8974716578172329383
+      rmJungleEveningScene_31: 2033269771313022962
+      rmJungleEveningScene_32: 1417920400638724735
+      rmJungleEveningScene_33: 9166716531520584523
+      rmJungleEveningScene_34: 2029783906643919364
+      rmJungleEveningScene_35: 7340025027492505069
+      rmJungleEveningScene_36: 6268269446215094380
+      rmJungleEveningScene_37: -3801065143047038431
+      rmJungleEveningScene_38: 6381718144640687210
+      rmJungleEveningScene_39: -2787727819413238075
+      rmJungleEveningScene_4: -1798759908726541049
+      rmJungleEveningScene_40: -1466061416720394433
+      rmJungleEveningScene_41: 4046875622509863458
+      rmJungleEveningScene_42: -2218030753187630383
+      rmJungleEveningScene_43: -354529167865339615
+      rmJungleEveningScene_44: 3316094892790676165
+      rmJungleEveningScene_45: 4134465712492087632
+      rmJungleEveningScene_46: -6096078525251078720
+      rmJungleEveningScene_47: -3630420494180486565
+      rmJungleEveningScene_48: 7497739232686120266
+      rmJungleEveningScene_49: -7224224934395585142
+      rmJungleEveningScene_5: -4460026570882810091
+      rmJungleEveningScene_50: -971128518038052436
+      rmJungleEveningScene_51: 3431817084109291616
+      rmJungleEveningScene_52: 6795228652948022044
+      rmJungleEveningScene_53: 252735105517956466
+      rmJungleEveningScene_54: -3431841388262942244
+      rmJungleEveningScene_55: 5602649668116024590
+      rmJungleEveningScene_56: -1423435436496826053
+      rmJungleEveningScene_57: 860032616968281349
+      rmJungleEveningScene_58: 7243923595887297610
+      rmJungleEveningScene_59: -3356977431303411392
+      rmJungleEveningScene_6: 6761221934024293461
+      rmJungleEveningScene_60: 8684310181059378282
+      rmJungleEveningScene_61: 7130646209972139454
+      rmJungleEveningScene_62: 6253303862783772360
+      rmJungleEveningScene_63: -4345102830652270261
+      rmJungleEveningScene_64: 5164570876269395076
+      rmJungleEveningScene_65: -8315368788195073566
+      rmJungleEveningScene_66: -8301949181529604044
+      rmJungleEveningScene_67: -1667097487911656880
+      rmJungleEveningScene_68: 1958367555111361958
+      rmJungleEveningScene_69: -8991849199811818400
+      rmJungleEveningScene_7: 5482858458163964490
+      rmJungleEveningScene_70: -7227522239034927149
+      rmJungleEveningScene_71: 6711003706890372395
+      rmJungleEveningScene_72: -854836449080116303
+      rmJungleEveningScene_73: -8716274567106982112
+      rmJungleEveningScene_74: 178462278960672275
+      rmJungleEveningScene_75: 2654275766617499385
+      rmJungleEveningScene_76: 7547736392495415751
+      rmJungleEveningScene_77: 3861065228087693717
+      rmJungleEveningScene_78: -6414933202757831617
+      rmJungleEveningScene_79: -8799975808414685983
+      rmJungleEveningScene_8: -4751079176640068104
+      rmJungleEveningScene_80: -4005666144562846637
+      rmJungleEveningScene_81: 7772912941535508387
+      rmJungleEveningScene_82: 6281037121595541452
+      rmJungleEveningScene_83: -9068418487645919790
+      rmJungleEveningScene_84: -2724811867001294309
+      rmJungleEveningScene_85: -1846387882706267611
+      rmJungleEveningScene_86: 8739271674909032963
+      rmJungleEveningScene_87: -9026040088062921499
+      rmJungleEveningScene_88: 6113524594222121132
+      rmJungleEveningScene_89: -8177507049559476307
+      rmJungleEveningScene_9: 5955486089991025504
+      rmJungleEveningScene_90: -4499945776838293737
+      rmJungleEveningScene_91: 698838778083628319
+      rmJungleEveningScene_92: 4618082125878126892
+      rmJungleEveningScene_93: -1935223384454848427
+      rmJungleEveningScene_94: -3062617206039677699
+      rmJungleEveningScene_95: 8923543217895919561
+      rmJungleEveningScene_96: -6991450472517970245
+      rmJungleEveningScene_97: 6647262571851807879
+      rmJungleEveningScene_98: -6547340797494120649
+      rmJungleEveningScene_99: -1783111672024019964
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

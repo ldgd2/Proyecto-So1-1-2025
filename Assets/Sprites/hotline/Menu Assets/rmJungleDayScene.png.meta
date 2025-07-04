@@ -1,0 +1,5616 @@
+fileFormatVersion: 2
+guid: d901f47a27e263a4ba0352a141280282
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -984775832747578890
+    second: rmJungleDayScene_0
+  - first:
+      213: 2426677391765730108
+    second: rmJungleDayScene_1
+  - first:
+      213: 3185900407695697298
+    second: rmJungleDayScene_2
+  - first:
+      213: -2744735738437416752
+    second: rmJungleDayScene_3
+  - first:
+      213: 2141420958593153575
+    second: rmJungleDayScene_4
+  - first:
+      213: 5340862458059948841
+    second: rmJungleDayScene_5
+  - first:
+      213: 4616254861389983431
+    second: rmJungleDayScene_6
+  - first:
+      213: 2751288247907529798
+    second: rmJungleDayScene_7
+  - first:
+      213: -6638991686989674230
+    second: rmJungleDayScene_8
+  - first:
+      213: 4219017249344535524
+    second: rmJungleDayScene_9
+  - first:
+      213: -2819134977558097592
+    second: rmJungleDayScene_10
+  - first:
+      213: 7938352344701849705
+    second: rmJungleDayScene_11
+  - first:
+      213: -5828889996661624971
+    second: rmJungleDayScene_12
+  - first:
+      213: 8568629392494505486
+    second: rmJungleDayScene_13
+  - first:
+      213: 1178423657497362640
+    second: rmJungleDayScene_14
+  - first:
+      213: -5876273463058448609
+    second: rmJungleDayScene_15
+  - first:
+      213: 6582972578269947821
+    second: rmJungleDayScene_16
+  - first:
+      213: -7468549543316500276
+    second: rmJungleDayScene_17
+  - first:
+      213: -3825999954560335847
+    second: rmJungleDayScene_18
+  - first:
+      213: 8990714693940667422
+    second: rmJungleDayScene_19
+  - first:
+      213: -6291433547404466920
+    second: rmJungleDayScene_20
+  - first:
+      213: -3430739203788072908
+    second: rmJungleDayScene_21
+  - first:
+      213: 8950673043599305992
+    second: rmJungleDayScene_22
+  - first:
+      213: 8994174461113752381
+    second: rmJungleDayScene_23
+  - first:
+      213: -3011573199417846514
+    second: rmJungleDayScene_24
+  - first:
+      213: -7767831181008699943
+    second: rmJungleDayScene_25
+  - first:
+      213: -8056788494590324051
+    second: rmJungleDayScene_26
+  - first:
+      213: 5430034488230585607
+    second: rmJungleDayScene_27
+  - first:
+      213: -8523264119164257462
+    second: rmJungleDayScene_28
+  - first:
+      213: 7241582066826539304
+    second: rmJungleDayScene_29
+  - first:
+      213: 241265656940417106
+    second: rmJungleDayScene_30
+  - first:
+      213: 6176401140267732070
+    second: rmJungleDayScene_31
+  - first:
+      213: -6769949544814822075
+    second: rmJungleDayScene_32
+  - first:
+      213: 5989775012086429066
+    second: rmJungleDayScene_33
+  - first:
+      213: -7623905064132636381
+    second: rmJungleDayScene_34
+  - first:
+      213: 5772664763685182843
+    second: rmJungleDayScene_35
+  - first:
+      213: -330954433975758659
+    second: rmJungleDayScene_36
+  - first:
+      213: -6966980738944750376
+    second: rmJungleDayScene_37
+  - first:
+      213: 1149239841508458959
+    second: rmJungleDayScene_38
+  - first:
+      213: -8886782403426744024
+    second: rmJungleDayScene_39
+  - first:
+      213: -7126424419594625011
+    second: rmJungleDayScene_40
+  - first:
+      213: -2403254868713242552
+    second: rmJungleDayScene_41
+  - first:
+      213: -2087016341666514900
+    second: rmJungleDayScene_42
+  - first:
+      213: -1359558680047154174
+    second: rmJungleDayScene_43
+  - first:
+      213: -8763088634866023030
+    second: rmJungleDayScene_44
+  - first:
+      213: 6908062077251625540
+    second: rmJungleDayScene_45
+  - first:
+      213: -6765602822834039173
+    second: rmJungleDayScene_46
+  - first:
+      213: -7483228545258484220
+    second: rmJungleDayScene_47
+  - first:
+      213: 4869653527567931744
+    second: rmJungleDayScene_48
+  - first:
+      213: -6243362823263131622
+    second: rmJungleDayScene_49
+  - first:
+      213: 332052990801892439
+    second: rmJungleDayScene_50
+  - first:
+      213: 5957069480942925344
+    second: rmJungleDayScene_51
+  - first:
+      213: 7159220188888945406
+    second: rmJungleDayScene_52
+  - first:
+      213: 362512081173221896
+    second: rmJungleDayScene_53
+  - first:
+      213: 6901758624709260511
+    second: rmJungleDayScene_54
+  - first:
+      213: -909868294339389641
+    second: rmJungleDayScene_55
+  - first:
+      213: 7047602314859463345
+    second: rmJungleDayScene_56
+  - first:
+      213: -3467211201051012688
+    second: rmJungleDayScene_57
+  - first:
+      213: -975882374626087020
+    second: rmJungleDayScene_58
+  - first:
+      213: 4564834777899254098
+    second: rmJungleDayScene_59
+  - first:
+      213: -2643435940448776234
+    second: rmJungleDayScene_60
+  - first:
+      213: 1325506088798544536
+    second: rmJungleDayScene_61
+  - first:
+      213: 7443877649038157037
+    second: rmJungleDayScene_62
+  - first:
+      213: 9193899984034477919
+    second: rmJungleDayScene_63
+  - first:
+      213: 4117984492943011230
+    second: rmJungleDayScene_64
+  - first:
+      213: -7157692052649275112
+    second: rmJungleDayScene_65
+  - first:
+      213: -6846103999376785601
+    second: rmJungleDayScene_66
+  - first:
+      213: -6752911508062518749
+    second: rmJungleDayScene_67
+  - first:
+      213: -7657044596789514502
+    second: rmJungleDayScene_68
+  - first:
+      213: 6528676003406797293
+    second: rmJungleDayScene_69
+  - first:
+      213: -1190879501189051951
+    second: rmJungleDayScene_70
+  - first:
+      213: -8499206216678910790
+    second: rmJungleDayScene_71
+  - first:
+      213: -7049644793754932384
+    second: rmJungleDayScene_72
+  - first:
+      213: -7688653836595287065
+    second: rmJungleDayScene_73
+  - first:
+      213: 6633510231239233768
+    second: rmJungleDayScene_74
+  - first:
+      213: 3662203193545197788
+    second: rmJungleDayScene_75
+  - first:
+      213: 949564568522808449
+    second: rmJungleDayScene_76
+  - first:
+      213: -3885284769394678186
+    second: rmJungleDayScene_77
+  - first:
+      213: -1088728400885124271
+    second: rmJungleDayScene_78
+  - first:
+      213: -4758512077815100760
+    second: rmJungleDayScene_79
+  - first:
+      213: 4182860909979285377
+    second: rmJungleDayScene_80
+  - first:
+      213: -2990738216266431470
+    second: rmJungleDayScene_81
+  - first:
+      213: 6879891533819405490
+    second: rmJungleDayScene_82
+  - first:
+      213: 1495384158904219597
+    second: rmJungleDayScene_83
+  - first:
+      213: 5595020821694351811
+    second: rmJungleDayScene_84
+  - first:
+      213: -7206288363985982679
+    second: rmJungleDayScene_85
+  - first:
+      213: -3106650078385706590
+    second: rmJungleDayScene_86
+  - first:
+      213: -1607977490836267765
+    second: rmJungleDayScene_87
+  - first:
+      213: -5756330548646892083
+    second: rmJungleDayScene_88
+  - first:
+      213: 6305274937557022235
+    second: rmJungleDayScene_89
+  - first:
+      213: 5820992903424141351
+    second: rmJungleDayScene_90
+  - first:
+      213: -757588226260073027
+    second: rmJungleDayScene_91
+  - first:
+      213: 287374347111844718
+    second: rmJungleDayScene_92
+  - first:
+      213: -5729357843912834816
+    second: rmJungleDayScene_93
+  - first:
+      213: -2798744588965358779
+    second: rmJungleDayScene_94
+  - first:
+      213: 7020604953332799434
+    second: rmJungleDayScene_95
+  - first:
+      213: 1270601104910993944
+    second: rmJungleDayScene_96
+  - first:
+      213: 4261332359630422985
+    second: rmJungleDayScene_97
+  - first:
+      213: 4901919353612038800
+    second: rmJungleDayScene_98
+  - first:
+      213: 1202141820544238088
+    second: rmJungleDayScene_99
+  - first:
+      213: -6933358633003790958
+    second: rmJungleDayScene_100
+  - first:
+      213: -3970653721818499521
+    second: rmJungleDayScene_101
+  - first:
+      213: -6061001570448145266
+    second: rmJungleDayScene_102
+  - first:
+      213: -5315289062932636035
+    second: rmJungleDayScene_103
+  - first:
+      213: -268298873512460513
+    second: rmJungleDayScene_104
+  - first:
+      213: 710539568265419239
+    second: rmJungleDayScene_105
+  - first:
+      213: -8567224278121684036
+    second: rmJungleDayScene_106
+  - first:
+      213: -5206417328840960329
+    second: rmJungleDayScene_107
+  - first:
+      213: -6345011783337168942
+    second: rmJungleDayScene_108
+  - first:
+      213: 8726023286469267537
+    second: rmJungleDayScene_109
+  - first:
+      213: 2795563414474660461
+    second: rmJungleDayScene_110
+  - first:
+      213: -2615545741425026037
+    second: rmJungleDayScene_111
+  - first:
+      213: -568824386018253035
+    second: rmJungleDayScene_112
+  - first:
+      213: -2725845951873630952
+    second: rmJungleDayScene_113
+  - first:
+      213: -6363978549805402517
+    second: rmJungleDayScene_114
+  - first:
+      213: 6259906212430684644
+    second: rmJungleDayScene_115
+  - first:
+      213: -2399950898740153380
+    second: rmJungleDayScene_116
+  - first:
+      213: -7954654987320110457
+    second: rmJungleDayScene_117
+  - first:
+      213: 436615757068003994
+    second: rmJungleDayScene_118
+  - first:
+      213: -2993964771240080625
+    second: rmJungleDayScene_119
+  - first:
+      213: -3136623913178138982
+    second: rmJungleDayScene_120
+  - first:
+      213: -4352293647343458749
+    second: rmJungleDayScene_121
+  - first:
+      213: -7512889464770999240
+    second: rmJungleDayScene_122
+  - first:
+      213: 5079252325751011948
+    second: rmJungleDayScene_123
+  - first:
+      213: 3331166007316509782
+    second: rmJungleDayScene_124
+  - first:
+      213: 683372737469775467
+    second: rmJungleDayScene_125
+  - first:
+      213: -1203972892179190450
+    second: rmJungleDayScene_126
+  - first:
+      213: -8674357562308131552
+    second: rmJungleDayScene_127
+  - first:
+      213: -1489144144606460391
+    second: rmJungleDayScene_128
+  - first:
+      213: -5812619206891652991
+    second: rmJungleDayScene_129
+  - first:
+      213: -6221234980189787533
+    second: rmJungleDayScene_130
+  - first:
+      213: 3683443988626221751
+    second: rmJungleDayScene_131
+  - first:
+      213: 5960203637249583391
+    second: rmJungleDayScene_132
+  - first:
+      213: -870730459122473716
+    second: rmJungleDayScene_133
+  - first:
+      213: -926874349962536892
+    second: rmJungleDayScene_134
+  - first:
+      213: -2721216347229467218
+    second: rmJungleDayScene_135
+  - first:
+      213: -7273388003773705958
+    second: rmJungleDayScene_136
+  - first:
+      213: 4335548651386469944
+    second: rmJungleDayScene_137
+  - first:
+      213: -2604867387710281527
+    second: rmJungleDayScene_138
+  - first:
+      213: -4613785133667586096
+    second: rmJungleDayScene_139
+  - first:
+      213: 8236941823236924969
+    second: rmJungleDayScene_140
+  - first:
+      213: -2421031378362581375
+    second: rmJungleDayScene_141
+  - first:
+      213: -6321620173102576438
+    second: rmJungleDayScene_142
+  - first:
+      213: 4460886113767148354
+    second: rmJungleDayScene_143
+  - first:
+      213: -1713594472364419447
+    second: rmJungleDayScene_144
+  - first:
+      213: 4193452212121992443
+    second: rmJungleDayScene_145
+  - first:
+      213: -8959481900929889325
+    second: rmJungleDayScene_146
+  - first:
+      213: -6557814820367188536
+    second: rmJungleDayScene_147
+  - first:
+      213: -4654311195845550405
+    second: rmJungleDayScene_148
+  - first:
+      213: -1140037965560957662
+    second: rmJungleDayScene_149
+  - first:
+      213: -619928430410856674
+    second: rmJungleDayScene_150
+  - first:
+      213: -5414707574294407740
+    second: rmJungleDayScene_151
+  - first:
+      213: 8918900388702404852
+    second: rmJungleDayScene_152
+  - first:
+      213: -6502312122612818355
+    second: rmJungleDayScene_153
+  - first:
+      213: 1477436813387324993
+    second: rmJungleDayScene_154
+  - first:
+      213: 2245753367922261334
+    second: rmJungleDayScene_155
+  - first:
+      213: 6347799471303832726
+    second: rmJungleDayScene_156
+  - first:
+      213: -3600887671943502538
+    second: rmJungleDayScene_157
+  - first:
+      213: -6631345937464435273
+    second: rmJungleDayScene_158
+  - first:
+      213: -6306706955717845101
+    second: rmJungleDayScene_159
+  - first:
+      213: -6150267695216563243
+    second: rmJungleDayScene_160
+  - first:
+      213: 6911425712167015053
+    second: rmJungleDayScene_161
+  - first:
+      213: 4806138153242717182
+    second: rmJungleDayScene_162
+  - first:
+      213: 8227988272335699762
+    second: rmJungleDayScene_163
+  - first:
+      213: 4510417384494061007
+    second: rmJungleDayScene_164
+  - first:
+      213: -3211324137674682137
+    second: rmJungleDayScene_165
+  - first:
+      213: -353802380410193700
+    second: rmJungleDayScene_166
+  - first:
+      213: -5751473473063429501
+    second: rmJungleDayScene_167
+  - first:
+      213: -1398467513430720956
+    second: rmJungleDayScene_168
+  - first:
+      213: -4822526467035069885
+    second: rmJungleDayScene_169
+  - first:
+      213: -7081922628747174169
+    second: rmJungleDayScene_170
+  - first:
+      213: -5943162976706116050
+    second: rmJungleDayScene_171
+  - first:
+      213: 7127749296469990140
+    second: rmJungleDayScene_172
+  - first:
+      213: -4446878903422552333
+    second: rmJungleDayScene_173
+  - first:
+      213: -4728008745263679722
+    second: rmJungleDayScene_174
+  - first:
+      213: -6573295293333135977
+    second: rmJungleDayScene_175
+  - first:
+      213: -6107947864698567071
+    second: rmJungleDayScene_176
+  - first:
+      213: -6847091321941310149
+    second: rmJungleDayScene_177
+  - first:
+      213: -6607981196947495027
+    second: rmJungleDayScene_178
+  - first:
+      213: -5822330226311081193
+    second: rmJungleDayScene_179
+  - first:
+      213: -4664188628917125245
+    second: rmJungleDayScene_180
+  - first:
+      213: 3765157070666829880
+    second: rmJungleDayScene_181
+  - first:
+      213: -4193255848615458716
+    second: rmJungleDayScene_182
+  - first:
+      213: 3981565400209331997
+    second: rmJungleDayScene_183
+  - first:
+      213: 6722381512982403577
+    second: rmJungleDayScene_184
+  - first:
+      213: 7649073155530873213
+    second: rmJungleDayScene_185
+  - first:
+      213: 383067669052640531
+    second: rmJungleDayScene_186
+  - first:
+      213: -8552512209184371387
+    second: rmJungleDayScene_187
+  - first:
+      213: -674349925584591482
+    second: rmJungleDayScene_188
+  - first:
+      213: -5702828785830542976
+    second: rmJungleDayScene_189
+  - first:
+      213: -4059289259466441616
+    second: rmJungleDayScene_190
+  - first:
+      213: -7703623230862392953
+    second: rmJungleDayScene_191
+  - first:
+      213: -6441862008263048773
+    second: rmJungleDayScene_192
+  - first:
+      213: -4682959563276836879
+    second: rmJungleDayScene_193
+  - first:
+      213: 1320636980446902747
+    second: rmJungleDayScene_194
+  - first:
+      213: -6163933529965478254
+    second: rmJungleDayScene_195
+  - first:
+      213: -663037040835232837
+    second: rmJungleDayScene_196
+  - first:
+      213: 8302190574342850321
+    second: rmJungleDayScene_197
+  - first:
+      213: 695896896216607023
+    second: rmJungleDayScene_198
+  - first:
+      213: -3199104585922867980
+    second: rmJungleDayScene_199
+  - first:
+      213: -1234756366317555835
+    second: rmJungleDayScene_200
+  - first:
+      213: 574282221697579963
+    second: rmJungleDayScene_201
+  - first:
+      213: -29122717827479314
+    second: rmJungleDayScene_202
+  - first:
+      213: 6862989013272974394
+    second: rmJungleDayScene_203
+  - first:
+      213: -7431880069053149767
+    second: rmJungleDayScene_204
+  - first:
+      213: 5845142744161201352
+    second: rmJungleDayScene_205
+  - first:
+      213: -6766204361729183494
+    second: rmJungleDayScene_206
+  - first:
+      213: -4450795642257920782
+    second: rmJungleDayScene_207
+  - first:
+      213: -3381251028912077772
+    second: rmJungleDayScene_208
+  - first:
+      213: 8243171639348107508
+    second: rmJungleDayScene_209
+  - first:
+      213: 4776024136464110411
+    second: rmJungleDayScene_210
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rmJungleDayScene_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 467
+        width: 475
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9e0b1099f5552f0800000000000000
+      internalID: -984775832747578890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 467
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33faa01b3a4da120800000000000000
+      internalID: 2426677391765730108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_2
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 547
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295697a8a87963c20800000000000000
+      internalID: 3185900407695697298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_3
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 548
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d84e1c536db8e9d0800000000000000
+      internalID: -2744735738437416752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_4
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 550
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a758f140bd7bd10800000000000000
+      internalID: 2141420958593153575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_5
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 551
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92302e6cb1e8e1a40800000000000000
+      internalID: 5340862458059948841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_6
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 552
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cee1d5a65b301040800000000000000
+      internalID: 4616254861389983431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_7
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 553
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6443c33a51a8e2620800000000000000
+      internalID: 2751288247907529798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_8
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 553
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09853e4c309dd3a0800000000000000
+      internalID: -6638991686989674230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_9
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 553
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb3d60c5d5fc8a30800000000000000
+      internalID: 4219017249344535524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_10
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 553
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84155c0acab60e8d0800000000000000
+      internalID: -2819134977558097592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_11
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 530
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960d7d7f561ba2e60800000000000000
+      internalID: 7938352344701849705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_12
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 532
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fe72a4e6f9b1fa0800000000000000
+      internalID: -5828889996661624971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_13
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 533
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e2b9fa803e9e670800000000000000
+      internalID: 8568629392494505486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_14
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 534
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d00c0ca21a9a5010800000000000000
+      internalID: 1178423657497362640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_15
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 535
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fb85f4b68437ea0800000000000000
+      internalID: -5876273463058448609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_16
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 536
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7eaed8eaa6b5b50800000000000000
+      internalID: 6582972578269947821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_17
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 530
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0d63ba2c16a5890800000000000000
+      internalID: -7468549543316500276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_18
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 530
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91045c5ff4157eac0800000000000000
+      internalID: -3825999954560335847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_19
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 531
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14e739116f65cc70800000000000000
+      internalID: 8990714693940667422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_20
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 514
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8152bf6a58650b8a0800000000000000
+      internalID: -6291433547404466920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_21
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 515
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4389439fed09360d0800000000000000
+      internalID: -3430739203788072908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_22
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 516
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80da660e5bd273c70800000000000000
+      internalID: 8950673043599305992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_23
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 517
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b539ae40ab1dc70800000000000000
+      internalID: 8994174461113752381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_24
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 519
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05dc91912eb436d0800000000000000
+      internalID: -3011573199417846514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_25
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 519
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddf5c452be133490800000000000000
+      internalID: -7767831181008699943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_26
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 514
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da25d750d89803090800000000000000
+      internalID: -8056788494590324051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_27
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 515
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705aa15f89b5b5b40800000000000000
+      internalID: 5430034488230585607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_28
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 515
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bb16a117847b980800000000000000
+      internalID: -8523264119164257462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_29
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 497
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821f801b5844f7460800000000000000
+      internalID: 7241582066826539304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_30
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 498
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2505f6236d5295300800000000000000
+      internalID: 241265656940417106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_31
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 499
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cc9f3fc1cf6b550800000000000000
+      internalID: 6176401140267732070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_32
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 501
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54dbef9f1ce4c02a0800000000000000
+      internalID: -6769949544814822075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_33
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 502
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a853ce763a4ff1350800000000000000
+      internalID: 5989775012086429066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_34
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 502
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3219213ccb2723690800000000000000
+      internalID: -7623905064132636381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_35
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 497
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d9ed68400ac1050800000000000000
+      internalID: 5772664763685182843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_36
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 498
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0d80e12b6386bf0800000000000000
+      internalID: -330954433975758659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_37
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 499
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dca53a3eef405f90800000000000000
+      internalID: -6966980738944750376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_38
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc186d20c8be2ff00800000000000000
+      internalID: 1149239841508458959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_39
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 481
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8298e8ffc7ecba480800000000000000
+      internalID: -8886782403426744024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_40
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 483
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00a46f6fbad91d90800000000000000
+      internalID: -7126424419594625011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_41
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 484
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8408e9d0e6ce5aed0800000000000000
+      internalID: -2403254868713242552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_42
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 485
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28388ad1bd6903e0800000000000000
+      internalID: -2087016341666514900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_43
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 485
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c8d707590e12de0800000000000000
+      internalID: -1359558680047154174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_44
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a854c8fb051436680800000000000000
+      internalID: -8763088634866023030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_45
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 481
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4422ee8dbdd5edf50800000000000000
+      internalID: 6908062077251625540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_46
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 482
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76d89d0410cb12a0800000000000000
+      internalID: -6765602822834039173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_47
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 431
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e0ec2394b362890800000000000000
+      internalID: -7483228545258484220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_48
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 433
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0691ae1351c749340800000000000000
+      internalID: 4869653527567931744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_49
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 438
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18658b479e1b59a0800000000000000
+      internalID: -6243362823263131622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_50
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 441
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7545a539f60bb9400800000000000000
+      internalID: 332052990801892439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_51
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 432
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0267ce98123cba250800000000000000
+      internalID: 5957069480942925344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_52
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 440
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2d783a4d8aa5360800000000000000
+      internalID: 7159220188888945406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_53
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 444
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8021e1131d6e70500800000000000000
+      internalID: 362512081173221896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_54
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 439
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4b84fe6e8f7cf50800000000000000
+      internalID: 6901758624709260511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_55
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 442
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73792836b9f7f53f0800000000000000
+      internalID: -909868294339389641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_56
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 432
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b24b6f27fc1ec160800000000000000
+      internalID: 7047602314859463345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_57
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 448
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1591068cdf1efc0800000000000000
+      internalID: -3467211201051012688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_58
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 399
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fe8d59628f472f0800000000000000
+      internalID: -975882374626087020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_59
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 430
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251c8038b0d895f30800000000000000
+      internalID: 4564834777899254098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_60
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 395
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfcc078401a05bd0800000000000000
+      internalID: -2643435940448776234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_61
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 441
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8926472d3c4256210800000000000000
+      internalID: 1325506088798544536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_62
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 423
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4a36e4847fd4760800000000000000
+      internalID: 7443877649038157037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_63
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 428
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5738d8f25b479f70800000000000000
+      internalID: 9193899984034477919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_64
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 415
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d6f6c0415062930800000000000000
+      internalID: 4117984492943011230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_65
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 433
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811143e4005caac90800000000000000
+      internalID: -7157692052649275112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_66
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 430
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ff3cd4fa0cdf0a0800000000000000
+      internalID: -6846103999376785601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_67
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 430
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322494a03c6d842a0800000000000000
+      internalID: -6752911508062518749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_68
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 422
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe690b0286bcb590800000000000000
+      internalID: -7657044596789514502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_69
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 430
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9dda41c348a9a50800000000000000
+      internalID: 6528676003406797293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_70
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 423
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d905593765297fe0800000000000000
+      internalID: -1190879501189051951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_71
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 436
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4df060af0cc0a80800000000000000
+      internalID: -8499206216678910790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_72
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 428
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b2e832961aa2e90800000000000000
+      internalID: -7049644793754932384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_73
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 434
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb2bc4621a6c4590800000000000000
+      internalID: -7688653836595287065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_74
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 422
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e01fe2d866fe0c50800000000000000
+      internalID: 6633510231239233768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_75
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 436
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8009eb662c2d230800000000000000
+      internalID: 3662203193545197788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_76
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 436
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c591ea1f78d2d00800000000000000
+      internalID: 949564568522808449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_77
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 420
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656aefc5612b41ac0800000000000000
+      internalID: -3885284769394678186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_78
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 412
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153fc58a94f04e0f0800000000000000
+      internalID: -1088728400885124271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_79
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 421
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aacc661a7e56fdb0800000000000000
+      internalID: -4758512077815100760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_80
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 420
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187be2cf5d18c0a30800000000000000
+      internalID: 4182860909979285377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_81
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 412
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214014b1073ce76d0800000000000000
+      internalID: -2990738216266431470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_82
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 417
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4e58616e84a7f50800000000000000
+      internalID: 6879891533819405490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_83
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 422
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc77b3a38fba0c410800000000000000
+      internalID: 1495384158904219597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_84
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 413
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9810c2bc185ad40800000000000000
+      internalID: 5595020821694351811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_85
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 420
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ba59bd9ee1efb90800000000000000
+      internalID: -7206288363985982679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_86
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 426
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a96164a636f2e4d0800000000000000
+      internalID: -3106650078385706590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 423
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d51e3ddf05fa9e0800000000000000
+      internalID: -1607977490836267765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_88
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 414
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd2c264dd76d10b0800000000000000
+      internalID: -5756330548646892083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_89
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 410
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1672402626d08750800000000000000
+      internalID: 6305274937557022235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_90
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 399
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7286aa8643258c050800000000000000
+      internalID: 5820992903424141351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_91
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 412
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db500c7a5818c75f0800000000000000
+      internalID: -757588226260073027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_92
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 411
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b49253275fcf300800000000000000
+      internalID: 287374347111844718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_93
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 412
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0014a7a756b3d70b0800000000000000
+      internalID: -5729357843912834816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_94
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 418
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5435cadef9cd829d0800000000000000
+      internalID: -2798744588965358779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_95
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 414
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7dfbf12033e6160800000000000000
+      internalID: 7020604953332799434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_96
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 412
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a407519f412a110800000000000000
+      internalID: 1270601104910993944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_97
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 418
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c306ad143b432b30800000000000000
+      internalID: 4261332359630422985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_98
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 406
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09278ad3ead170440800000000000000
+      internalID: 4901919353612038800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_99
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 416
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8024e27dd9ddea010800000000000000
+      internalID: 1202141820544238088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_100
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 409
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29dcb6bce03c7cf90800000000000000
+      internalID: -6933358633003790958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_101
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 415
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36fce83a7765e8c0800000000000000
+      internalID: -3970653721818499521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_102
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 309
+        width: 61
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e848a5a2f2ff2eba0800000000000000
+      internalID: -6061001570448145266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_103
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 409
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e916542cc4c36b0800000000000000
+      internalID: -5315289062932636035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_104
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 409
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ff6a6989fc64cf0800000000000000
+      internalID: -268298873512460513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_105
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 408
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9d15509f75cd900800000000000000
+      internalID: 710539568265419239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_106
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 407
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3647ff8ea1b1980800000000000000
+      internalID: -8567224278121684036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_107
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 309
+        width: 75
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b61ff136071fb7b0800000000000000
+      internalID: -5206417328840960329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_108
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 404
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df258e766df1f7a0800000000000000
+      internalID: -6345011783337168942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_109
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 409
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15099c352ff091970800000000000000
+      internalID: 8726023286469267537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_110
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 406
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a17da2d16dbc620800000000000000
+      internalID: 2795563414474660461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_111
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 404
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c53948107b3bbd0800000000000000
+      internalID: -2615545741425026037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_112
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 408
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5176dc31c312b18f0800000000000000
+      internalID: -568824386018253035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_113
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 404
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81db2268c89db2ad0800000000000000
+      internalID: -2725845951873630952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_114
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 390
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66b4ac0a3b9ea7a0800000000000000
+      internalID: -6363978549805402517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_115
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 401
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e12137a887afd650800000000000000
+      internalID: 6259906212430684644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_116
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 409
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3b6328f59a1bed0800000000000000
+      internalID: -2399950898740153380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_117
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 405
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782def14f636b9190800000000000000
+      internalID: -7954654987320110457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_118
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 408
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a606fb7bb2f0600800000000000000
+      internalID: 436615757068003994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_119
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 394
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b833c37ec4376d0800000000000000
+      internalID: -2993964771240080625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 371
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9675056b297874d0800000000000000
+      internalID: -3136623913178138982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_121
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 389
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34667e7bcfb8993c0800000000000000
+      internalID: -4352293647343458749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_122
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 393
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ccc8736dadcb790800000000000000
+      internalID: -7512889464770999240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_123
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 402
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a37f844112d7640800000000000000
+      internalID: 5079252325751011948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_124
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 391
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654f4f995ddaa3e20800000000000000
+      internalID: 3331166007316509782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_125
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 382
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e721252e3db7900800000000000000
+      internalID: 683372737469775467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_126
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 378
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4da5729801aa4fe0800000000000000
+      internalID: -1203972892179190450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_127
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 390
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02586eb71cd7e9780800000000000000
+      internalID: -8674357562308131552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_128
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 386
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91601615a4f755be0800000000000000
+      internalID: -1489144144606460391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_129
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 388
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1883c9eb0ad655fa0800000000000000
+      internalID: -5812619206891652991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_130
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 378
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37aad8d3fbbb9a9a0800000000000000
+      internalID: -6221234980189787533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_131
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 373
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba2d1cbac83e1330800000000000000
+      internalID: 3683443988626221751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_132
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 383
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19a04b21a5e6b250800000000000000
+      internalID: 5960203637249583391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_133
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 389
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0564e0c24b8ae3f0800000000000000
+      internalID: -870730459122473716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_134
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 387
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448df0380b41323f0800000000000000
+      internalID: -926874349962536892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_135
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 387
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadc66a562c4c3ad0800000000000000
+      internalID: -2721216347229467218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_136
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 361
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a111b79852cbf0b90800000000000000
+      internalID: -7273388003773705958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_137
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 361
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e70581786fa2c30800000000000000
+      internalID: 4335548651386469944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_138
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 381
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8678c79e6a9dbd0800000000000000
+      internalID: -2604867387710281527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_139
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 372
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfe3c5adda88ffb0800000000000000
+      internalID: -4613785133667586096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_140
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 378
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926689172fe7f4270800000000000000
+      internalID: 8236941823236924969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_141
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 378
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ebf9ed9c4c66ed0800000000000000
+      internalID: -2421031378362581375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_142
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 377
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc074922f71548a0800000000000000
+      internalID: -6321620173102576438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_143
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 375
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b4092294048ed30800000000000000
+      internalID: 4460886113767148354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_144
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 381
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98655a908e61838e0800000000000000
+      internalID: -1713594472364419447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_145
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 377
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc7b1ea192223a30800000000000000
+      internalID: 4193452212121992443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_146
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 369
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db48833ea689a380800000000000000
+      internalID: -8959481900929889325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_147
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 369
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdb8396a26fdf4a0800000000000000
+      internalID: -6557814820367188536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_148
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 371
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe908180a0986fb0800000000000000
+      internalID: -4654311195845550405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_149
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 366
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225b740b285cd20f0800000000000000
+      internalID: -1140037965560957662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_150
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 366
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17023780629567f0800000000000000
+      internalID: -619928430410856674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_151
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 371
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5909746281bd4b0800000000000000
+      internalID: -5414707574294407740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_152
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 369
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f043bf26ac46cb70800000000000000
+      internalID: 8918900388702404852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_153
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 373
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e52f0439523c5a0800000000000000
+      internalID: -6502312122612818355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_154
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 353
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e590834f8e08410800000000000000
+      internalID: 1477436813387324993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_155
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 366
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65db4242ac48a2f10800000000000000
+      internalID: 2245753367922261334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_156
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 366
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6943a70bcf9e71850800000000000000
+      internalID: 6347799471303832726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_157
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 348
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63569bd9db3170ec0800000000000000
+      internalID: -3600887671943502538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_158
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 352
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdd3b6110ab8f3a0800000000000000
+      internalID: -6631345937464435273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_159
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 352
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fd3f920731a78a0800000000000000
+      internalID: -6306706955717845101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_160
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 353
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db6e01ed1cd5aaa0800000000000000
+      internalID: -6150267695216563243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_161
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 322
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82573121115aef50800000000000000
+      internalID: 6911425712167015053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_162
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 353
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbeb75bf25d2b240800000000000000
+      internalID: 4806138153242717182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_163
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 322
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f36ac6dbfaf2270800000000000000
+      internalID: 8227988272335699762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_164
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 305
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5d387c6b8389e30800000000000000
+      internalID: 4510417384494061007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_165
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 266
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0534b06b51f63d0800000000000000
+      internalID: -3211324137674682137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_166
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 305
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd876fa0c9a071bf0800000000000000
+      internalID: -353802380410193700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_167
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 266
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ad8fe4959ae20b0800000000000000
+      internalID: -5751473473063429501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_168
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 266
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44eb908b435a79ce0800000000000000
+      internalID: -1398467513430720956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_169
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 247
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3428474aab1f21db0800000000000000
+      internalID: -4822526467035069885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_170
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 198
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee59ba04e4f7bd90800000000000000
+      internalID: -7081922628747174169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_171
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 229
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26cd2bc2c4a58da0800000000000000
+      internalID: -5943162976706116050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_172
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 194
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa5220883adae260800000000000000
+      internalID: 7127749296469990140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_173
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 240
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6f15aa2338942c0800000000000000
+      internalID: -4446878903422552333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_174
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 116
+        width: 94
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6173e93a81db26eb0800000000000000
+      internalID: -4728008745263679722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_175
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 193
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d912de1c6f6c4a0800000000000000
+      internalID: -6573295293333135977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_176
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 209
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166490247c53c3ba0800000000000000
+      internalID: -6107947864698567071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_177
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 197
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35470b58be3af0a0800000000000000
+      internalID: -6847091321941310149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_178
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 146
+        width: 108
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87eb79ac1cbb44a0800000000000000
+      internalID: -6607981196947495027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_179
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 116
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71355b7d18de23fa0800000000000000
+      internalID: -5822330226311081193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_180
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 152
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f7af76729754fb0800000000000000
+      internalID: -4664188628917125245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_181
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 160
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83095a83866804430800000000000000
+      internalID: 3765157070666829880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_182
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 121
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46842f2c5009ec5c0800000000000000
+      internalID: -4193255848615458716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_183
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 146
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d179671e2ac514730800000000000000
+      internalID: 3981565400209331997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_184
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 104
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f918fd8e52ba4d50800000000000000
+      internalID: 6722381512982403577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_185
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 65
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79d4682287f62a60800000000000000
+      internalID: 7649073155530873213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_186
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 90
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dc1d2f30ee05500800000000000000
+      internalID: 383067669052640531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_187
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 65
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54dcf5a757f5f4980800000000000000
+      internalID: -8552512209184371387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_188
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 65
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6852837c05a34a6f0800000000000000
+      internalID: -674349925584591482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_189
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 67
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081c2b52f6b7bd0b0800000000000000
+      internalID: -5702828785830542976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_190
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 68
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cb1f0fce18aa7c0800000000000000
+      internalID: -4059289259466441616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_191
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7810001bc7b371590800000000000000
+      internalID: -7703623230862392953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_192
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 70
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1856942a8e996a0800000000000000
+      internalID: -6441862008263048773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_193
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 70
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff9d5da619c20fb0800000000000000
+      internalID: -4682959563276836879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_194
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 70
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd938c03658d35210800000000000000
+      internalID: 1320636980446902747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_195
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29eb947cc1f457aa0800000000000000
+      internalID: -6163933529965478254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_196
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 51
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbf614035b6cc6f0800000000000000
+      internalID: -663037040835232837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_197
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 52
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1174d49275e473370800000000000000
+      internalID: 8302190574342850321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_198
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29a9434a8258a900800000000000000
+      internalID: 695896896216607023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_199
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 53
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc8eb4245f7a93d0800000000000000
+      internalID: -3199104585922867980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_200
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 9
+        width: 130
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f6d7970a34ddee0800000000000000
+      internalID: -1234756366317555835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_201
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 34
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb3b1153a248f700800000000000000
+      internalID: 574282221697579963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_202
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 35
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8cffcda09889ff0800000000000000
+      internalID: -29122717827479314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_203
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 36
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a345b89552c3e3f50800000000000000
+      internalID: 6862989013272974394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_204
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 36
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd08c6f378acd890800000000000000
+      internalID: -7431880069053149767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_205
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 36
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc2e2f5b5e1e1150800000000000000
+      internalID: 5845142744161201352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_206
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 17
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0fe6d5bfc9912a0800000000000000
+      internalID: -6766204361729183494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_207
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc2c57d1f89b32c0800000000000000
+      internalID: -4450795642257920782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_208
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43485459a126311d0800000000000000
+      internalID: -3381251028912077772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_209
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f81be98ee0a56270800000000000000
+      internalID: 8243171639348107508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmJungleDayScene_210
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 19
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4392acc5a8d74240800000000000000
+      internalID: 4776024136464110411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rmJungleDayScene_0: -984775832747578890
+      rmJungleDayScene_1: 2426677391765730108
+      rmJungleDayScene_10: -2819134977558097592
+      rmJungleDayScene_100: -6933358633003790958
+      rmJungleDayScene_101: -3970653721818499521
+      rmJungleDayScene_102: -6061001570448145266
+      rmJungleDayScene_103: -5315289062932636035
+      rmJungleDayScene_104: -268298873512460513
+      rmJungleDayScene_105: 710539568265419239
+      rmJungleDayScene_106: -8567224278121684036
+      rmJungleDayScene_107: -5206417328840960329
+      rmJungleDayScene_108: -6345011783337168942
+      rmJungleDayScene_109: 8726023286469267537
+      rmJungleDayScene_11: 7938352344701849705
+      rmJungleDayScene_110: 2795563414474660461
+      rmJungleDayScene_111: -2615545741425026037
+      rmJungleDayScene_112: -568824386018253035
+      rmJungleDayScene_113: -2725845951873630952
+      rmJungleDayScene_114: -6363978549805402517
+      rmJungleDayScene_115: 6259906212430684644
+      rmJungleDayScene_116: -2399950898740153380
+      rmJungleDayScene_117: -7954654987320110457
+      rmJungleDayScene_118: 436615757068003994
+      rmJungleDayScene_119: -2993964771240080625
+      rmJungleDayScene_12: -5828889996661624971
+      rmJungleDayScene_120: -3136623913178138982
+      rmJungleDayScene_121: -4352293647343458749
+      rmJungleDayScene_122: -7512889464770999240
+      rmJungleDayScene_123: 5079252325751011948
+      rmJungleDayScene_124: 3331166007316509782
+      rmJungleDayScene_125: 683372737469775467
+      rmJungleDayScene_126: -1203972892179190450
+      rmJungleDayScene_127: -8674357562308131552
+      rmJungleDayScene_128: -1489144144606460391
+      rmJungleDayScene_129: -5812619206891652991
+      rmJungleDayScene_13: 8568629392494505486
+      rmJungleDayScene_130: -6221234980189787533
+      rmJungleDayScene_131: 3683443988626221751
+      rmJungleDayScene_132: 5960203637249583391
+      rmJungleDayScene_133: -870730459122473716
+      rmJungleDayScene_134: -926874349962536892
+      rmJungleDayScene_135: -2721216347229467218
+      rmJungleDayScene_136: -7273388003773705958
+      rmJungleDayScene_137: 4335548651386469944
+      rmJungleDayScene_138: -2604867387710281527
+      rmJungleDayScene_139: -4613785133667586096
+      rmJungleDayScene_14: 1178423657497362640
+      rmJungleDayScene_140: 8236941823236924969
+      rmJungleDayScene_141: -2421031378362581375
+      rmJungleDayScene_142: -6321620173102576438
+      rmJungleDayScene_143: 4460886113767148354
+      rmJungleDayScene_144: -1713594472364419447
+      rmJungleDayScene_145: 4193452212121992443
+      rmJungleDayScene_146: -8959481900929889325
+      rmJungleDayScene_147: -6557814820367188536
+      rmJungleDayScene_148: -4654311195845550405
+      rmJungleDayScene_149: -1140037965560957662
+      rmJungleDayScene_15: -5876273463058448609
+      rmJungleDayScene_150: -619928430410856674
+      rmJungleDayScene_151: -5414707574294407740
+      rmJungleDayScene_152: 8918900388702404852
+      rmJungleDayScene_153: -6502312122612818355
+      rmJungleDayScene_154: 1477436813387324993
+      rmJungleDayScene_155: 2245753367922261334
+      rmJungleDayScene_156: 6347799471303832726
+      rmJungleDayScene_157: -3600887671943502538
+      rmJungleDayScene_158: -6631345937464435273
+      rmJungleDayScene_159: -6306706955717845101
+      rmJungleDayScene_16: 6582972578269947821
+      rmJungleDayScene_160: -6150267695216563243
+      rmJungleDayScene_161: 6911425712167015053
+      rmJungleDayScene_162: 4806138153242717182
+      rmJungleDayScene_163: 8227988272335699762
+      rmJungleDayScene_164: 4510417384494061007
+      rmJungleDayScene_165: -3211324137674682137
+      rmJungleDayScene_166: -353802380410193700
+      rmJungleDayScene_167: -5751473473063429501
+      rmJungleDayScene_168: -1398467513430720956
+      rmJungleDayScene_169: -4822526467035069885
+      rmJungleDayScene_17: -7468549543316500276
+      rmJungleDayScene_170: -7081922628747174169
+      rmJungleDayScene_171: -5943162976706116050
+      rmJungleDayScene_172: 7127749296469990140
+      rmJungleDayScene_173: -4446878903422552333
+      rmJungleDayScene_174: -4728008745263679722
+      rmJungleDayScene_175: -6573295293333135977
+      rmJungleDayScene_176: -6107947864698567071
+      rmJungleDayScene_177: -6847091321941310149
+      rmJungleDayScene_178: -6607981196947495027
+      rmJungleDayScene_179: -5822330226311081193
+      rmJungleDayScene_18: -3825999954560335847
+      rmJungleDayScene_180: -4664188628917125245
+      rmJungleDayScene_181: 3765157070666829880
+      rmJungleDayScene_182: -4193255848615458716
+      rmJungleDayScene_183: 3981565400209331997
+      rmJungleDayScene_184: 6722381512982403577
+      rmJungleDayScene_185: 7649073155530873213
+      rmJungleDayScene_186: 383067669052640531
+      rmJungleDayScene_187: -8552512209184371387
+      rmJungleDayScene_188: -674349925584591482
+      rmJungleDayScene_189: -5702828785830542976
+      rmJungleDayScene_19: 8990714693940667422
+      rmJungleDayScene_190: -4059289259466441616
+      rmJungleDayScene_191: -7703623230862392953
+      rmJungleDayScene_192: -6441862008263048773
+      rmJungleDayScene_193: -4682959563276836879
+      rmJungleDayScene_194: 1320636980446902747
+      rmJungleDayScene_195: -6163933529965478254
+      rmJungleDayScene_196: -663037040835232837
+      rmJungleDayScene_197: 8302190574342850321
+      rmJungleDayScene_198: 695896896216607023
+      rmJungleDayScene_199: -3199104585922867980
+      rmJungleDayScene_2: 3185900407695697298
+      rmJungleDayScene_20: -6291433547404466920
+      rmJungleDayScene_200: -1234756366317555835
+      rmJungleDayScene_201: 574282221697579963
+      rmJungleDayScene_202: -29122717827479314
+      rmJungleDayScene_203: 6862989013272974394
+      rmJungleDayScene_204: -7431880069053149767
+      rmJungleDayScene_205: 5845142744161201352
+      rmJungleDayScene_206: -6766204361729183494
+      rmJungleDayScene_207: -4450795642257920782
+      rmJungleDayScene_208: -3381251028912077772
+      rmJungleDayScene_209: 8243171639348107508
+      rmJungleDayScene_21: -3430739203788072908
+      rmJungleDayScene_210: 4776024136464110411
+      rmJungleDayScene_22: 8950673043599305992
+      rmJungleDayScene_23: 8994174461113752381
+      rmJungleDayScene_24: -3011573199417846514
+      rmJungleDayScene_25: -7767831181008699943
+      rmJungleDayScene_26: -8056788494590324051
+      rmJungleDayScene_27: 5430034488230585607
+      rmJungleDayScene_28: -8523264119164257462
+      rmJungleDayScene_29: 7241582066826539304
+      rmJungleDayScene_3: -2744735738437416752
+      rmJungleDayScene_30: 241265656940417106
+      rmJungleDayScene_31: 6176401140267732070
+      rmJungleDayScene_32: -6769949544814822075
+      rmJungleDayScene_33: 5989775012086429066
+      rmJungleDayScene_34: -7623905064132636381
+      rmJungleDayScene_35: 5772664763685182843
+      rmJungleDayScene_36: -330954433975758659
+      rmJungleDayScene_37: -6966980738944750376
+      rmJungleDayScene_38: 1149239841508458959
+      rmJungleDayScene_39: -8886782403426744024
+      rmJungleDayScene_4: 2141420958593153575
+      rmJungleDayScene_40: -7126424419594625011
+      rmJungleDayScene_41: -2403254868713242552
+      rmJungleDayScene_42: -2087016341666514900
+      rmJungleDayScene_43: -1359558680047154174
+      rmJungleDayScene_44: -8763088634866023030
+      rmJungleDayScene_45: 6908062077251625540
+      rmJungleDayScene_46: -6765602822834039173
+      rmJungleDayScene_47: -7483228545258484220
+      rmJungleDayScene_48: 4869653527567931744
+      rmJungleDayScene_49: -6243362823263131622
+      rmJungleDayScene_5: 5340862458059948841
+      rmJungleDayScene_50: 332052990801892439
+      rmJungleDayScene_51: 5957069480942925344
+      rmJungleDayScene_52: 7159220188888945406
+      rmJungleDayScene_53: 362512081173221896
+      rmJungleDayScene_54: 6901758624709260511
+      rmJungleDayScene_55: -909868294339389641
+      rmJungleDayScene_56: 7047602314859463345
+      rmJungleDayScene_57: -3467211201051012688
+      rmJungleDayScene_58: -975882374626087020
+      rmJungleDayScene_59: 4564834777899254098
+      rmJungleDayScene_6: 4616254861389983431
+      rmJungleDayScene_60: -2643435940448776234
+      rmJungleDayScene_61: 1325506088798544536
+      rmJungleDayScene_62: 7443877649038157037
+      rmJungleDayScene_63: 9193899984034477919
+      rmJungleDayScene_64: 4117984492943011230
+      rmJungleDayScene_65: -7157692052649275112
+      rmJungleDayScene_66: -6846103999376785601
+      rmJungleDayScene_67: -6752911508062518749
+      rmJungleDayScene_68: -7657044596789514502
+      rmJungleDayScene_69: 6528676003406797293
+      rmJungleDayScene_7: 2751288247907529798
+      rmJungleDayScene_70: -1190879501189051951
+      rmJungleDayScene_71: -8499206216678910790
+      rmJungleDayScene_72: -7049644793754932384
+      rmJungleDayScene_73: -7688653836595287065
+      rmJungleDayScene_74: 6633510231239233768
+      rmJungleDayScene_75: 3662203193545197788
+      rmJungleDayScene_76: 949564568522808449
+      rmJungleDayScene_77: -3885284769394678186
+      rmJungleDayScene_78: -1088728400885124271
+      rmJungleDayScene_79: -4758512077815100760
+      rmJungleDayScene_8: -6638991686989674230
+      rmJungleDayScene_80: 4182860909979285377
+      rmJungleDayScene_81: -2990738216266431470
+      rmJungleDayScene_82: 6879891533819405490
+      rmJungleDayScene_83: 1495384158904219597
+      rmJungleDayScene_84: 5595020821694351811
+      rmJungleDayScene_85: -7206288363985982679
+      rmJungleDayScene_86: -3106650078385706590
+      rmJungleDayScene_87: -1607977490836267765
+      rmJungleDayScene_88: -5756330548646892083
+      rmJungleDayScene_89: 6305274937557022235
+      rmJungleDayScene_9: 4219017249344535524
+      rmJungleDayScene_90: 5820992903424141351
+      rmJungleDayScene_91: -757588226260073027
+      rmJungleDayScene_92: 287374347111844718
+      rmJungleDayScene_93: -5729357843912834816
+      rmJungleDayScene_94: -2798744588965358779
+      rmJungleDayScene_95: 7020604953332799434
+      rmJungleDayScene_96: 1270601104910993944
+      rmJungleDayScene_97: 4261332359630422985
+      rmJungleDayScene_98: 4901919353612038800
+      rmJungleDayScene_99: 1202141820544238088
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
