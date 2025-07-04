@@ -16,7 +16,7 @@ public class AgenteExplorador : MonoBehaviour
 
     void Start()
     {
-        // 🔷 Garantiza que ColaHiloPrincipal exista en la escena
+        // Garantiza que ColaHiloPrincipal exista en la escena
         if (ColaHiloPrincipal.Instancia == null)
         {
             GameObject obj = new GameObject("ColaHiloPrincipal");
